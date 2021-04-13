@@ -1,10 +1,10 @@
 ## Hola, soy Leandro 👋
 
-Soy Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos técnicos.
+Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos técnicos.
 
-Soy una apasionado por la profesión, lo que me mantiene en constante aprendizaje. Me considero pragmático, flexible y organizado. Siempre estoy dispuesto a aprender y a brindar mi ayuda. Me motivan los proyectos a largo plazo pero también disfruto resolver problemas. A lo largo de mi carrera he trabajado como Desarrollador, Analista Técnico Funcional, Líder de Proyectos y Coordinador de Desarrollo.
+Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me considero pragmático, flexible y organizado. Siempre estoy dispuesto a aprender y a brindar mi ayuda. Me motivan los proyectos a largo plazo pero también disfruto resolver problemas. A lo largo de mi carrera he trabajado como Desarrollador, Analista Técnico Funcional, Líder de Proyectos y Coordinador de Desarrollo.
 
-Las tecnologías en las que me siento mas cómodo:
+**Las tecnologías en las que me siento mas cómodo:**
 - Javascript
 - Node
 - React
@@ -14,14 +14,14 @@ Las tecnologías en las que me siento mas cómodo:
 - Mongo
 - Bootstrap
 
-Las que quiero aprender:
+**Las que quiero aprender:**
 - Python
 - Tailwind
 - Flutter
 
+**Mi portafolio** -> https://www.leandroarturi.com.ar 
 
-
-| Mi portafolio -> https://www.leandroarturi.com.ar ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&theme=tokyonight)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&theme=tokyonight)
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=larturi.larturi)
 
