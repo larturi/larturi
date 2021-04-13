@@ -21,13 +21,14 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 
 **Mi portafolio** -> https://www.leandroarturi.com.ar 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&theme=tokyonight)
- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&hide_langs_below=1)](https://github.com/larturi/github-readme-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=larturi.larturi)
 
 [![Github](https://img.shields.io/github/followers/larturi?label=Follow&style=social)](https://github.com/larturi)
 
-![Metrics](https://my-personal-domain.com/my-github-user)
 
 https://ionicabizau.github.io/github-profile-languages/api.html?larturi
 
