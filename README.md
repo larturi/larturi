@@ -4,7 +4,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 
 Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me considero pragmático, flexible y organizado. Siempre estoy dispuesto a aprender y a brindar mi ayuda. Me motivan los proyectos a largo plazo pero también disfruto resolver problemas. A lo largo de mi carrera he trabajado como Desarrollador, Analista Técnico Funcional, Líder de Proyectos y Coordinador de Desarrollo.
 
-**Las tecnologías en las que me siento mas cómodo:**
+⚡️ **Las tecnologías en las que me siento mas cómodo:** 
 - Javascript
 - Node
 - React
@@ -14,7 +14,7 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 - Mongo
 - Bootstrap
 
-**Las que quiero aprender:**
+🚀 **Las que quiero aprender:** 
 - Python
 - Tailwind
 - Flutter
@@ -29,6 +29,7 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 
 ![Metrics](https://my-personal-domain.com/my-github-user)
 
+https://ionicabizau.github.io/github-profile-languages/api.html?larturi
 
 
 
