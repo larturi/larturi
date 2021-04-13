@@ -21,7 +21,7 @@ Las que quiero aprender:
 
 Mi portafolio -> https://www.leandroarturi.com.ar 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=cobalt) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&theme=tokyonight)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&theme=tokyonight)
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=larturi.larturi)
 
