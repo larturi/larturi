@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hola, soy Leandro 👋
 
-<!--
-**larturi/larturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Soy Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una apasionado por la profesión, lo que me mantiene en constante aprendizaje. Me considero pragmático, flexible y organizado. Siempre estoy dispuesto a aprender y a brindar mi ayuda. Me motivan los proyectos a largo plazo pero también disfruto resolver problemas. A lo largo de mi carrera he trabajado como Desarrollador, Analista Técnico Funcional, Líder de Proyectos y Coordinador de Desarrollo.
+
+Las tecnologías en las que me siento mas cómodo:
+- Javascript
+- Node
+- React
+- Php 
+- Laravel
+- MySql
+- Mongo
+- Bootstrap
+
+Las que quiero aprender:
+- Python
+- Tailwind
+- Flutter
+
+Mi portafolio -> https://www.leandroarturi.com.ar 
