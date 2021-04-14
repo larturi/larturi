@@ -23,13 +23,6 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 
 **Mi portafolio** -> https://www.leandroarturi.com.ar 
 
-![Larturi's github stats](https://github-readme-stats.vercel.app/api?username=larturi&hide=["prs","issues","contribs"])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larturi&hide_langs_below=1)](https://github.com/larturi/github-readme-stats)
-
-
-
-
 
 
 
