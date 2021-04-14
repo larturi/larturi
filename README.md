@@ -6,12 +6,11 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 
 [![Github](https://img.shields.io/github/followers/larturi?label=Follow&style=social)](https://github.com/larturi)
 
-⚡️ **Las tecnologías en las que me siento mas cómodo:** 
+⚡️ **Lenguajes:** 
 
 ![Javascript](https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074)
 
-![TypeScript]
-(https://camo.githubusercontent.com/0e2611d64293f3676d77ce51169403831b38612be97ade095abebd1350c1b12a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074)
+![Typescript](https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074)
 
 - Node
 - React
