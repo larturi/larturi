@@ -7,13 +7,14 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 [![Github](https://img.shields.io/github/followers/larturi?label=Follow&style=social)](https://github.com/larturi)
 
 ⚡️ **Lenguajes:** 
-
 - JavaScript
 - Node
 - React
+- Vue
 - Php 
 - Laravel
 - MySql
+- Oracle
 - Mongo
 - Bootstrap
 
