@@ -6,8 +6,9 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 
 [![Github](https://img.shields.io/github/followers/larturi?label=Follow&style=social)](https://github.com/larturi)
 
-⚡️ **Lenguajes:** 
+⚡️ **Tecnologías:** 
 - JavaScript
+- TypeScript
 - Node
 - React
 - Vue
@@ -17,10 +18,11 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 - Oracle
 - Mongo
 - Bootstrap
+- Angular
+- Tailwind
 
 🚀 **Quiero aprender:** 
 - Python
-- Tailwind
 - Flutter
 
 🌎 **Mi portafolio** -> https://www.leandroarturi.com.ar 
