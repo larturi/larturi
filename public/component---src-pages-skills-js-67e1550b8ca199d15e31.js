@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[785],{9900:function(e,t,r){"use strict";r.r(t);var a=r(7294),l=r(7152),u=r(3945),n=r(6846);t.default=function(e){return a.createElement(l.Z,{path:e.uri},a.createElement(n.Z,{title:"Leandro Arturi - Skills"}),a.createElement(u.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-skills-js-67e1550b8ca199d15e31.js.map
