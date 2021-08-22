@@ -20,13 +20,11 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 - Bootstrap
 - Angular
 - Tailwind
+- React Native
 
 🚀 **Quiero aprender:** 
 - Python
 - Flutter
 
 🌎 **Mi portafolio** -> https://www.leandroarturi.com.ar 
-
-
-
 
