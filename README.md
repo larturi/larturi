@@ -27,37 +27,38 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 
 ### React:
-1. [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client)
-2. [E-Commerce Games (Next)](https://github.com/larturi/react-ecommerce-client)
-3. [CRM con GraphQL](https://github.com/larturi/react-graphql-crm)
-4. [Chat MERN](https://github.com/larturi/react-chatapp-app)
-5. [Curriculum (Gatsby)](https://github.com/larturi/react-gatsby-curriculum)
-6. [MERN Tasks](https://github.com/larturi/react-mern-tasks)
-7. [Products Hunt](https://github.com/larturi/react-next-producthunt)
-8. [Rservas Hotel (Gatsby)](https://github.com/larturi/react-hotel-gatsby)
-9. [Todolist MERN](https://github.com/larturi/react-todolist-mern-cliente)
-10. [Buscador de Propiedades (Gatsby)](https://github.com/larturi/react-propiedades-front-gatsby)
-11. [Filetransfer App](https://github.com/larturi/react-filetransfer-cliente)
-12. [Google Calendar Clone](https://github.com/larturi/react-journal-app)
-13. [CRUD Productos (Redux)](https://github.com/larturi/react-redux-crud-productos)
-14. [Maps](https://github.com/larturi/react-mapas-client)
-15. [Buscador de Canciones](https://github.com/larturi/react-lyrics)
-16. [Criptomonedas App](https://github.com/larturi/react-criptomonedas)
-17. [Buscador de Heroes](https://github.com/larturi/react-heroes-app)
-18. [Noticias](https://github.com/larturi/react-noticias)
-19. [Citas](https://github.com/larturi/react-citas)
-20. [Breaking Bad Api](https://github.com/larturi/react-brakingbad-api)
-21. [Buscador de Gif](https://github.com/larturi/react-gift-app)
-22. [Buscador de Bebidas](https://github.com/larturi/react-drinks)
-23. [Tickets App](https://github.com/larturi/react-tickets-app)
-24. [Clima App](https://github.com/larturi/react-clima)
-25. [Presupuesto](https://github.com/larturi/react-presupuesto)
-26. [Cotizador de Seguros](https://github.com/larturi/react-cotizador)
-27. [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay)
+1. [Portfolio (Gatsby)](https://github.com/larturi/portfolio-gatsby)
+2. [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client)
+3. [E-Commerce Games (Next)](https://github.com/larturi/react-ecommerce-client)
+4. [CRM con GraphQL](https://github.com/larturi/react-graphql-crm)
+5. [Chat MERN](https://github.com/larturi/react-chatapp-app)
+6. [Curriculum (Gatsby)](https://github.com/larturi/react-gatsby-curriculum)
+7. [MERN Tasks](https://github.com/larturi/react-mern-tasks)
+8. [Products Hunt](https://github.com/larturi/react-next-producthunt)
+9. [Rservas Hotel (Gatsby)](https://github.com/larturi/react-hotel-gatsby)
+10. [Todolist MERN](https://github.com/larturi/react-todolist-mern-cliente)
+11. [Buscador de Propiedades (Gatsby)](https://github.com/larturi/react-propiedades-front-gatsby)
+12. [Filetransfer App](https://github.com/larturi/react-filetransfer-cliente)
+13. [Google Calendar Clone](https://github.com/larturi/react-journal-app)
+14. [CRUD Productos (Redux)](https://github.com/larturi/react-redux-crud-productos)
+15. [Maps](https://github.com/larturi/react-mapas-client)
+16. [Buscador de Canciones](https://github.com/larturi/react-lyrics)
+17. [Criptomonedas App](https://github.com/larturi/react-criptomonedas)
+18. [Buscador de Heroes](https://github.com/larturi/react-heroes-app)
+19. [Noticias](https://github.com/larturi/react-noticias)
+20. [Citas](https://github.com/larturi/react-citas)
+21. [Breaking Bad Api](https://github.com/larturi/react-brakingbad-api)
+22. [Buscador de Gif](https://github.com/larturi/react-gift-app)
+23. [Buscador de Bebidas](https://github.com/larturi/react-drinks)
+24. [Tickets App](https://github.com/larturi/react-tickets-app)
+25. [Clima App](https://github.com/larturi/react-clima)
+26. [Presupuesto](https://github.com/larturi/react-presupuesto)
+27. [Cotizador de Seguros](https://github.com/larturi/react-cotizador)
+28. [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay)
 
 
 ### Vue:
-1. [Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client)
+1. [Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client) / [Server](https://github.com/larturi/laravel-vue-todolist-backend)
 2. [Matafuegos (Nuxt)](https://github.com/larturi/vue-nuxt-matafuegos)
 3. [Chat Firebase](https://github.com/larturi/vue-auth-bd-chat-firebase)
 4. [Buscador de Banderas](https://github.com/larturi/vue-buscador-banderas)
@@ -86,17 +87,19 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 16. [Chat](https://github.com/larturi/node-socket-chat)
 17. [Terminal TodoApp II](https://github.com/larturi/node-todolist-app)
 
+### Laravel:
+1. [Todolist Nuxt (Server)](https://github.com/larturi/laravel-vue-todolist-backend) / [Client](https://github.com/larturi/vue-nuxt-todolist-client)
+2. [Turnos](https://github.com/larturi/laravel-cartera-sistemas)
+3. [Turnos](https://github.com/larturi/laravel-devJobs)
+4. [Turnos](https://github.com/larturi/laravel-recetas-cocina)
+5. [Turnos](https://github.com/larturi/laravel-establecimientos)
+6. [Turnos](https://github.com/larturi/laravel-abm)
+7. [Turnos](https://github.com/larturi/laravel-abm2)
 
 
 
 
 - JavaScript
-- TypeScript
-- Node
-- React
-- Vue
-- Php 
-- Laravel
 - MySql
 - Oracle
 - Mongo
