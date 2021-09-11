@@ -69,6 +69,21 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 8. Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
 9. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
+### Vanilla JS:
+1. Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
+2. BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
+3. Blackjack: [JavaScript](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
+4. Simon: [JavaScript](https://github.com/larturi/js-simon)
+5. The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test)
+6. Todolist: [JavaScript](https://github.com/larturi/js-todolist2)
+
+### Bootstrap:
+1. Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social)
+2. Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
+3. Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
+4. Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
+
+
 ## Backend:
 
 ### Node:
@@ -95,9 +110,20 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 22. Chat: [Node](https://github.com/larturi/node-socket-chat)
 23. Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 
+### Python:
+1. Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
+
+### Django:
+1. Blog: [Django](https://github.com/larturi/django-rest-blog-full)
+2. Profiles: [Django](https://github.com/larturi/django-profiles-api)
+3. Polls: [Django](https://github.com/larturi/django_polls)
+4. Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
+5. Rest Api PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
+
+
 ### Laravel:
 1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
-2. Cartera de Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
+2. Cartera Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
 3. Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
 4. Red Social Recetas: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
 5. Establecimientos: [Laravel](https://github.com/larturi/laravel-establecimientos)
@@ -109,18 +135,5 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 ### Ionic:
 1. Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
-
-
-
-- JavaScript
-- MySql
-- Oracle
-- Mongo
-- Bootstrap
-- Tailwind
-- React Native
-
-
-
 
 
