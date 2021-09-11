@@ -19,7 +19,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 8. Products Hunt: [Next & Firebase](https://github.com/larturi/react-next-producthunt) / [Demo](https://product-hunt-1f8d8.web.app)
 9. Hotel Gatsby: [Gatsby](https://github.com/larturi/react-hotel-gatsby)
 10. Todolist MERN: [React](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
-11. Buscador Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
+11. Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
 12. Filetransfer: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
 13. Calendar: [React & Firebase](https://github.com/larturi/react-journal-app)
 14. CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
@@ -30,8 +30,8 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 19. Noticias App: [React](https://github.com/larturi/react-noticias)
 20. Citas App: [React](https://github.com/larturi/react-citas)
 21. Breaking Bad App: [React](https://github.com/larturi/react-brakingbad-api)
-22. Buscador de Gif: [React](https://github.com/larturi/react-gift-app)
-23. Buscador de Bebidas: [React](https://github.com/larturi/react-drinks)
+22. Giphy App: [React](https://github.com/larturi/react-gift-app) / [Demo](http://cloudapp.com.ar/demo/gif-react)
+23. Drinks App: [React](https://github.com/larturi/react-drinks) / [Demo](http://cloudapp.com.ar/demo/drinks)
 24. Tickets App: [React](https://github.com/larturi/react-tickets-app)
 25. Clima App: [React](https://github.com/larturi/react-clima)
 26. Presupuesto: [React](https://github.com/larturi/react-presupuesto)
@@ -84,6 +84,8 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 ### Tailwind:
 1. Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
+
+
 
 
 ## Backend:
