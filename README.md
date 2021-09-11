@@ -2,11 +2,34 @@
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos técnicos.
 
-Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me considero pragmático, flexible y organizado. Siempre estoy dispuesto a aprender y a brindar mi ayuda. Me motivan los proyectos a largo plazo pero también disfruto resolver problemas. A lo largo de mi carrera he trabajado como Desarrollador, Analista Técnico Funcional, Líder de Proyectos y Coordinador de Desarrollo.
+🌎 **Mi portafolio:** https://www.leandroarturi.com.ar 
 
-[![Github](https://img.shields.io/github/followers/larturi?label=Follow&style=social)](https://github.com/larturi)
+## Repositorios:
 
-⚡️ **Tecnologías:** 
+### Angular:
+https://github.com/larturi/angular-buscador-heroes
+https://github.com/larturi/angular-peliculas
+https://github.com/larturi/angular-firechat
+https://github.com/larturi/angular-burguer-queen
+https://github.com/larturi/angular-dasboard-ddr
+https://github.com/larturi/angular-ddr-blog
+https://github.com/larturi/angular-graficos
+https://github.com/larturi/angular-mapas
+https://github.com/larturi/angular-todolist
+https://github.com/larturi/angular-reservas-peluqueria
+https://github.com/larturi/angular-drag-drop-paises
+https://github.com/larturi/angular-cocktails
+https://github.com/larturi/angular-contact-list
+https://github.com/larturi/angular-task-list
+https://github.com/larturi/angular-preguntas-respuestas
+https://github.com/larturi/angular-adminpro
+https://github.com/larturi/angular-goty
+https://github.com/larturi/angular-crud-firebase
+https://github.com/larturi/angular-maps-material
+https://github.com/larturi/angular-login-firebase
+https://github.com/larturi/angular-pipes
+
+
 - JavaScript
 - TypeScript
 - Node
@@ -18,13 +41,10 @@ Me apasiona la profesión, lo que me mantiene en constante aprendizaje. Me consi
 - Oracle
 - Mongo
 - Bootstrap
-- Angular
 - Tailwind
 - React Native
 
-🚀 **Quiero aprender:** 
-- Python
-- Flutter
 
-🌎 **Mi portafolio** -> https://www.leandroarturi.com.ar 
+
+
 
