@@ -1,4 +1,4 @@
-# Hola, soy Leandro 👋
+# Hola, soy Leandro 👋 🇦🇷
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
@@ -15,7 +15,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 ## React
 
-### ⚡️ Top
+### Top ⚡️
 - Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 - Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://kind-villani-ecfc48.netlify.app/)
 - E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
@@ -50,7 +50,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 ## Angular
 
-### ⚡️ Top
+### Top ⚡️
 - Burguers: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
 - Chat Angular: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
 - Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
@@ -72,10 +72,11 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 ## Vue
 
-
-### ⚡️ Top
+### Top ⚡️
 - Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
 - Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos)
+
+### More
 - Chat: [Vue](https://github.com/larturi/vue-auth-bd-chat-firebase)
 - Buscador de Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas)
 - CRUD Firebase: [Vue](https://github.com/larturi/vue-crud-firebase)
@@ -85,10 +86,14 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 - MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
 ## Vanilla JS
+
+### Top ⚡️
 - Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
 - BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
 - Blackjack: [JavaScript](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 - Simon: [JavaScript](https://github.com/larturi/js-simon)
+
+### More
 - The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test)
 - Todolist: [JavaScript](https://github.com/larturi/js-todolist2)
 
@@ -104,6 +109,8 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 # Backend
 
 ## Node
+
+### Top ⚡️
 - Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 - Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://kind-villani-ecfc48.netlify.app/)
 - E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
@@ -111,8 +118,10 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 - MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 - MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
 - Todolist MERN: [React](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
-- Buscador Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
 - Filetransfer App: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
+
+### More
+- Buscador Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
 - Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
 - Mapas MEAN: [Angular](https://github.com/larturi/angular-mapas) / [Node](https://github.com/larturi/node-mapas-server)
 - Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
@@ -143,22 +152,26 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 - PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
 
 ## Laravel
+
+### Top ⚡️
 - Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
 - Cartera Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
 - Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
 - Red Social Recetas: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
 - Establecimientos: [Laravel](https://github.com/larturi/laravel-establecimientos)
 - Hoy Jugamos: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
+
+### More
 - CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
 - CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
 
 ## Php
 - Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
 - Seis Sombreros: [Php](https://github.com/larturi/php-seis-sombreros) / [Demo](http://testsombreros.site/)
-- Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
 - Chistes: [Php](https://github.com/larturi/php-chistessincodificar) / [Demo](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
 - Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
 - Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
+- Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
 
 # Mobile
 
@@ -166,13 +179,21 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 - Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
 
 ## React Native
+
+### Top ⚡️
 - Películas: [React Native](https://github.com/larturi/react-native-peliculas)
 - Calculadora: [React Native](https://github.com/larturi/react-native-calculadora)
+
+### More
 - Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
 
 ## Flutter
+
+### Top ⚡️
 - Películas: [Flutter](https://github.com/larturi/flutter-peliculas)
 - News: [Flutter](https://github.com/larturi/flutter-news)
+
+### More
 - User Preferences: [Flutter](https://github.com/larturi/flutter-user-preferences)
 - QR: [Flutter](https://github.com/larturi/flutter-qr)
 - Diseños Flutter: [Flutter](https://github.com/larturi/flutter-disenos)
