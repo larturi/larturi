@@ -2,7 +2,13 @@
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
-🌎 **Mi portafolio:** https://www.leandroarturi.com.ar 
+**Portafolio:** https://www.leandroarturi.com.ar 
+**Twitter:** https://twitter.com/larturi_dev
+**LinkedIn:** https://www.linkedin.com/in/leandroarturi/ 
+
+# Repositorios
+
+A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 # Frontend
 
@@ -83,8 +89,6 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 ## Tailwind:
 1. Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
 
-<br />
-
 # Backend
 
 ## Node:
@@ -143,8 +147,6 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 4. Chistes: [Php](https://github.com/larturi/php-chistessincodificar) / [Demo](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
 5. Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
 6. Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
-
-<br />
 
 # Mobile
 
