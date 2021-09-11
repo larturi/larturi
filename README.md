@@ -27,6 +27,38 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 17. [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)
 
 
+### React:
+
+1. [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client)
+2. [E-Commerce Games (Next)](https://github.com/larturi/react-ecommerce-client)
+3. [CRM con GraphQL](https://github.com/larturi/react-graphql-crm)
+4. [Chat](https://github.com/larturi/react-chatapp-app)
+5. [Curriculum (Gatsby)](https://github.com/larturi/react-gatsby-curriculum)
+6. [MERN Tasks](https://github.com/larturi/react-mern-tasks)
+7. [Products Hunt](https://github.com/larturi/react-next-producthunt)
+8. [Rservas Hotel (Gatsby)](https://github.com/larturi/react-hotel-gatsby)
+9. [Todolist](https://github.com/larturi/react-todolist-mern-cliente)
+10. [Buscador de Propiedades (Gatsby)](https://github.com/larturi/react-propiedades-front-gatsby)
+11. [Filetransfer App](https://github.com/larturi/react-filetransfer-cliente)
+12. [Google Calendar Clone](https://github.com/larturi/react-journal-app)
+13. [CRUD Productos (Redux)](https://github.com/larturi/react-redux-crud-productos)
+14. [Maps](https://github.com/larturi/react-mapas-client)
+15. [Buscador de Canciones](https://github.com/larturi/react-lyrics)
+16. [Criptomonedas App](https://github.com/larturi/react-criptomonedas)
+17. [Buscador de Heroes](https://github.com/larturi/react-heroes-app)
+18. [Noticias](https://github.com/larturi/react-noticias)
+19. [Citas](https://github.com/larturi/react-citas)
+20. [Breaking Bad Api](https://github.com/larturi/react-brakingbad-api)
+21. [Buscador de Gif](https://github.com/larturi/react-gift-app)
+22. [Buscador de Bebidas](https://github.com/larturi/react-drinks)
+23. [Tickets App](https://github.com/larturi/react-tickets-app)
+24. [Clima App](https://github.com/larturi/react-clima)
+25. [Presupuesto](https://github.com/larturi/react-presupuesto)
+26. [Cotizador de Seguros](https://github.com/larturi/react-cotizador)
+27. [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay)
+
+
+
 - JavaScript
 - TypeScript
 - Node
