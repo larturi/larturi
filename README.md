@@ -57,15 +57,15 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 
 
 ### Vue:
-[Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client)
-[Matafuegos (Nuxt)](https://github.com/larturi/vue-nuxt-matafuegos)
-[Chat Firebase](https://github.com/larturi/vue-auth-bd-chat-firebase)
-[Buscador de Banderas](https://github.com/larturi/vue-buscador-banderas)
-[CRUD Firebase](https://github.com/larturi/vue-crud-firebase)
-[CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
-[Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
-[Composition PoC](https://github.com/larturi/vue-composition-poc)
-[CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
+1. [Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client)
+2. [Matafuegos (Nuxt)](https://github.com/larturi/vue-nuxt-matafuegos)
+3. [Chat Firebase](https://github.com/larturi/vue-auth-bd-chat-firebase)
+4. [Buscador de Banderas](https://github.com/larturi/vue-buscador-banderas)
+5. [CRUD Firebase](https://github.com/larturi/vue-crud-firebase)
+6. [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
+7. [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
+8. [Composition PoC](https://github.com/larturi/vue-composition-poc)
+9. [CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
 
 
 
