@@ -4,11 +4,9 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 🌎 **Mi portafolio:** https://www.leandroarturi.com.ar 
 
-# Repositorios:
+# Frontend
 
-## Frontend:
-
-### React:
+## React:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
 3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
@@ -39,7 +37,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 28. Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 29. Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 
-### Angular:
+## Angular:
 1. Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
 2. Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
 3. Chat Angular: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
@@ -57,7 +55,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 15. Game of the year: [Angular & Firebase](https://github.com/larturi/angular-goty)
 16. Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
 
-### Vue:
+## Vue:
 1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
 2. Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos)
 3. Chat: [Vue](https://github.com/larturi/vue-auth-bd-chat-firebase)
@@ -68,7 +66,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 8. Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
 9. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
-### Vanilla JS:
+## Vanilla JS:
 1. Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
 2. BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
 3. Blackjack: [JavaScript](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
@@ -76,21 +74,20 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 5. The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test)
 6. Todolist: [JavaScript](https://github.com/larturi/js-todolist2)
 
-### Bootstrap:
+## Bootstrap:
 1. Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social)
 2. Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
 3. Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
 4. Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
 
-### Tailwind:
+## Tailwind:
 1. Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
 
+<br />
 
+# Backend
 
-
-## Backend:
-
-### Node:
+## Node:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
 3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
@@ -116,20 +113,20 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 23. Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 24. Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 
-### Python:
+## Python:
 1. Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
 
-### Django:
+## Django:
 1. Blog: [Django](https://github.com/larturi/django-rest-blog-full)
 2. Profiles: [Django](https://github.com/larturi/django-profiles-api)
 3. Polls: [Django](https://github.com/larturi/django_polls)
 4. Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
 5. Rest Api PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
 
-### FastAPI:
+## FastAPI:
 1. PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
 
-### Laravel:
+## Laravel:
 1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
 2. Cartera Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
 3. Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
@@ -139,7 +136,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 7. CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
 8. CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
 
-### Php:
+## Php:
 1. Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
 2. Seis Sombreros: [Php](https://github.com/larturi/php-seis-sombreros) / [Demo](http://testsombreros.site/)
 3. Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
@@ -147,26 +144,24 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 5. Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
 6. Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
 
+<br />
 
+# Mobile
 
-
-## Mobile:
-
-### Ionic:
+## Ionic:
 1. Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
 
-### React Native:
+## React Native:
 1. Películas: [React Native](https://github.com/larturi/react-native-peliculas)
 2. Calculadora: [React Native](https://github.com/larturi/react-native-calculadora)
 3. Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
 
-### Flutter:
+## Flutter:
 1. Películas: [Flutter](https://github.com/larturi/flutter-peliculas)
 2. News: [Flutter](https://github.com/larturi/flutter-news)
 3. User Preferences: [Flutter](https://github.com/larturi/flutter-user-preferences)
 4. QR: [Flutter](https://github.com/larturi/flutter-qr)
 5. Diseños Flutter: [Flutter](https://github.com/larturi/flutter-disenos)
-
 
 
 
