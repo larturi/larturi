@@ -1,6 +1,6 @@
 ## Hola, soy Leandro 👋
 
-Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia en desarrollo de software, gestión de proyectos y coordinación de equipos técnicos.
+Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 🌎 **Mi portafolio:** https://www.leandroarturi.com.ar 
 
@@ -65,7 +65,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 6. [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
 7. [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
 8. [Composition PoC](https://github.com/larturi/vue-composition-poc)
-9. [CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
+9. [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
 
 ### Node:
 1. [CRM con GraphQL (Server)](https://github.com/larturi/node-graphql-crm)
@@ -75,25 +75,19 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 5. [Buscador de Propiedades (Server)](https://github.com/larturi/node-propiedades-back)
 6. [Tickets App (Server)](https://github.com/larturi/-node-tickets-app-server)
 7. [Mapas MEAN (Server)](https://github.com/larturi/node-mapas-server)
-8. [CRM con GraphQL (Server)](https://github.com/larturi/node-turnos)
-9. [CRM con GraphQL (Server)](https://github.com/larturi/node-graphql-crm)
-10. [CRM con GraphQL (Server)](https://github.com/larturi/node-graphql-crm)
+8. [Turnos](https://github.com/larturi/node-turnos)
+9. [FizzBuzz](https://github.com/larturi/node-ts-fizzbuzz)
+10. [MERN Tasks (Server)](https://github.com/larturi/node-mern-tasks)
+11. [Weather App](https://github.com/larturi/node-weather-app)
+12. [Clima App](https://github.com/larturi/node-clima)
+13. [MEVN CRUD PoC (Server)](https://github.com/larturi/vue-crud-node-backend)
+14. [Terminal TodoApp](https://github.com/larturi/node-por-hacer)
+15. [Node TypeScript MySQL (Server)](https://github.com/larturi/node-ts-mysql)
+16. [Chat](https://github.com/larturi/node-socket-chat)
+17. [Terminal TodoApp II](https://github.com/larturi/node-todolist-app)
 
 
 
-https://github.com/larturi/node-ts-fizzbuzz
-https://github.com/larturi/node-mern-tasks
-https://github.com/larturi/node-weather-app
-https://github.com/larturi/node-ts-mysql
-https://github.com/larturi/node-clima
-
-https://github.com/larturi/node-todolist-app
-https://github.com/larturi/vue-crud-node-backend
-https://github.com/larturi/vue-crud-node-frontend
-https://github.com/larturi/node-socket-chat
-
-
-https://github.com/larturi/node-por-hacer
 
 
 - JavaScript
