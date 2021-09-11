@@ -96,12 +96,13 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 7. Todolist MERN: [React](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 8. Buscador Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
 9. Filetransfer App: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
-9. Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 10. Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
 11. Mapas MEAN: [Angular](https://github.com/larturi/angular-mapas) / [Node](https://github.com/larturi/node-mapas-server)
 12. Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
+13. Bands Names: [SocketIO](https://github.com/larturi/socketio-band-names-server) / [Client](https://github.com/larturi/socketio-band-names)
 14. Turnos: [Node](https://github.com/larturi/node-turnos)
 15. FizzBuzz: [Node](https://github.com/larturi/node-ts-fizzbuzz)
+16. Chat Básico: [SocketIO](https://github.com/larturi/socketio-chat-basico)
 17. Weather App: [Node](https://github.com/larturi/node-weather-app)
 18. Clima App: [Node](https://github.com/larturi/node-clima)
 19. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
@@ -109,6 +110,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 21. Node TypeScript MySQL: [Node](https://github.com/larturi/node-ts-mysql)
 22. Chat: [Node](https://github.com/larturi/node-socket-chat)
 23. Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
+24. Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 
 ### Python:
 1. Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
@@ -120,6 +122,8 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 4. Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
 5. Rest Api PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
 
+### FastAPI:
+1. PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
 
 ### Laravel:
 1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
@@ -135,5 +139,20 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 ### Ionic:
 1. Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
+
+### React Native:
+1. Películas: [React Native](https://github.com/larturi/react-native-peliculas)
+2. Calculadora: [React Native](https://github.com/larturi/react-native-calculadora)
+3. Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
+
+### Flutter:
+1. Películas: [Flutter](https://github.com/larturi/flutter-peliculas)
+2. News: [Flutter](https://github.com/larturi/flutter-news)
+3. User Preferences: [Flutter](https://github.com/larturi/flutter-user-preferences)
+4. QR: [Flutter](https://github.com/larturi/flutter-qr)
+5. Diseños Flutter: [Flutter](https://github.com/larturi/flutter-disenos)
+
+
+
 
 
