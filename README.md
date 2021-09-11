@@ -2,9 +2,10 @@
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
-**Portafolio:** https://www.leandroarturi.com.ar 
-**Twitter:** https://twitter.com/larturi_dev
-**LinkedIn:** https://www.linkedin.com/in/leandroarturi/ 
+- **Portafolio:** [leandroarturi.com.ar](https://www.leandroarturi.com.ar)
+- **Twitter:** [@larturi_dev](https://twitter.com/larturi_dev)
+- **LinkedIn:** [leandroarturi](https://www.linkedin.com/in/leandroarturi)
+
 
 # Repositorios
 
@@ -13,7 +14,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 # Frontend
 
 ## React:
-1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
+1. Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
 3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 4. CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
@@ -92,7 +93,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 # Backend
 
 ## Node:
-1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
+1. Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
 3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 4. CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
