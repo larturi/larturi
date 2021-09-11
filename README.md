@@ -1,10 +1,13 @@
-## Hola, soy Leandro 👋
+# Hola, soy Leandro 👋
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 🌎 **Mi portafolio:** https://www.leandroarturi.com.ar 
 
-## Repositorios:
+# Repositorios:
+
+
+## Frontend:
 
 ### React:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
@@ -35,6 +38,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 26. Presupuesto: [React](https://github.com/larturi/react-presupuesto)
 27. Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador)
 28. Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
+29. Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 
 ### Angular:
 1. Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
@@ -63,7 +67,9 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 6. CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
 7. Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
 8. Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
-9. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend)
+9. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
+
+## Backend:
 
 ### Node:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
@@ -78,25 +84,28 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 9. Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 10. Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
 11. Mapas MEAN: [Angular](https://github.com/larturi/angular-mapas) / [Node](https://github.com/larturi/node-mapas-server)
-12. [Tickets App (Server)](https://github.com/larturi/-node-tickets-app-server)
-14. [Turnos](https://github.com/larturi/node-turnos)
-15. [FizzBuzz](https://github.com/larturi/node-ts-fizzbuzz)
-17. [Weather App](https://github.com/larturi/node-weather-app)
-18. [Clima App](https://github.com/larturi/node-clima)
-19. [MEVN CRUD PoC (Server)](https://github.com/larturi/vue-crud-node-backend)
-20. [Terminal TodoApp](https://github.com/larturi/node-por-hacer)
-21. [Node TypeScript MySQL (Server)](https://github.com/larturi/node-ts-mysql)
-22. [Chat](https://github.com/larturi/node-socket-chat)
-23. [Terminal TodoApp II](https://github.com/larturi/node-todolist-app)
+12. Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
+14. Turnos: [Node](https://github.com/larturi/node-turnos)
+15. FizzBuzz: [Node](https://github.com/larturi/node-ts-fizzbuzz)
+17. Weather App: [Node](https://github.com/larturi/node-weather-app)
+18. Clima App: [Node](https://github.com/larturi/node-clima)
+19. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
+20. Todo Terminal App: [Node](https://github.com/larturi/node-por-hacer)
+21. Node TypeScript MySQL: [Node](https://github.com/larturi/node-ts-mysql)
+22. Chat: [Node](https://github.com/larturi/node-socket-chat)
+23. Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 
 ### Laravel:
 1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
-2. [Cartera de Sistemas](https://github.com/larturi/laravel-cartera-sistemas)
-3. [Portal Dev Jobs](https://github.com/larturi/laravel-devJobs)
-4. [Buscador Recetas](https://github.com/larturi/laravel-recetas-cocina)
-5. [Buscador Etablecimientos](https://github.com/larturi/laravel-establecimientos)
-6. [CURD Laravel](https://github.com/larturi/laravel-abm)
-7. [CURD Laravel II](https://github.com/larturi/laravel-abm2)
+2. Cartera de Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
+3. Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
+4. Red Social Recetas: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
+5. Establecimientos: [Laravel](https://github.com/larturi/laravel-establecimientos)
+6. CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
+7. CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
+
+
+## Mobile:
 
 ### Ionic:
 1. Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
