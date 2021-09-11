@@ -7,7 +7,6 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 ## Repositorios:
 
 ### Angular:
-
 1. [Buscador de Heroes](https://github.com/larturi/angular-buscador-heroes)
 2. [Películas App](https://github.com/larturi/angular-peliculas)
 3. [Chat con Firebase](https://github.com/larturi/angular-firechat)
@@ -28,7 +27,6 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 
 
 ### React:
-
 1. [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client)
 2. [E-Commerce Games (Next)](https://github.com/larturi/react-ecommerce-client)
 3. [CRM con GraphQL](https://github.com/larturi/react-graphql-crm)
@@ -56,6 +54,19 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 25. [Presupuesto](https://github.com/larturi/react-presupuesto)
 26. [Cotizador de Seguros](https://github.com/larturi/react-cotizador)
 27. [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay)
+
+
+### Vue:
+[Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client)
+[Matafuegos (Nuxt)](https://github.com/larturi/vue-nuxt-matafuegos)
+[Chat Firebase](https://github.com/larturi/vue-auth-bd-chat-firebase)
+[Buscador de Banderas](https://github.com/larturi/vue-buscador-banderas)
+[CRUD Firebase](https://github.com/larturi/vue-crud-firebase)
+[CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
+[Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
+[Composition PoC](https://github.com/larturi/vue-composition-poc)
+[CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
+
 
 
 
