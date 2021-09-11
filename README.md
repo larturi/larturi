@@ -7,27 +7,24 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web con experiencia
 ## Repositorios:
 
 ### Angular:
-https://github.com/larturi/angular-buscador-heroes
-https://github.com/larturi/angular-peliculas
-https://github.com/larturi/angular-firechat
-https://github.com/larturi/angular-burguer-queen
-https://github.com/larturi/angular-dasboard-ddr
-https://github.com/larturi/angular-ddr-blog
-https://github.com/larturi/angular-graficos
-https://github.com/larturi/angular-mapas
-https://github.com/larturi/angular-todolist
-https://github.com/larturi/angular-reservas-peluqueria
-https://github.com/larturi/angular-drag-drop-paises
-https://github.com/larturi/angular-cocktails
-https://github.com/larturi/angular-contact-list
-https://github.com/larturi/angular-task-list
-https://github.com/larturi/angular-preguntas-respuestas
-https://github.com/larturi/angular-adminpro
-https://github.com/larturi/angular-goty
-https://github.com/larturi/angular-crud-firebase
-https://github.com/larturi/angular-maps-material
-https://github.com/larturi/angular-login-firebase
-https://github.com/larturi/angular-pipes
+
+1. [Buscador de Heroes](https://github.com/larturi/angular-buscador-heroes)
+2. [Películas App](https://github.com/larturi/angular-peliculas)
+3. [Chat con Firebase](https://github.com/larturi/angular-firechat)
+4. [Burguer Queen](https://github.com/larturi/angular-burguer-queen)
+5. [Angular Todolist](https://github.com/larturi/angular-todolist)
+6. [Angular Todolist II](https://github.com/larturi/angular-task-list)
+7. [CRUD Firebase](https://github.com/larturi/angular-crud-firebase)
+8. [LoginFirebase](https://github.com/larturi/angular-login-firebase)
+9. [Gráficos](https://github.com/larturi/angular-graficos)
+10. [Mapas](https://github.com/larturi/angular-mapas)
+11. [App de Contactos](https://github.com/larturi/angular-contact-list)
+12. [Pipes](https://github.com/larturi/angular-pipes)
+13. [Blog](https://github.com/larturi/angular-blog)
+14. [Reservas App](https://github.com/larturi/angular-reservas-peluqueria)
+15. [Preguntas y Respuestas](https://github.com/larturi/angular-preguntas-respuestas)
+16. [Votación Game of the year](https://github.com/larturi/angular-goty)
+17. [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)
 
 
 - JavaScript
