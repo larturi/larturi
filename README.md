@@ -6,7 +6,6 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 # Repositorios:
 
-
 ## Frontend:
 
 ### React:
@@ -83,6 +82,9 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 3. Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
 4. Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
 
+### Tailwind:
+1. Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
+
 
 ## Backend:
 
@@ -131,8 +133,19 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 3. Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
 4. Red Social Recetas: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
 5. Establecimientos: [Laravel](https://github.com/larturi/laravel-establecimientos)
-6. CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
-7. CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
+6. Hoy Jugamos: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
+7. CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
+8. CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
+
+### Php:
+1. Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
+2. Seis Sombreros: [Php](https://github.com/larturi/php-seis-sombreros) / [Demo](http://testsombreros.site/)
+3. Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
+4. Chistes: [Php](https://github.com/larturi/php-chistessincodificar) / [Demo](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
+5. Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
+6. Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
+
+
 
 
 ## Mobile:
