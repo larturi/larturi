@@ -9,7 +9,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 ### React:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
-3. E-Commerce Games: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
+3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 4. CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
 5. MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 6. Curriculum: [Gatsby](https://github.com/larturi/react-gatsby-curriculum)
@@ -37,10 +37,10 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 28. Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 
 ### Angular:
-1. Buscador de Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
+1. Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
 2. Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
 3. Chat Angular: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
-4. Burguer Queen: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
+4. Burguers: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
 5. Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
 6. CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
 7. Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
@@ -51,7 +51,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 12. Blog: [Angular](https://github.com/larturi/angular-blog)
 13. Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 14. Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
-15. Votación Game of the year: [Angular & Firebase](https://github.com/larturi/angular-goty)
+15. Game of the year: [Angular & Firebase](https://github.com/larturi/angular-goty)
 16. Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
 
 ### Vue:
@@ -68,7 +68,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 ### Node:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 2. Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
-3. E-Commerce Games: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
+3. E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 4. CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
 5. MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 6. MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
