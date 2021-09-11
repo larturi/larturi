@@ -55,15 +55,15 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 16. Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
 
 ### Vue:
-1. [Todolist (Nuxt)](https://github.com/larturi/vue-nuxt-todolist-client) / [Server](https://github.com/larturi/laravel-vue-todolist-backend)
-2. [Matafuegos (Nuxt)](https://github.com/larturi/vue-nuxt-matafuegos)
-3. [Chat Firebase](https://github.com/larturi/vue-auth-bd-chat-firebase)
-4. [Buscador de Banderas](https://github.com/larturi/vue-buscador-banderas)
-5. [CRUD Firebase](https://github.com/larturi/vue-crud-firebase)
-6. [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
-7. [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
-8. [Composition PoC](https://github.com/larturi/vue-composition-poc)
-9. [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
+1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
+2. Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos)
+3. Chat: [Vue](https://github.com/larturi/vue-auth-bd-chat-firebase)
+4. Buscador de Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas)
+5. CRUD Firebase: [Vue](https://github.com/larturi/vue-crud-firebase)
+6. CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
+7. Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
+8. Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
+9. MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend)
 
 ### Node:
 1. Portfolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
@@ -90,7 +90,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 23. [Terminal TodoApp II](https://github.com/larturi/node-todolist-app)
 
 ### Laravel:
-1. [Todolist Nuxt (Server)](https://github.com/larturi/laravel-vue-todolist-backend) / [Client](https://github.com/larturi/vue-nuxt-todolist-client)
+1. Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
 2. [Cartera de Sistemas](https://github.com/larturi/laravel-cartera-sistemas)
 3. [Portal Dev Jobs](https://github.com/larturi/laravel-devJobs)
 4. [Buscador Recetas](https://github.com/larturi/laravel-recetas-cocina)
