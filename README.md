@@ -120,10 +120,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 # Backend
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/nodejs-icon.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Node</span>
-</div>
+## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
 
 ### Top ⚡️
 
@@ -155,17 +152,11 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 -  Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/python.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Python</span>
-</div>
+## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
 -  Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/django.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Django</span>
-</div>
+## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
 -  Blog: [Django](https://github.com/larturi/django-rest-blog-full)
 -  Profiles: [Django](https://github.com/larturi/django-profiles-api)
@@ -173,17 +164,12 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
 -  Rest Api PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/python.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">FastAPI</span>
-</div>
+## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 
 -  PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/laravel.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Laravel</span>
-</div>
+
+## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
 ### Top ⚡️
 
@@ -199,10 +185,8 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
 -  CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/php.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Php</span>
-</div>
+
+## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
 
 -  Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
 -  Seis Sombreros: [Php](https://github.com/larturi/php-seis-sombreros) / [Demo](http://testsombreros.site/)
@@ -215,17 +199,11 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 # Mobile
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/ionic.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Ionic</span>
-</div>
+## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 
 -  Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">React Native</span>
-</div>
+## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
 
 ### Top ⚡️
 
@@ -236,10 +214,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 -  Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/flutter.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Flutter</span>
-</div>
+## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
 
 ### Top ⚡️
 
