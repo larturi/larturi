@@ -116,8 +116,6 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 -  Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
 
-<br/>
-
 # Backend
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
@@ -194,8 +192,6 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
 -  Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
 -  Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
-
-<br/>
 
 # Mobile
 
