@@ -8,7 +8,7 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
 # Repositorios
 
-A continuación dejo mis repositorios públicos, ordenados por tecnología.
+A continuación comparto mis repositorios públicos, ordenados por tecnología y algunos demos.
 
 # Frontend
 
