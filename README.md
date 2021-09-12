@@ -2,7 +2,7 @@
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
--  **Portafolio:** [leandroarturi.com.ar](https://www.leandroarturi.com.ar)
+-  **Portafolio:** [leandroarturi.com.ar](https://leandroarturi.com.ar)
 -  **Twitter:** [@larturi_dev](https://twitter.com/larturi_dev)
 -  **LinkedIn:** [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
 
