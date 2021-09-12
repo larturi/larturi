@@ -12,10 +12,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 
 # Frontend
 
-<div style="margin-bottom: 10px;">
-    <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">React</span>
-</div>
+## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
 ### Top ⚡️
 
@@ -52,12 +49,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 
-#
-
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/angular-icon.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Angular</span>
-</div>
+## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
 ### Top ⚡️
 
@@ -81,10 +73,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Game of the year: [Angular & Firebase](https://github.com/larturi/angular-goty)
 -  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/vue.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Vue</span>
-</div>
+## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
 ### Top ⚡️
 
@@ -101,10 +90,7 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
 -  MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/javascript.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Vanilla JS</span>
-</div>
+## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
 ### Top ⚡️
 
@@ -118,20 +104,15 @@ A continuación dejo mis repositorios públicos, ordenados por tecnología.
 -  The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test)
 -  Todolist: [JavaScript](https://github.com/larturi/js-todolist2)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/bootstrap.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Bootstrap</span>
-</div>
+
+## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
 -  Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social)
 -  Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
 -  Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
 -  Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
 
-<div style="margin-bottom: 10px; margin-top: 25px;">
-    <span><img src="./icons/tailwindcss-icon.svg" alt="React" width="20px" height="20px"></span>
-    <span style="font-size: 20px; margin-left: 2px;">Tailwind</span>
-</div>
+## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
 -  Airbnb: [Bootstrap](https://github.com/larturi/tailwind-airbnb)
 
