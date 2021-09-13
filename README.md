@@ -19,7 +19,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 -  Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://kind-villani-ecfc48.netlify.app/)
 -  E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
--  Todolist MERN: [React](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
+-  Todolist MERN: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 -  CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
 -  MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
 
@@ -128,7 +128,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
 -  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 -  MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
--  Todolist MERN: [React](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
+-  Todolist MERN: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 -  Filetransfer App: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
 
 ### More
