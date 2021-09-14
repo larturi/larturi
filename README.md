@@ -35,7 +35,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Hotel Gatsby: [Gatsby & Dato CMS](https://github.com/larturi/react-hotel-gatsby) / [Demo](https://gatsby-hotel-app.netlify.app/)
 -  Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
 -  CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
--  Maps SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server SocketIO](https://github.com/larturi/node-mapas-server)
+-  Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
 -  Buscador de Canciones: [React](https://github.com/larturi/react-lyrics)
 -  Criptomonedas App: [React](https://github.com/larturi/react-criptomonedas)
 -  Buscador de Heroes: [React](https://github.com/larturi/react-heroes-app)
