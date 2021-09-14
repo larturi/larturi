@@ -135,7 +135,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  Buscador Propiedades: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Node](https://github.com/larturi/node-propiedades-back)
 -  Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
--  Mapas MEAN: [Angular](https://github.com/larturi/angular-mapas) / [Node](https://github.com/larturi/node-mapas-server)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 -  Bands Names: [SocketIO](https://github.com/larturi/socketio-band-names-server) / [Client](https://github.com/larturi/socketio-band-names)
 -  Turnos: [Node](https://github.com/larturi/node-turnos)
