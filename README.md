@@ -38,7 +38,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
 -  Buscador de Canciones: [React](https://github.com/larturi/react-lyrics)
 -  Criptomonedas App: [React](https://github.com/larturi/react-criptomonedas)
--  Buscador de Heroes: [React](https://github.com/larturi/react-heroes-app)
+-  Heroes App: [React](https://github.com/larturi/react-heroes-app) / [Demo](https://heros-react-app.netlify.app)
 -  Noticias App: [React](https://github.com/larturi/react-noticias)
 -  Citas App: [React](https://github.com/larturi/react-citas)
 -  Breaking Bad App: [React](https://github.com/larturi/react-brakingbad-api)
