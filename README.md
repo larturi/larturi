@@ -64,7 +64,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
 -  Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
--  Mapas MEAN: [Angular](https://github.com/larturi/angular-mapas) / [Node](https://github.com/larturi/node-mapas-server)
+-  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
 -  App de Contactos: [Angular](https://github.com/larturi/angular-contact-list)
 -  Pipes: [Angular](https://github.com/larturi/angular-pipes)
 -  Blog: [Angular](https://github.com/larturi/angular-blog)
