@@ -31,7 +31,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Giphy App: [React](https://github.com/larturi/react-gift-app) / [Demo](http://cloudapp.com.ar/demo/gif-react)
 -  Drinks App: [React](https://github.com/larturi/react-drinks) / [Demo](http://cloudapp.com.ar/demo/drinks)
 -  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
--  Curriculum: [Gatsby](https://github.com/larturi/react-gatsby-curriculum)
+-  Curriculum: [Gatsby](https://github.com/larturi/react-gatsby-curriculum) / [Demo](https://gatsby-curriculum.netlify.app)
 -  Hotel Gatsby: [Gatsby](https://github.com/larturi/react-hotel-gatsby)
 -  Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
 -  CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
