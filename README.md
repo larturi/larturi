@@ -97,13 +97,11 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
 -  BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
--  Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
 
 ### More
 
--  The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test)
--  Todolist: [JavaScript](https://github.com/larturi/js-todolist2)
-
+-  The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test) / [Demo](http://cloudapp.com.ar/visiontest)
+-  Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
