@@ -97,7 +97,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
 -  BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
--  Simon: [JavaScript](https://github.com/larturi/js-simon)
+-  Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
 
 ### More
 
