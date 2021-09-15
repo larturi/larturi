@@ -79,7 +79,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ### Top ⚡️
 
 -  Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
--  Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos)
+-  Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos) / [Demo](https://matafuegos-nuxt.netlify.app/)
 
 ### More
 
