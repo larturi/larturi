@@ -62,6 +62,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
 -  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
+-  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
@@ -96,7 +97,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
 -  BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
--  Blackjack: [JavaScript](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Simon: [JavaScript](https://github.com/larturi/js-simon)
 
 ### More
