@@ -105,7 +105,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
--  Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social)
+-  Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social) / [Demo](https://larturi.github.io/bootstrap-red-social)
 -  Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
 -  Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
 -  Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
