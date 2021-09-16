@@ -109,6 +109,11 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard) / [Demo](https://larturi.github.io/bootstrap-dashboard/)
 -  Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio) / [Demo](https://larturi.github.io/bootstrap-portafolio)
 -  Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
+  - [Demo Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
+  - [Demo Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)
+  - [Demo Checkout](https://larturi.github.io/bootstrap-vanilla-ejemplos/checkout.html)
+  - [Demo Precios](https://larturi.github.io/bootstrap-vanilla-ejemplos/precios.html)
+
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
