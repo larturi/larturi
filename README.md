@@ -44,7 +44,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Breaking Bad App: [React](https://github.com/larturi/react-brakingbad-api)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app)
 -  Clima App: [React](https://github.com/larturi/react-clima)
--  Presupuesto: [React](https://github.com/larturi/react-presupuesto)
+-  Basic Budget: [React](https://github.com/larturi/react-presupuesto) / [Demo](https://budget-basic-react-app.netlify.app)
 -  Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador) / [Demo](https://cotizador-react-app-ok.netlify.app)
 -  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
