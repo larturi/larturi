@@ -83,7 +83,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ### More
 
--  Chat: [Vue](https://github.com/larturi/vue-auth-bd-chat-firebase)
 -  Buscador de Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas)
 -  CRUD Firebase: [Vue](https://github.com/larturi/vue-crud-firebase)
 -  CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
