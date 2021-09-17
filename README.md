@@ -63,7 +63,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
 -  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
--  Upload Imágenes: [Angular & Firebase](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
+-  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
 -  App de Contactos: [Angular](https://github.com/larturi/angular-contact-list)
