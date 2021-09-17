@@ -45,7 +45,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app)
 -  Clima App: [React](https://github.com/larturi/react-clima)
 -  Presupuesto: [React](https://github.com/larturi/react-presupuesto)
--  Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador)
+-  Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador) / [Demo](https://cotizador-react-app-ok.netlify.app)
 -  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 
