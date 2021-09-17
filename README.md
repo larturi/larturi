@@ -71,7 +71,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Blog: [Angular](https://github.com/larturi/angular-blog)
 -  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 -  Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
--  Game of the year: [Angular & Firebase](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
+-  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
 -  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
