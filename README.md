@@ -37,7 +37,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
 -  Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
 -  Buscador de Canciones: [React](https://github.com/larturi/react-lyrics)
--  Criptomonedas App: [React](https://github.com/larturi/react-criptomonedas)
+-  Criptomonedas App: [React](https://github.com/larturi/react-criptomonedas) / [Demo](http://cloudapp.com.ar/demo/cripto)
 -  Heroes App: [React](https://github.com/larturi/react-heroes-app) / [Demo](https://heros-react-app.netlify.app)
 -  Noticias App: [React](https://github.com/larturi/react-noticias)
 -  Citas App: [React](https://github.com/larturi/react-citas)
