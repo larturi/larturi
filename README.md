@@ -83,7 +83,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ### More
 
--  Buscador de Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas)
+-  Buscador Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas) / [Demo](https://vue-flags-api.netlify.app)
 -  CRUD Firebase: [Vue](https://github.com/larturi/vue-crud-firebase)
 -  CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
 -  Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
