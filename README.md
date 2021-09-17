@@ -41,7 +41,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Heroes App: [React](https://github.com/larturi/react-heroes-app) / [Demo](https://heros-react-app.netlify.app)
 -  Noticias App: [React](https://github.com/larturi/react-noticias)
 -  Citas App: [React](https://github.com/larturi/react-citas)
--  Breaking Bad App: [React](https://github.com/larturi/react-brakingbad-api)
+-  Breaking Bad App: [React](https://github.com/larturi/react-breakingbad-api) / [Demo](https://breakingbad-app-react.netlify.app)
 -  Clima App: [React](https://github.com/larturi/react-clima)
 -  Basic Budget: [React](https://github.com/larturi/react-presupuesto) / [Demo](https://budget-basic-react-app.netlify.app)
 -  Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador) / [Demo](https://cotizador-react-app-ok.netlify.app)
