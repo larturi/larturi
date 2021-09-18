@@ -59,7 +59,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Blog: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
 -  Blog Admin: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo](https://blog-admin-angular.netlify.app)
--  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 
 ### More
 
@@ -68,6 +67,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
+-  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 -  Contactos App: [Angular](https://github.com/larturi/angular-contact-list)
 -  Pipes: [Angular](https://github.com/larturi/angular-pipes)
 -  Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
