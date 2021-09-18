@@ -58,6 +58,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
 -  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Blog: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
+-  Blog Admin: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo]()
 -  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria) / [Demo]()
 
 ### More
