@@ -40,12 +40,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Basic Budget: [React](https://github.com/larturi/react-presupuesto) / [Demo](https://budget-basic-react-app.netlify.app)
 -  Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador) / [Demo](https://cotizador-react-app-ok.netlify.app)
 -  Citas App: [React](https://github.com/larturi/react-citas) / [Demo](https://agenda-turnos-react.netlify.app)
+-  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay) / [Demo](https://images-pixabay-react-app.netlify.app)
 -  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 -  Noticias App: [React](https://github.com/larturi/react-noticias)
 -  CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
 -  Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
 -  Clima App: [React](https://github.com/larturi/react-clima)
--  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
 -  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
