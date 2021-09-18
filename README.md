@@ -59,20 +59,20 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ### More
 
--  CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
--  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
 -  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
--  Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
+-  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
+-  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
 -  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
--  App de Contactos: [Angular](https://github.com/larturi/angular-contact-list)
+-  Contactos App: [Angular](https://github.com/larturi/angular-contact-list)
 -  Pipes: [Angular](https://github.com/larturi/angular-pipes)
 -  Blog: [Angular](https://github.com/larturi/angular-blog)
 -  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 -  Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
--  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
--  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
+-  CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
+-  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
+-  Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
