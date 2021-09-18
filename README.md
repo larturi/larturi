@@ -56,10 +56,10 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Chat Angular: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
 -  Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
 -  Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
+-  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 
 ### More
 
--  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
 -  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
 -  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
 -  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
