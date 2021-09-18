@@ -57,6 +57,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
 -  Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
 -  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
+-  Blog: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
+-  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria) / [Demo]()
 
 ### More
 
@@ -67,8 +69,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
 -  Contactos App: [Angular](https://github.com/larturi/angular-contact-list)
 -  Pipes: [Angular](https://github.com/larturi/angular-pipes)
--  Blog: [Angular](https://github.com/larturi/angular-blog)
--  Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
 -  Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
 -  CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
 -  Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
