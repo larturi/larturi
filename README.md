@@ -30,7 +30,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Calendar: [React & Firebase](https://github.com/larturi/react-journal-app) / [Demo](http://calendar-react.cloudapp.com.ar/login)
 -  Giphy App: [React](https://github.com/larturi/react-gift-app) / [Demo](http://cloudapp.com.ar/demo/gif-react)
 -  Drinks App: [React](https://github.com/larturi/react-drinks) / [Demo](http://cloudapp.com.ar/demo/drinks)
--  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 -  Curriculum: [Gatsby](https://github.com/larturi/react-gatsby-curriculum) / [Demo](https://gatsby-curriculum.netlify.app)
 -  Hotel Gatsby: [Gatsby & Dato CMS](https://github.com/larturi/react-hotel-gatsby) / [Demo](https://gatsby-hotel-app.netlify.app/)
 -  Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
@@ -47,6 +46,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
 -  Clima App: [React](https://github.com/larturi/react-clima)
 -  Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay)
+-  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
