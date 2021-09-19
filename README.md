@@ -124,7 +124,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://instaclone-react.netlify.app/caraoz)
 -  E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 -  CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
--  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 -  MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
 -  Todolist MERN: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 -  Filetransfer App: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
@@ -146,6 +145,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Chat: [Node](https://github.com/larturi/node-socket-chat)
 -  Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 -  Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
+-  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
