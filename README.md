@@ -153,11 +153,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
--  Blog: [Django](https://github.com/larturi/django-rest-blog-full)
--  Profiles: [Django](https://github.com/larturi/django-profiles-api)
--  Polls: [Django](https://github.com/larturi/django_polls)
--  Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
--  Rest Api PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
+-  Web Page Cursos: [Django](https://github.com/larturi/django-webpage/tree/main)
+-  API Blog: [Django](https://github.com/larturi/django-rest-blog-full)
+-  API Profiles: [Django](https://github.com/larturi/django-profiles-api)
+-  API Polls: [Django](https://github.com/larturi/django_polls)
+-  API Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
+-  API PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 
