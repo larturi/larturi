@@ -147,6 +147,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 -  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 
+## <span><img src="./icons/nestjs.svg" alt="Node" width="20px" height="20px"></span> Nest.js
+
+### Top ⚡️
+
+-  API RESTful BooksStore: [Nest.js](https://github.com/larturi/nest-books-store)
+
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
 -  Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
