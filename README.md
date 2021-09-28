@@ -150,6 +150,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
 -  Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
+-  CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
