@@ -77,60 +77,50 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
-### Top ⚡️
-
--  Portafolio Old: [JavaScript](https://github.com/larturi/js-leandroarturi)
--  BlockChain: [JavaScript](https://github.com/larturi/js-blockchain)
-
-### More
-
--  The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test) / [Demo](http://cloudapp.com.ar/visiontest)
--  Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
+- **Portafolio Old**: [JavaScript](https://github.com/larturi/js-leandroarturi)
+- **BlockChain**: [JavaScript](https://github.com/larturi/js-blockchain)
+- The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test) / [Demo](http://cloudapp.com.ar/visiontest)
+- Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
--  Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social) / [Demo](https://larturi.github.io/bootstrap-red-social)
--  Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard) / [Demo](https://larturi.github.io/bootstrap-dashboard/)
--  Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio) / [Demo](https://larturi.github.io/bootstrap-portafolio)
--  Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos) / [Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) / [Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)
+- Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social) / [Demo](https://larturi.github.io/bootstrap-red-social)
+- Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard) / [Demo](https://larturi.github.io/bootstrap-dashboard/)
+- Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio) / [Demo](https://larturi.github.io/bootstrap-portafolio)
+- Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos) / [Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) / [Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
--  Airbnb: [Tailwind](https://github.com/larturi/tailwind-airbnb) / [Demo](https://larturi.github.io/tailwind-airbnb/)
+- Airbnb: [Tailwind](https://github.com/larturi/tailwind-airbnb) / [Demo](https://larturi.github.io/tailwind-airbnb/)
 
 
 # Backend
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
 
-### Top ⚡️
-
--  Portafolio: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
--  Instagram Clone: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://instaclone-react.netlify.app/caraoz)
--  E-Commerce: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
--  CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
--  MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
--  Todolist MERN: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
--  Filetransfer App: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
-
-### More
-
+- **Portafolio**: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
+- **Instagram Clone**: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://instaclone-react.netlify.app/caraoz)
+- **E-Commerce**: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
+- **CRM Next**: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
+- **MERN Tasks**: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
+- **Todolist MERN**: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
+- **Filetransfer App**: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
 - Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
--  Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
--  Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
--  Bands Names: [SocketIO](https://github.com/larturi/socketio-band-names-server) / [Client](https://github.com/larturi/socketio-band-names)
--  Turnos: [Node](https://github.com/larturi/node-turnos)
--  FizzBuzz: [Node](https://github.com/larturi/node-ts-fizzbuzz)
--  Chat Básico: [SocketIO](https://github.com/larturi/socketio-chat-basico)
--  Weather App: [Node](https://github.com/larturi/node-weather-app)
--  Clima App: [Node](https://github.com/larturi/node-clima)
--  MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
--  Todo Terminal App: [Node](https://github.com/larturi/node-por-hacer)
--  Node TypeScript MySQL: [Node](https://github.com/larturi/node-ts-mysql)
--  Chat: [Node](https://github.com/larturi/node-socket-chat)
--  Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
--  Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
--  MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
+- Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
+- Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
+- Bands Names: [SocketIO](https://github.com/larturi/socketio-band-names-server) / [Client](https://github.com/larturi/socketio-band-names)
+- Turnos: [Node](https://github.com/larturi/node-turnos)
+- FizzBuzz: [Node](https://github.com/larturi/node-ts-fizzbuzz)
+- Chat Básico: [SocketIO](https://github.com/larturi/socketio-chat-basico)
+- Weather App: [Node](https://github.com/larturi/node-weather-app)
+- Clima App: [Node](https://github.com/larturi/node-clima)
+- MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
+- Todo Terminal App: [Node](https://github.com/larturi/node-por-hacer)
+- Node TypeScript MySQL: [Node](https://github.com/larturi/node-ts-mysql)
+- Chat: [Node](https://github.com/larturi/node-socket-chat)
+- Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
+- Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
+- MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/nestjs.svg" alt="Node" width="20px" height="20px"></span> Nest.js
 
