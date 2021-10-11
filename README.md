@@ -134,7 +134,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
 -  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca)
--  Empleados App: [Django](https://github.com/larturi/django-empleados)
+-  Empleados App: [Django](https://github.com/larturi/django-empleados) / [Demo](https://django-empleados.herokuapp.com/)
 -  Web Page Cursos: [Django](https://github.com/larturi/django-webpage/tree/main)
 -  API Blog: [Django](https://github.com/larturi/django-rest-blog-full)
 -  API Profiles: [Django](https://github.com/larturi/django-profiles-api)
