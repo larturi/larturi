@@ -124,14 +124,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/nestjs.svg" alt="Node" width="20px" height="20px"></span> Nest.js
 
-### Top ⚡️
-
--  API RESTful BooksStore: [Nest.js](https://github.com/larturi/nest-books-store)
+- API RESTful BooksStore: [Nest.js](https://github.com/larturi/nest-books-store)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
--  Callejero Argenprop: [Python](https://github.com/larturi/python-argenprop-callejero)
--  CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
+- **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
+- CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
@@ -148,17 +146,14 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 -  PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
 
-
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
-### Top ⚡️
-
--  Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
--  Cartera Sistemas: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
--  Portal Dev Jobs: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
--  Red Social Recetas: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
--  Establecimientos: [Laravel](https://github.com/larturi/laravel-establecimientos)
--  Hoy Jugamos: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
+- **Todolist Nuxt**: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
+- **Cartera Sistemas**: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
+- **Portal Dev Jobs**: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
+- **Red Social Recetas**: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
+- **Establecimientos**: [Laravel](https://github.com/larturi/laravel-establecimientos)
+- **Hoy Jugamos**: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
 
 ### More
 
@@ -183,24 +178,14 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
 
-### Top ⚡️
-
--  Películas: [React Native](https://github.com/larturi/react-native-peliculas)
--  Calculadora: [React Native](https://github.com/larturi/react-native-calculadora)
-
-### More
-
+-  **Películas**: [React Native](https://github.com/larturi/react-native-peliculas)
+-  **Calculadora**: [React Native](https://github.com/larturi/react-native-calculadora)
 -  Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
 
 ## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
 
-### Top ⚡️
-
--  Películas: [Flutter](https://github.com/larturi/flutter-peliculas)
+-  **Películas**: [Flutter](https://github.com/larturi/flutter-peliculas)
 -  News: [Flutter](https://github.com/larturi/flutter-news)
-
-### More
-
 -  User Preferences: [Flutter](https://github.com/larturi/flutter-user-preferences)
 -  QR: [Flutter](https://github.com/larturi/flutter-qr)
 -  Diseños Flutter: [Flutter](https://github.com/larturi/flutter-disenos)
