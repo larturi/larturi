@@ -45,18 +45,13 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
-### Top ⚡️
-
--  Burguers: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
--  Chat Angular: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
--  Heroes: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
--  Películas App: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
--  Blackjack: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
--  Blog: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
--  Blog Admin: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo](https://blog-admin-angular.netlify.app)
-
-### More
-
+-  **Burguers**: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
+-  **Chat Angular**: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
+-  **Heroes**: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
+-  **Películas App**: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
+-  **Blackjack**: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
+-  **Blog**: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
+-  **Blog Admin**: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo](https://blog-admin-angular.netlify.app)
 -  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
 -  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
 -  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
@@ -72,18 +67,13 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
-### Top ⚡️
-
--  Todolist Nuxt: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
--  Matafuegos: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos) / [Demo](https://matafuegos-nuxt.netlify.app/)
-
-### More
-
--  Buscador Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas) / [Demo](https://vue-flags-api.netlify.app)
--  CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
--  Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
--  Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
--  MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
+- **Todolist Nuxt**: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
+- **Matafuegos**: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos) / [Demo](https://matafuegos-nuxt.netlify.app/)
+- Buscador Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas) / [Demo](https://vue-flags-api.netlify.app)
+- CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
+- Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
+- Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
+- MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
