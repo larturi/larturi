@@ -106,6 +106,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Todolist MERN**: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 - **Filetransfer App**: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
 - Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
+- PoCs & Labs [Node](https://github.com/larturi/node-labs)
 - Apollo Server MySQL TypeScript [Node](https://github.com/larturi/apollo-graphql-typescript)
 - Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
 - Bands Names: [SocketIO](https://github.com/larturi/socketio-band-names-server) / [Client](https://github.com/larturi/socketio-band-names)
@@ -130,7 +131,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 - **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
 - CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
-
+- PoCs & Labs [Python](https://github.com/larturi/python-labs)
+- 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
 -  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca)
@@ -169,6 +171,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
 -  Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
 -  Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
+-  PoCs & Labs [Php](https://github.com/larturi/php-labs)
+
 
 # Mobile
 
