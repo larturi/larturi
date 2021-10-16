@@ -132,7 +132,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
 - CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 - PoCs & Labs: [Python](https://github.com/larturi/python-labs)
-- 
+
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
 -  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca)
