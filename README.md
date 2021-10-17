@@ -14,10 +14,10 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
--  **[Portafolio](https://leandroarturi.com.ar)**: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi)
--  **[Instagram Clone](https://instaclone-react.netlify.app)**: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server)
--  **[E-Commerce](http://cloudapp.com.ar/ecommerce-games)**: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server)
--  **[Todolist MERN](http://www.todolist-mern.cloudapp.com.ar)**: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server)
+-  **[Portafolio]**: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
+-  **[Instagram Clone]**: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://instaclone-react.netlify.app)
+-  **[E-Commerce]**: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
+-  **[Todolist MERN]**: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
 -  **CRM Next**: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
 -  **MERN Tasks**: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
 -  Products Hunt: [Next & Firebase](https://github.com/larturi/react-next-producthunt) / [Demo](https://product-hunt-1f8d8.web.app)
