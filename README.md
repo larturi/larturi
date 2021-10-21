@@ -54,6 +54,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  API Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
 -  API PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
 
+## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
+
+- **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
+- CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
+- PoCs & Labs: [Python](https://github.com/larturi/python-labs)
+
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 
 -  PoC FastAPI & GraphQL: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
@@ -84,12 +90,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
 - Apollo Server MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 - MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
-
-## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
-
-- **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
-- CRUD Python Tkinter: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
-- PoCs & Labs: [Python](https://github.com/larturi/python-labs)
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
