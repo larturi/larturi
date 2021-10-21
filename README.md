@@ -99,9 +99,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Red Social Recetas**: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
 - **Establecimientos**: [Laravel](https://github.com/larturi/laravel-establecimientos)
 - **Hoy Jugamos**: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
-
-### More
-
 -  CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
 -  CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
 
@@ -170,9 +167,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/nestjs.svg" alt="Node" width="20px" height="20px"></span> Nest.js
 
 - API RESTful BooksStore: [Nest.js](https://github.com/larturi/nest-books-store)
-
-
-# Mobile
 
 ## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 
