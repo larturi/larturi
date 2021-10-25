@@ -165,11 +165,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 - Airbnb: [Tailwind](https://github.com/larturi/tailwind-airbnb) / [Demo](https://larturi.github.io/tailwind-airbnb/)
 
-
-## <span><img src="./icons/nestjs.svg" alt="Node" width="20px" height="20px"></span> Nest.js
-
-- API RESTful BooksStore: [Nest.js](https://github.com/larturi/nest-books-store)
-
 ## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 
 -  Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
