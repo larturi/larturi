@@ -51,6 +51,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  MyBlog App: [Django](https://github.com/larturi/django-myblog)
 -  Web Page Cursos: [Django](https://github.com/larturi/django-webpage/tree/main)
 -  API Blog: [Django](https://github.com/larturi/django-rest-blog-full)
+-  API Agenda: [Django](https://github.com/larturi/django-rest-agenda)
 -  API Profiles: [Django](https://github.com/larturi/django-profiles-api)
 -  API Polls: [Django](https://github.com/larturi/django_polls)
 -  API Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
