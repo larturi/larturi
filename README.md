@@ -126,7 +126,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  **Blog**: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
 -  **Blog Admin**: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo](https://blog-admin-angular.netlify.app)
 -  Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
--  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises) / [Demo](http://cloudapp.com.ar/demo/flags/#/list-countries)
+-  Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
 -  Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
 -  Gráficos: [Angular](https://github.com/larturi/angular-graficos)
 -  Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
