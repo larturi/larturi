@@ -45,6 +45,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
+-  iCard: [Django](https://github.com/larturi/django-rest-icard) / En desarollo
 -  Users App: [Django](https://github.com/larturi/django-users) / [Demo](https://django-user-app.herokuapp.com/login/)
 -  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca) / [Demo]( https://django-biblioteca.herokuapp.com)
 -  Empleados App: [Django](https://github.com/larturi/django-empleados) / [Demo](https://django-empleados.herokuapp.com)
