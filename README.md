@@ -13,6 +13,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
 -  **Portafolio**: [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
+-  **iCard**: [React](https://github.com/larturi/react-icard) / [Django](https://github.com/larturi/django-rest-icard) / En Desarollo
 -  **Instagram Clone**: [Next](https://github.com/larturi/react-apollo-instaclone-client) / [Apollo](https://github.com/larturi/apollo-instaclone-server) / [Demo](https://instaclone-react.netlify.app)
 -  **E-Commerce**: [Next](https://github.com/larturi/react-ecommerce-client) / [Strapi](https://github.com/larturi/strapi-ecommerce-server) / [Demo](http://cloudapp.com.ar/ecommerce-games)
 -  **Todolist MERN**: [Next](https://github.com/larturi/react-todolist-mern-cliente) / [Node](https://github.com/larturi/node-todolist-mern-ts-server) / [Demo](http://www.todolist-mern.cloudapp.com.ar)
@@ -45,7 +46,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
--  iCard: [Django](https://github.com/larturi/django-rest-icard) / En desarollo
+-  **iCard**: [Django](https://github.com/larturi/django-rest-icard) / [React](https://github.com/larturi/react-icard) / En Desarollo
 -  Users App: [Django](https://github.com/larturi/django-users) / [Demo](https://django-user-app.herokuapp.com/login/)
 -  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca) / [Demo]( https://django-biblioteca.herokuapp.com)
 -  Empleados App: [Django](https://github.com/larturi/django-empleados) / [Demo](https://django-empleados.herokuapp.com)
