@@ -150,6 +150,9 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
 - MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
 
+## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
+- Django & Postgres & React App: [Docker](https://github.com/larturi/docker-django-rest-react-poc)
+
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
 - **Portafolio Old**: [JavaScript](https://github.com/larturi/js-leandroarturi)
