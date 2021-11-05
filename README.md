@@ -154,6 +154,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - Postgres & PgAdmin: [Docker](https://github.com/larturi/docker-postgres-pgadmin)
 - Php8 & MySQL: [Docker](https://github.com/larturi/docker-php8-mysql)
 - Php5.4 & MySQL: [Docker](https://github.com/larturi/docker-php54-mysql)
+- Laravel & MySQL & PhpMyAdmin: [Docker](https://github.com/larturi/docker-laravel-mysql)
+
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
