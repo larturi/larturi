@@ -107,7 +107,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 -  CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
 -  CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
 
-
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
 
 -  Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
@@ -152,6 +151,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
 - Django & Postgres & React App: [Docker](https://github.com/larturi/docker-django-rest-react-poc)
+- Postgres & PgAdmin: [Docker](https://github.com/larturi/docker-postgres-pgadmin)
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
