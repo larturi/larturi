@@ -1,4 +1,4 @@
-# Hola, soy Leandro 👋 🇦🇷
+## Hola, soy Leandro 👋 🇦🇷
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
