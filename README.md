@@ -2,13 +2,9 @@
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 
--  **Portafolio:** [leandroarturi.com.ar](https://leandroarturi.com.ar)
--  **Twitter:** [@leandroarturi](https://twitter.com/leandroarturi)
--  **LinkedIn:** [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
-
-# Repositorios
-
-A continuación comparto mis repositorios públicos, ordenados por tecnología y algunos demos.
+**Portafolio:** [leandroarturi.com.ar](https://leandroarturi.com.ar)\
+**Twitter:** [@leandroarturi](https://twitter.com/leandroarturi)\
+**LinkedIn:** [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
@@ -105,18 +101,41 @@ MERN Chat\
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
--  **iCard**: [Django](https://github.com/larturi/django-rest-icard) / [React](https://github.com/larturi/react-icard) / En Desarollo
--  Users App: [Django](https://github.com/larturi/django-users) / [Demo](https://django-user-app.herokuapp.com/login/)
--  Biblioteca App: [Django](https://github.com/larturi/django-biblioteca) / [Demo]( https://django-biblioteca.herokuapp.com)
--  Empleados App: [Django](https://github.com/larturi/django-empleados) / [Demo](https://django-empleados.herokuapp.com)
--  MyBlog App: [Django](https://github.com/larturi/django-myblog)
--  Web Page Cursos: [Django](https://github.com/larturi/django-webpage/tree/main)
--  API Blog: [Django](https://github.com/larturi/django-rest-blog-full)
--  API Agenda: [Django](https://github.com/larturi/django-rest-agenda)
--  API Profiles: [Django](https://github.com/larturi/django-profiles-api)
--  API Polls: [Django](https://github.com/larturi/django_polls)
--  API Blog Basic: [Django](https://github.com/larturi/django-rest-blog-basic)
--  API PoC: [Django](https://github.com/larturi/django-apirest-lab-tests)
+**iCard**\
+[Django](https://github.com/larturi/django-rest-icard) / [React](https://github.com/larturi/react-icard) / En Desarollo
+
+Users App\
+[Django](https://github.com/larturi/django-users) / [Demo](https://django-user-app.herokuapp.com/login/)
+
+Biblioteca App\
+[Django](https://github.com/larturi/django-biblioteca) / [Demo]( https://django-biblioteca.herokuapp.com)
+
+Empleados App\
+[Django](https://github.com/larturi/django-empleados) / [Demo](https://django-empleados.herokuapp.com)
+
+MyBlog App\
+[Django](https://github.com/larturi/django-myblog)
+
+Web Page Cursos\
+[Django](https://github.com/larturi/django-webpage/tree/main)
+
+API Blog\
+[Django](https://github.com/larturi/django-rest-blog-full)
+
+API Agenda\
+[Django](https://github.com/larturi/django-rest-agenda)
+
+API Profiles\
+[Django](https://github.com/larturi/django-profiles-api)
+
+API Polls\
+[Django](https://github.com/larturi/django_polls)
+
+API Blog Basic\
+[Django](https://github.com/larturi/django-rest-blog-basic)
+
+API PoC\
+[Django](https://github.com/larturi/django-apirest-lab-tests)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
