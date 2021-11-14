@@ -156,7 +156,7 @@ PoC FastAPI & GraphQL\
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
 
-**Portafolio**
+**Portafolio**\
 [Gatsby](https://github.com/larturi/portfolio-gatsby) / [Strapi](https://github.com/larturi/portfolio-strapi) / [Demo](https://leandroarturi.com.ar)
 
 **Instagram Clone**\
@@ -183,7 +183,7 @@ Bienes Raices\
 PoCs & Labs\
 [Node](https://github.com/larturi/node-labs)
 
-Apollo Server MySQL TypeScript\
+Apollo Server MySQL & TypeScript\
 [Node](https://github.com/larturi/apollo-graphql-typescript)
 
 Tickets App\
@@ -222,7 +222,7 @@ Chat\
 Todo Terminal App II\
 [Node](https://github.com/larturi/node-todolist-app)
 
-Apollo Server MySQL\ 
+Apollo Server MySQL\
 [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 
 MERN Chat\
