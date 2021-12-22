@@ -98,50 +98,50 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
-- **Todolist Nuxt**: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
-- **Cartera Sistemas**: [Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas) / [Demo](http://www.carteradesistemas.cloudapp.com.ar/login)
-- **Portal Dev Jobs**: [Laravel](https://github.com/larturi/laravel-devJobs) / [Demo](http://www.devjobs.cloudapp.com.ar/)
-- **Red Social Recetas**: [Laravel](https://github.com/larturi/laravel-recetas-cocina) / [Demo](http://www.recetas.cloudapp.com.ar)
-- **Establecimientos**: [Laravel](https://github.com/larturi/laravel-establecimientos)
-- **Hoy Jugamos**: [Laravel](https://github.com/larturi/php-hoyjugamos) / [Demo](http://hoyjugamos.cloudapp.com.ar/)
-- CURD Laravel: [Laravel](https://github.com/larturi/laravel-abm)
-- CURD Laravel II: [Laravel](https://github.com/larturi/laravel-abm2)
+- [Todolist Nuxt](http://todolist-vue.cloudapp.com.ar/dist): [[Nuxt](https://github.com/larturi/vue-nuxt-todolist-client)] / [[Laravel](https://github.com/larturi/laravel-vue-todolist-backend)]
+- [Cartera Sistemas](http://www.carteradesistemas.cloudapp.com.ar/login): [[Laravel & Vue](https://github.com/larturi/laravel-cartera-sistemas)]
+- [Portal Dev Jobs](http://www.devjobs.cloudapp.com.ar/): [[Laravel](https://github.com/larturi/laravel-devJobs)]
+- [Red Social Recetas](http://www.recetas.cloudapp.com.ar): [[Laravel](https://github.com/larturi/laravel-recetas-cocina)]
+- [Hoy Jugamos](http://hoyjugamos.cloudapp.com.ar/): [[Laravel](https://github.com/larturi/php-hoyjugamos)]
+- Establecimientos: [[Laravel](https://github.com/larturi/laravel-establecimientos)]
+- CURD Laravel: [[Laravel](https://github.com/larturi/laravel-abm)]
+- CURD Laravel II: [[Laravel](https://github.com/larturi/laravel-abm2)]
 
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
 
-- Famosos Twitter: [Php](https://github.com/larturi/php-famosos-twitter) / [Demo](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
-- Seis Sombreros: [Php](https://github.com/larturi/php-seis-sombreros) / [Demo](http://testsombreros.site/)
-- Chistes: [Php](https://github.com/larturi/php-chistessincodificar) / [Demo](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
-- Programmer Day: [Php](https://github.com/larturi/php-programmerday) / [Demo](http://programmerday.cloudapp.com.ar)
-- Trivia Series: [Php](https://github.com/larturi/php-triviaseries)
-- Maschefacts: [Php](https://github.com/larturi/php-maschefacts)
-- PoCs & Labs: [Php](https://github.com/larturi/php-labs)
+- [Famosos Twitter](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php): [[Php](https://github.com/larturi/php-famosos-twitter)]
+- [Test Seis Sombreros](http://testsombreros.site/): [[Php](https://github.com/larturi/php-seis-sombreros)]
+- [Chistes](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar): [[Php](https://github.com/larturi/php-chistessincodificar)]
+- [Programmer Day](http://programmerday.cloudapp.com.ar): [[Php](https://github.com/larturi/php-programmerday)]
+- Trivia Series: [[Php](https://github.com/larturi/php-triviaseries)]
+- Maschefacts: [[Php](https://github.com/larturi/php-maschefacts)]
+- PoCs & Labs: [[Php](https://github.com/larturi/php-labs)]
 
 ## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
 
-- Gym Fitness: [WordPress](https://github.com/larturi/wordpress-gym)
+- Gym Fitness: [[WordPress](https://github.com/larturi/wordpress-gym)]
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
-- **Burguers**: [Angular & Firebase](https://github.com/larturi/angular-burguer-queen) / [Demo](http://cloudapp.com.ar/demo/burgers/#/list-categories)
-- **Chat Angular**: [Angular & Firebase](https://github.com/larturi/angular-firechat) / [Demo](http://cloudapp.com.ar/demo/firechat/)
-- **Heroes**: [Angular](https://github.com/larturi/angular-buscador-heroes) / [Demo](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
-- **Películas App**: [Angular](https://github.com/larturi/angular-peliculas) / [Demo](http://cloudapp.com.ar/demo/peliculas/#/home)
-- **Blackjack**: [Angular](https://github.com/larturi/js-blackjack) / [Demo](http://cloudapp.com.ar/demo/blackjack/#/juego)
-- **Blog**: [Angular](https://github.com/larturi/angular-blog) / [Demo](https://angular-blog-app.netlify.app)
-- **Blog Admin**: [Angular](https://github.com/larturi/angular-dasboard-blog) / [Demo](https://blog-admin-angular.netlify.app)
-- Game of the year: [Angular](https://github.com/larturi/angular-goty) / [Demo](http://cloudapp.com.ar/demo/goty/#/inicio)
-- Drag & Drop Países: [Angular](https://github.com/larturi/angular-drag-drop-paises)
-- Upload Images: [Angular](https://github.com/larturi/angular-uploadimages-firebase) / [Demo](http://cloudapp.com.ar/demo/upload-images/#/fotos)
-- Gráficos: [Angular](https://github.com/larturi/angular-graficos)
-- Maps PoC: [Angular](https://github.com/larturi/angular-mapas)
-- Reservas App: [Angular](https://github.com/larturi/angular-reservas-peluqueria)
-- Contactos App: [Angular](https://github.com/larturi/angular-contact-list)
-- Pipes: [Angular](https://github.com/larturi/angular-pipes)
-- Preguntas y Respuestas: [Angular](https://github.com/larturi/angular-preguntas-respuestas)
-- CRUD Firebase: [Angular & Firebase](https://github.com/larturi/angular-crud-firebase)
-- Login Firebase: [Angular & Firebase](https://github.com/larturi/angular-login-firebase)
-- Angular Todolist: [Angular](https://github.com/larturi/angular-task-list)
+- [Burguers](http://cloudapp.com.ar/demo/burgers/#/list-categories): [[Angular & Firebase](https://github.com/larturi/angular-burguer-queen)]
+- [Chat Angular](http://cloudapp.com.ar/demo/firechat/): [[Angular & Firebase](https://github.com/larturi/angular-firechat)]
+- [Heroes](http://cloudapp.com.ar/demo/heroes-ng/#/heroes): [[Angular](https://github.com/larturi/angular-buscador-heroes)]
+- [Películas App](http://cloudapp.com.ar/demo/peliculas/#/home): [[Angular](https://github.com/larturi/angular-peliculas)]
+- [Blackjack](http://cloudapp.com.ar/demo/blackjack/#/juego): [[Angular](https://github.com/larturi/js-blackjack)]
+- [Blog](https://angular-blog-app.netlify.app): [[Angular](https://github.com/larturi/angular-blog)]
+- [Blog Admin](https://blog-admin-angular.netlify.app): [[Angular](https://github.com/larturi/angular-dasboard-blog)]
+- [Game of the year](http://cloudapp.com.ar/demo/goty/#/inicio): [[Angular](https://github.com/larturi/angular-goty)]
+- [Upload Images](http://cloudapp.com.ar/demo/upload-images/#/fotos): [[Angular](https://github.com/larturi/angular-uploadimages-firebase)]
+- Drag & Drop Países: [[Angular](https://github.com/larturi/angular-drag-drop-paises)]
+- Gráficos: [[Angular](https://github.com/larturi/angular-graficos)]
+- Maps PoC: [[Angular](https://github.com/larturi/angular-mapas)]
+- Reservas App: [[Angular](https://github.com/larturi/angular-reservas-peluqueria)]
+- Contactos App: [[Angular](https://github.com/larturi/angular-contact-list)]
+- Pipes: [[Angular](https://github.com/larturi/angular-pipes)]
+- Preguntas y Respuestas: [[Angular](https://github.com/larturi/angular-preguntas-respuestas)]
+- CRUD Firebase: [[Angular & Firebase](https://github.com/larturi/angular-crud-firebase)]
+- Login Firebase: [[Angular & Firebase](https://github.com/larturi/angular-login-firebase)]
+- Angular Todolist: [[Angular](https://github.com/larturi/angular-task-list)]
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
