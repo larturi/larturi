@@ -38,7 +38,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - iCard: [React](https://github.com/larturi/react-icard) · [Django](https://github.com/larturi/django-rest-icard)
 - Tickets App: [React](https://github.com/larturi/react-tickets-app) · [Node](https://github.com/larturi/-node-tickets-app-server)
 - Noticias App: [React](https://github.com/larturi/react-noticias)
-- CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
+- CRUD Productos: [React & Redux](https://github.com/larturi/react-redux-crud-productos)
 - Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) · [Server](https://github.com/larturi/node-mapas-server)
 - Clima App: [React](https://github.com/larturi/react-clima)
 - MERN Chat: [React](https://github.com/larturi/react-chatapp-app) · [Node](https://github.com/larturi/node-chatapp-server)
@@ -93,7 +93,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - Node & MySQL with TypeScript: [Node](https://github.com/larturi/node-ts-mysql)
 - Chat: [Node](https://github.com/larturi/node-socket-chat)
 - Todo Terminal App II: [Node](https://github.com/larturi/node-todolist-app)
-- Apollo & MySQL [Node](https://github.com/larturi/apollo-graphql-mysql-server)
+- Apollo & MySQL: [Node](https://github.com/larturi/apollo-graphql-mysql-server)
 - MERN Chat: [React](https://github.com/larturi/react-chatapp-app) · [Node](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
