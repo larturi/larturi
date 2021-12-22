@@ -80,7 +80,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Filetransfer App](https://react-filetransfer-cliente.vercel.app/): [[React](https://github.com/larturi/react-filetransfer-cliente)] [[Node](https://github.com/larturi/node-filetransfer-backend)]
 - [Bienes Raices](https://bienesraices-gatsby-app.netlify.app/): [[Gatsby](https://github.com/larturi/react-propiedades-front-gatsby)] [[Strapi](https://github.com/larturi/node-propiedades-back)]
 - PoCs & Labs: [[Node](https://github.com/larturi/node-labs)]
-- Apollo Server MySQL TypeScript [[Node](https://github.com/larturi/apollo-graphql-typescript)]
+- Apollo & MySQL & TypeScript [[Node](https://github.com/larturi/apollo-graphql-typescript)]
 - Tickets App: [[React](https://github.com/larturi/react-tickets-app)] [[Node](https://github.com/larturi/-node-tickets-app-server)]
 - Bands Names: [[SocketIO](https://github.com/larturi/socketio-band-names-server)] [[Client](https://github.com/larturi/socketio-band-names)]
 - Turnos: [[Node](https://github.com/larturi/node-turnos)]
@@ -145,54 +145,54 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
-- **Todolist Nuxt**: [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) / [Laravel](https://github.com/larturi/laravel-vue-todolist-backend) / [Demo](http://todolist-vue.cloudapp.com.ar/dist)
-- **Matafuegos**: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos) / [Demo](https://matafuegos-nuxt.netlify.app/)
-- Buscador Banderas: [Vue](https://github.com/larturi/vue-buscador-banderas) / [Demo](https://vue-flags-api.netlify.app)
-- CRUD Firebase Auth: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
-- Cotización Dólar: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
-- Composition PoC: [Vue](https://github.com/larturi/vue-composition-poc)
-- MEVN CRUD PoC: [Vue](https://github.com/larturi/vue-crud-node-frontend) / [Node](https://github.com/larturi/vue-crud-node-backend)
+- [Todolist Nuxt](http://todolist-vue.cloudapp.com.ar/dist): [[Nuxt](https://github.com/larturi/vue-nuxt-todolist-client)] [[Laravel](https://github.com/larturi/laravel-vue-todolist-backend)]
+- Matafuegos: [[Nuxt](https://github.com/larturi/vue-nuxt-matafuegos)] [[Demo](https://matafuegos-nuxt.netlify.app/)]
+- Buscador Banderas: [[Vue](https://github.com/larturi/vue-buscador-banderas)] [[Demo](https://vue-flags-api.netlify.app)]
+- CRUD Firebase Auth: [[Vue](https://github.com/larturi/vue-crud-firebase-auth)]
+- Cotización Dólar: [[Vue](https://github.com/larturi/vue-axios-vuetify-dolar)]
+- Composition PoC: [[Vue](https://github.com/larturi/vue-composition-poc)]
+- MEVN CRUD PoC: [[Vue](https://github.com/larturi/vue-crud-node-frontend)] [[Node](https://github.com/larturi/vue-crud-node-backend)]
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
-- Django & Postgres & React App: [Docker](https://github.com/larturi/docker-django-rest-react-poc)
-- Postgres & PgAdmin: [Docker](https://github.com/larturi/docker-postgres-pgadmin)
-- Php8 & MySQL: [Docker](https://github.com/larturi/docker-php8-mysql)
-- Php5.4 & MySQL: [Docker](https://github.com/larturi/docker-php54-mysql)
-- Laravel & MySQL & PhpMyAdmin: [Docker](https://github.com/larturi/docker-laravel-mysql)
+- Django & Postgres & React App: [[Docker](https://github.com/larturi/docker-django-rest-react-poc)]
+- Postgres & PgAdmin: [[Docker](https://github.com/larturi/docker-postgres-pgadmin)]
+- Php8 & MySQL: [[Docker](https://github.com/larturi/docker-php8-mysql)]
+- Php5.4 & MySQL: [[Docker](https://github.com/larturi/docker-php54-mysql)]
+- Laravel & MySQL & PhpMyAdmin: [[Docker](https://github.com/larturi/docker-laravel-mysql)]
 
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
-- **Portafolio Old**: [JavaScript](https://github.com/larturi/js-leandroarturi)
-- **BlockChain**: [JavaScript](https://github.com/larturi/js-blockchain)
-- The Vision Test: [JavaScript](https://github.com/larturi/js-the-vision-test) / [Demo](http://cloudapp.com.ar/visiontest)
-- Simon: [JavaScript](https://github.com/larturi/js-simon) / [Demo](http://cloudapp.com.ar/demo/simon)
+- [The Vision Test](http://cloudapp.com.ar/visiontest): [[JavaScript](https://github.com/larturi/js-the-vision-test)]
+- [Simon](http://cloudapp.com.ar/demo/simon):[[JavaScript](https://github.com/larturi/js-simon)] 
+- BlockChain: [[JavaScript](https://github.com/larturi/js-blockchain)]
+- Portafolio Old: [[JavaScript](https://github.com/larturi/js-leandroarturi)]
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
-- Red Social: [Bootstrap](https://github.com/larturi/bootstrap-red-social) / [Demo](https://larturi.github.io/bootstrap-red-social)
-- Dashboard: [Bootstrap](https://github.com/larturi/bootstrap-dashboard) / [Demo](https://larturi.github.io/bootstrap-dashboard/)
-- Portafolio: [Bootstrap](https://github.com/larturi/bootstrap-portafolio) / [Demo](https://larturi.github.io/bootstrap-portafolio)
-- Vanilla: [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos) / [Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) / [Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)
+- [Red Social](https://larturi.github.io/bootstrap-red-social): [[Bootstrap](https://github.com/larturi/bootstrap-red-social)]
+- [Dashboard](https://larturi.github.io/bootstrap-dashboard/): [[Bootstrap](https://github.com/larturi/bootstrap-dashboard)]
+- [Portafolio](https://larturi.github.io/bootstrap-portafolio): [[Bootstrap](https://github.com/larturi/bootstrap-portafolio)]
+- Vanilla: [[Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)] [[Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)] [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
-- Airbnb: [Tailwind](https://github.com/larturi/tailwind-airbnb) / [Demo](https://larturi.github.io/tailwind-airbnb/)
+- [Airbnb](https://larturi.github.io/tailwind-airbnb/): [[Tailwind](https://github.com/larturi/tailwind-airbnb)]
 
 ## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 
--  Ionic Todolist: [Ionic](https://github.com/larturi/angular-todolist) / [Demo](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
+- [Ionic Todolist](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1): [[Ionic](https://github.com/larturi/angular-todolist)]
 
 ## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
 
--  **Películas**: [React Native](https://github.com/larturi/react-native-peliculas)
--  **Calculadora**: [React Native](https://github.com/larturi/react-native-calculadora)
--  Counter App: [React Native](https://github.com/larturi/react-native-counter-app)
+-  Películas: [[React Native](https://github.com/larturi/react-native-peliculas)]
+-  Calculadora: [[React Native](https://github.com/larturi/react-native-calculadora)]
+-  Counter App: [[React Native](https://github.com/larturi/react-native-counter-app)]
 
 ## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
 
--  **Películas**: [Flutter](https://github.com/larturi/flutter-peliculas)
--  News: [Flutter](https://github.com/larturi/flutter-news)
--  User Preferences: [Flutter](https://github.com/larturi/flutter-user-preferences)
--  QR: [Flutter](https://github.com/larturi/flutter-qr)
--  Diseños Flutter: [Flutter](https://github.com/larturi/flutter-disenos)
+-  Películas: [[Flutter](https://github.com/larturi/flutter-peliculas)]
+-  News: [[Flutter](https://github.com/larturi/flutter-news)]
+-  User Preferences: [[Flutter](https://github.com/larturi/flutter-user-preferences)]
+-  QR: [[Flutter](https://github.com/larturi/flutter-qr)]
+-  Diseños Flutter: [[Flutter](https://github.com/larturi/flutter-disenos)]
