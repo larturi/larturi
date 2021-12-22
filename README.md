@@ -172,7 +172,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Red Social**](https://larturi.github.io/bootstrap-red-social): [Bootstrap](https://github.com/larturi/bootstrap-red-social)
 - [**Dashboard**](https://larturi.github.io/bootstrap-dashboard/): [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
 - [**Portafolio**](https://larturi.github.io/bootstrap-portafolio): [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
-- **Vanilla**: [Album](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) · [Blog](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) · [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
+- [**Album**](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) · [**Blog**](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html): [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
