@@ -16,32 +16,32 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Instagram Clone](https://instaclone-react.netlify.app): [[Next](https://github.com/larturi/react-apollo-instaclone-client)] [[Apollo](https://github.com/larturi/apollo-instaclone-server)]
 - [E-Commerce](http://cloudapp.com.ar/ecommerce-games): [[Next](https://github.com/larturi/react-ecommerce-client)] [[Strapi](https://github.com/larturi/strapi-ecommerce-server)]
 - [Todolist MERN](http://www.todolist-mern.cloudapp.com.ar): [[Next](https://github.com/larturi/react-todolist-mern-cliente)] [[Node](https://github.com/larturi/node-todolist-mern-ts-server)] 
-- CRM Next: [Next](https://github.com/larturi/react-graphql-crm) / [Apollo](https://github.com/larturi/node-graphql-crm) / [Demo](http://cloudapp.com.ar/crm-next-apollo)
-- Crypto CoinGecko App: [React](https://github.com/larturi/react-crypto-coingecko) / [Demo](https://react-crypto-coingecko.netlify.app/)
-- MERN Tasks: [React](https://github.com/larturi/react-mern-tasks) / [Node](https://github.com/larturi/node-mern-tasks) / [Demo](http://mern-tasks.cloudapp.com.ar/)
+- [CRM Next](http://cloudapp.com.ar/crm-next-apollo): [[Next](https://github.com/larturi/react-graphql-crm)] [[Apollo](https://github.com/larturi/node-graphql-crm)]
+- [Crypto CoinGecko](https://react-crypto-coingecko.netlify.app/): [[React](https://github.com/larturi/react-crypto-coingecko)]
+- [MERN Tasks](http://mern-tasks.cloudapp.com.ar/): [[React](https://github.com/larturi/react-mern-tasks)] [[Node](https://github.com/larturi/node-mern-tasks)]
+- [Products Hunt](https://product-hunt-1f8d8.web.app): [[Next & Firebase]](https://github.com/larturi/react-next-producthunt)
+- [Filetransfer](https://react-filetransfer-cliente.vercel.app/): [[React](https://github.com/larturi/react-filetransfer-cliente)] [[Node](https://github.com/larturi/node-filetransfer-backend)]
+- [Calendar](http://calendar-react.cloudapp.com.ar/login): [[React & Firebase](https://github.com/larturi/react-journal-app)]
+- [Giphy App](http://cloudapp.com.ar/demo/gif-react): [[React](https://github.com/larturi/react-gift-app)]
+- [Drinks App](http://cloudapp.com.ar/demo/drinks): [[React](https://github.com/larturi/react-drinks)]
+- [Curriculum](https://gatsby-curriculum.netlify.app): [[Gatsby](https://github.com/larturi/react-gatsby-curriculum)]
+- [Hotel Gatsby](https://gatsby-hotel-app.netlify.app/): [[Gatsby & Dato CMS](https://github.com/larturi/react-hotel-gatsby)]
+- [Bienes Raices](https://bienesraices-gatsby-app.netlify.app/): [[Gatsby](https://github.com/larturi/react-propiedades-front-gatsby)] [[Strapi](https://github.com/larturi/node-propiedades-back)]
+- [Buscador de Canciones](http://cloudapp.com.ar/demo/lyrics): [[React](https://github.com/larturi/react-lyrics)]
+- [Criptomonedas App](http://cloudapp.com.ar/demo/cripto): [[React](https://github.com/larturi/react-criptomonedas)]
+- [Heroes App](https://heros-react-app.netlify.app): [[React](https://github.com/larturi/react-heroes-app)]
+- [Breaking Bad App](https://breakingbad-app-react.netlify.app): [[React](https://github.com/larturi/react-breakingbad-api)]
+- [Basic Budget](https://budget-basic-react-app.netlify.app): [[React](https://github.com/larturi/react-presupuesto)]
+- [Cotizador de Seguros](https://cotizador-react-app-ok.netlify.app): [[React](https://github.com/larturi/react-cotizador)]
+- [Citas App](https://agenda-turnos-react.netlify.app): [[React](https://github.com/larturi/react-citas)]
+- [Imágenes Pixabay](https://images-pixabay-react-app.netlify.app): [[React](https://github.com/larturi/react-imagenes-pixabay)]
 - iCard: [[React](https://github.com/larturi/react-icard)] [[Django](https://github.com/larturi/django-rest-icard)]
-- Products Hunt: [Next & Firebase](https://github.com/larturi/react-next-producthunt) / [Demo](https://product-hunt-1f8d8.web.app)
-- Filetransfer: [React](https://github.com/larturi/react-filetransfer-cliente) / [Node](https://github.com/larturi/node-filetransfer-backend) / [Demo](https://react-filetransfer-cliente.vercel.app/)
-- Calendar: [React & Firebase](https://github.com/larturi/react-journal-app) / [Demo](http://calendar-react.cloudapp.com.ar/login)
-- Giphy App: [React](https://github.com/larturi/react-gift-app) / [Demo](http://cloudapp.com.ar/demo/gif-react)
-- Drinks App: [React](https://github.com/larturi/react-drinks) / [Demo](http://cloudapp.com.ar/demo/drinks)
-- Curriculum: [Gatsby](https://github.com/larturi/react-gatsby-curriculum) / [Demo](https://gatsby-curriculum.netlify.app)
-- Hotel Gatsby: [Gatsby & Dato CMS](https://github.com/larturi/react-hotel-gatsby) / [Demo](https://gatsby-hotel-app.netlify.app/)
-- Bienes Raices: [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) / [Strapi](https://github.com/larturi/node-propiedades-back) / [Demo](https://bienesraices-gatsby-app.netlify.app/)
-- Buscador de Canciones: [React](https://github.com/larturi/react-lyrics) / [Demo](http://cloudapp.com.ar/demo/lyrics)
-- Criptomonedas App: [React](https://github.com/larturi/react-criptomonedas) / [Demo](http://cloudapp.com.ar/demo/cripto)
-- Heroes App: [React](https://github.com/larturi/react-heroes-app) / [Demo](https://heros-react-app.netlify.app)
-- Breaking Bad App: [React](https://github.com/larturi/react-breakingbad-api) / [Demo](https://breakingbad-app-react.netlify.app)
-- Basic Budget: [React](https://github.com/larturi/react-presupuesto) / [Demo](https://budget-basic-react-app.netlify.app)
-- Cotizador de Seguros: [React](https://github.com/larturi/react-cotizador) / [Demo](https://cotizador-react-app-ok.netlify.app)
-- Citas App: [React](https://github.com/larturi/react-citas) / [Demo](https://agenda-turnos-react.netlify.app)
-- Imágenes Pixabay: [React](https://github.com/larturi/react-imagenes-pixabay) / [Demo](https://images-pixabay-react-app.netlify.app)
-- Tickets App: [React](https://github.com/larturi/react-tickets-app) / [Node](https://github.com/larturi/-node-tickets-app-server)
-- Noticias App: [React](https://github.com/larturi/react-noticias)
-- CRUD Productos (Redux): [React](https://github.com/larturi/react-redux-crud-productos)
-- Mapbox SocketIO: [React](https://github.com/larturi/react-mapas-client) / [Server](https://github.com/larturi/node-mapas-server)
-- Clima App: [React](https://github.com/larturi/react-clima)
-- MERN Chat: [React](https://github.com/larturi/react-chatapp-app) / [Node](https://github.com/larturi/node-chatapp-server)
+- Tickets App: [[React](https://github.com/larturi/react-tickets-app)] [[Node](https://github.com/larturi/-node-tickets-app-server)]
+- Noticias App: [[React](https://github.com/larturi/react-noticias)]
+- CRUD Productos (Redux): [[React](https://github.com/larturi/react-redux-crud-productos)]
+- Mapbox SocketIO: [[React](https://github.com/larturi/react-mapas-client)] [[Server](https://github.com/larturi/node-mapas-server)]
+- Clima App: [[React](https://github.com/larturi/react-clima)]
+- MERN Chat: [[React](https://github.com/larturi/react-chatapp-app)] [[Node](https://github.com/larturi/node-chatapp-server)]
 
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
