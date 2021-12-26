@@ -85,7 +85,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Bands Names**: [SocketIO](https://github.com/larturi/socketio-band-names-server) · [Client](https://github.com/larturi/socketio-band-names)
 - **Turnos**: [Node](https://github.com/larturi/node-turnos)
 - **FizzBuzz**: [Node](https://github.com/larturi/node-ts-fizzbuzz)
-- **BAsic Chat**: [SocketIO](https://github.com/larturi/socketio-chat-basico)
+- **Basic Chat**: [SocketIO](https://github.com/larturi/socketio-chat-basico)
 - **Weather App**: [Node](https://github.com/larturi/node-weather-app)
 - **Clima App**: [Node](https://github.com/larturi/node-clima)
 - **MEVN CRUD PoC**: [Vue](https://github.com/larturi/vue-crud-node-frontend) · [Node](https://github.com/larturi/vue-crud-node-backend)
