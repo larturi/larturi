@@ -50,6 +50,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Biblioteca App**](https://django-biblioteca.herokuapp.com): [Django](https://github.com/larturi/django-biblioteca)
 - [**Empleados App**](https://django-empleados.herokuapp.com): [Django](https://github.com/larturi/django-empleados)
 - **iCard**: [Django](https://github.com/larturi/django-rest-icard) · [React](https://github.com/larturi/react-icard)
+- **Django Personal Page**: [Django](https://github.com/larturi/django-personal-page)
 - **MyBlog App**: [Django](https://github.com/larturi/django-myblog)
 - **Web Page Cursos**: [Django](https://github.com/larturi/django-webpage/tree/main)
 - **API Blog**: [Django](https://github.com/larturi/django-rest-blog-full)
