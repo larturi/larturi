@@ -120,6 +120,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
 
 - **Gym Fitness**: [WordPress](https://github.com/larturi/wp-gymfitness)
+- **Pizzeria**: [WordPress](https://github.com/larturi/wordpress-gutenberg-pizzeria)
 - **Blog del Viajero**: [WordPress](https://github.com/larturi/wp-blog-viajero)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
