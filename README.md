@@ -67,8 +67,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
 - **CRUD Python Tkinter**: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 - **PoCs & Labs**: [Python](https://github.com/larturi/python-labs)
-- **PoCs & CSV to SQLite **: [Python](https://github.com/larturi/python-zip-csv-sqlite)
-- 
+- **PoCs & CSV to SQLite**: [Python](https://github.com/larturi/python-zip-csv-sqlite)
+
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 
 - **FastAPI & GraphQL**: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
