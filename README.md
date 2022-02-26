@@ -12,16 +12,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
-- [**Portafolio**](https://leandroarturi.com.ar): [Gatsby](https://github.com/larturi/portfolio-gatsby) · [Strapi](https://github.com/larturi/portfolio-strapi)
 - [**Crypto CoinGecko**](https://react-crypto-coingecko.netlify.app/): [React](https://github.com/larturi/react-crypto-coingecko)
 - [**MERN Tasks**](http://mern-tasks.cloudapp.com.ar/): [React](https://github.com/larturi/react-mern-tasks) · [Node](https://github.com/larturi/node-mern-tasks)
 - [**Filetransfer**](https://react-filetransfer-cliente.vercel.app/): [React](https://github.com/larturi/react-filetransfer-cliente) · [Node](https://github.com/larturi/node-filetransfer-backend)
 - [**Calendar**](http://calendar-react.cloudapp.com.ar/login): [React · Firebase](https://github.com/larturi/react-journal-app)
 - [**Giphy App**](http://cloudapp.com.ar/demo/gif-react): [React](https://github.com/larturi/react-gift-app)
 - [**Drinks App**](http://cloudapp.com.ar/demo/drinks): [React](https://github.com/larturi/react-drinks)
-- [**Curriculum**](https://gatsby-curriculum.netlify.app): [Gatsby](https://github.com/larturi/react-gatsby-curriculum)
-- [**Hotel Gatsby**](https://gatsby-hotel-app.netlify.app/): [Gatsby · Dato CMS](https://github.com/larturi/react-hotel-gatsby)
-- [**Bienes Raices**](https://bienesraices-gatsby-app.netlify.app/): [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) · [Strapi](https://github.com/larturi/node-propiedades-back)
 - [**Buscador de Canciones**](http://cloudapp.com.ar/demo/lyrics): [React](https://github.com/larturi/react-lyrics)
 - [**Criptomonedas App**](http://cloudapp.com.ar/demo/cripto): [React](https://github.com/larturi/react-criptomonedas)
 - [**Heroes App**](https://heros-react-app.netlify.app): [React](https://github.com/larturi/react-heroes-app)
@@ -48,6 +44,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Products Hunt**](https://product-hunt-1f8d8.web.app): [Next.js · Firebase](https://github.com/larturi/react-next-producthunt)
 - **Guitar LA**: [Next.js](https://github.com/larturi/react-next-guitarla)
 
+
+## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
+- [**Portafolio**](https://leandroarturi.com.ar): [Gatsby](https://github.com/larturi/portfolio-gatsby) · [Strapi](https://github.com/larturi/portfolio-strapi)
+- [**Curriculum**](https://gatsby-curriculum.netlify.app): [Gatsby](https://github.com/larturi/react-gatsby-curriculum)
+- [**Hotel Gatsby**](https://gatsby-hotel-app.netlify.app/): [Gatsby · Dato CMS](https://github.com/larturi/react-hotel-gatsby)
+- [**Bienes Raices**](https://bienesraices-gatsby-app.netlify.app/): [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) · [Strapi](https://github.com/larturi/node-propiedades-back)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
