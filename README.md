@@ -13,13 +13,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 
 - [**Portafolio**](https://leandroarturi.com.ar): [Gatsby](https://github.com/larturi/portfolio-gatsby) · [Strapi](https://github.com/larturi/portfolio-strapi)
-- [**Instagram Clone**](https://instaclone-react.netlify.app): [Next](https://github.com/larturi/react-apollo-instaclone-client) · [Apollo](https://github.com/larturi/apollo-instaclone-server)
-- [**E-Commerce**](http://cloudapp.com.ar/ecommerce-games): [Next](https://github.com/larturi/react-ecommerce-client) · [Strapi](https://github.com/larturi/strapi-ecommerce-server)
-- [**Todolist MERN**](http://www.todolist-mern.cloudapp.com.ar): [Next](https://github.com/larturi/react-todolist-mern-cliente) · [Node](https://github.com/larturi/node-todolist-mern-ts-server) 
-- [**CRM Next**](http://cloudapp.com.ar/crm-next-apollo): [Next](https://github.com/larturi/react-graphql-crm) · [Apollo](https://github.com/larturi/node-graphql-crm)
 - [**Crypto CoinGecko**](https://react-crypto-coingecko.netlify.app/): [React](https://github.com/larturi/react-crypto-coingecko)
 - [**MERN Tasks**](http://mern-tasks.cloudapp.com.ar/): [React](https://github.com/larturi/react-mern-tasks) · [Node](https://github.com/larturi/node-mern-tasks)
-- [**Products Hunt**](https://product-hunt-1f8d8.web.app): [Next · Firebase](https://github.com/larturi/react-next-producthunt)
 - [**Filetransfer**](https://react-filetransfer-cliente.vercel.app/): [React](https://github.com/larturi/react-filetransfer-cliente) · [Node](https://github.com/larturi/node-filetransfer-backend)
 - [**Calendar**](http://calendar-react.cloudapp.com.ar/login): [React · Firebase](https://github.com/larturi/react-journal-app)
 - [**Giphy App**](http://cloudapp.com.ar/demo/gif-react): [React](https://github.com/larturi/react-gift-app)
@@ -42,6 +37,16 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - **Mapbox SocketIO**: [React](https://github.com/larturi/react-mapas-client) · [Server](https://github.com/larturi/node-mapas-server)
 - **Clima App**: [React](https://github.com/larturi/react-clima)
 - **MERN Chat**: [React](https://github.com/larturi/react-chatapp-app) · [Node](https://github.com/larturi/node-chatapp-server)
+
+
+## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
+
+- [**Instagram Clone**](https://instaclone-react.netlify.app): [Next.js](https://github.com/larturi/react-apollo-instaclone-client) · [Apollo](https://github.com/larturi/apollo-instaclone-server)
+- [**E-Commerce**](http://cloudapp.com.ar/ecommerce-games): [Nex.jst](https://github.com/larturi/react-ecommerce-client) · [Strapi](https://github.com/larturi/strapi-ecommerce-server)
+- [**Todolist MERN**](http://www.todolist-mern.cloudapp.com.ar): [Next.js](https://github.com/larturi/react-todolist-mern-cliente) · [Node](https://github.com/larturi/node-todolist-mern-ts-server) 
+- [**CRM Next**](http://cloudapp.com.ar/crm-next-apollo): [Next.js](https://github.com/larturi/react-graphql-crm) · [Apollo](https://github.com/larturi/node-graphql-crm)
+- [**Products Hunt**](https://product-hunt-1f8d8.web.app): [Next.js · Firebase](https://github.com/larturi/react-next-producthunt)
+- **Guitar LA**: [Next.js](https://github.com/larturi/react-next-guitarla)
 
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
