@@ -131,8 +131,9 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 - **Gym Fitness**: [WordPress](https://github.com/larturi/wp-gymfitness)
 - **Visita Toronto**: [WordPress](https://github.com/larturi/wp-visita-toronto)
-- **Pizzeria**: [WordPress](https://github.com/larturi/wordpress-gutenberg-pizzeria)
+- **Pizzeria**: [WordPress](https://github.com/larturi/wp-gutenberg-pizzeria)
 - **Blog del Viajero**: [WordPress](https://github.com/larturi/wp-blog-viajero)
+- **Simple Theme Bootstrap**: [WordPress](https://github.com/larturi/wp-simple-theme-bootstrap)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
