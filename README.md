@@ -129,11 +129,11 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
 
-- **Gym Fitness**](https://github.com/larturi/wp-gymfitness)
-- **Visita Toronto**](https://github.com/larturi/wp-visita-toronto)
-- **Pizzeria**](https://github.com/larturi/wp-gutenberg-pizzeria)
-- **Blog del Viajero**](https://github.com/larturi/wp-blog-viajero)
-- **Simple Theme Bootstrap**](https://github.com/larturi/wp-simple-theme-bootstrap)
+- [**Gym Fitness**](https://github.com/larturi/wp-gymfitness)
+- [**Visita Toronto**](https://github.com/larturi/wp-visita-toronto)
+- [**Pizzeria**](https://github.com/larturi/wp-gutenberg-pizzeria)
+- [**Blog del Viajero**](https://github.com/larturi/wp-blog-viajero)
+- [**Simple Theme Bootstrap**](https://github.com/larturi/wp-simple-theme-bootstrap)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
@@ -159,13 +159,13 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 
-- [Todolist Nuxt](http://todolist-vue.cloudapp.com.ar/dist): [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) · [Laravel](https://github.com/larturi/laravel-vue-todolist-backend)
-- **Matafuegos**: [Nuxt](https://github.com/larturi/vue-nuxt-matafuegos) · [Demo](https://matafuegos-nuxt.netlify.app/)
-- **Buscador Banderas**: [Vue](https://github.com/larturi/vue-buscador-banderas) · [Demo](https://vue-flags-api.netlify.app)
-- **CRUD Firebase Auth**: [Vue](https://github.com/larturi/vue-crud-firebase-auth)
-- **Cotización Dólar**: [Vue](https://github.com/larturi/vue-axios-vuetify-dolar)
-- **Composition PoC**: [Vue](https://github.com/larturi/vue-composition-poc)
-- **MEVN CRUD PoC**: [Vue](https://github.com/larturi/vue-crud-node-frontend) · [Node](https://github.com/larturi/vue-crud-node-backend)
+- [**Todolist Nuxt**](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
+- [**Matafuegos**](https://github.com/larturi/vue-nuxt-matafuegos) · [🌐](https://matafuegos-nuxt.netlify.app)
+- [**Buscador Banderas**](https://github.com/larturi/vue-buscador-banderas) [🌐](https://vue-flags-api.netlify.app)
+- [**CRUD Firebase Auth**](https://github.com/larturi/vue-crud-firebase-auth)
+- [**Cotización Dólar**](https://github.com/larturi/vue-axios-vuetify-dolar)
+- [**Composition PoC**](https://github.com/larturi/vue-composition-poc)
+- [**MEVN CRUD PoC**](https://github.com/larturi/vue-crud-node-frontend)
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
 - **Django + Postgres + React**: [Docker](https://github.com/larturi/docker-django-rest-react-poc)
