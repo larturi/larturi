@@ -168,26 +168,26 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**MEVN CRUD PoC**](https://github.com/larturi/vue-crud-node-frontend)
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
-- **Django + Postgres + React**: [Docker](https://github.com/larturi/docker-django-rest-react-poc)
-- **Postgres + PgAdmin**: [Docker](https://github.com/larturi/docker-postgres-pgadmin)
-- **Php8 + MySQL**: [Docker](https://github.com/larturi/docker-php8-mysql)
-- **Php5.4 + MySQL**: [Docker](https://github.com/larturi/docker-php54-mysql)
-- **Laravel + MySQL + PhpMyAdmin**: [Docker](https://github.com/larturi/docker-laravel-mysql)
+- [**Django + Postgres + React**](https://github.com/larturi/docker-django-rest-react-poc)
+- [**Postgres + PgAdmin**](https://github.com/larturi/docker-postgres-pgadmin)
+- [**Php8 + MySQL**](https://github.com/larturi/docker-php8-mysql)
+- [**Php5.4 + MySQL**](https://github.com/larturi/docker-php54-mysql)
+- [**Laravel + MySQL + PhpMyAdmin**](https://github.com/larturi/docker-laravel-mysql)
 
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 
-- [**The Vision Test**](http://cloudapp.com.ar/visiontest): [JavaScript](https://github.com/larturi/js-the-vision-test)
-- [**Simon**](http://cloudapp.com.ar/demo/simon): [JavaScript](https://github.com/larturi/js-simon) 
-- **BlockChain**: [JavaScript](https://github.com/larturi/js-blockchain)
-- **Portafolio Old**: [JavaScript](https://github.com/larturi/js-leandroarturi)
+- [**The Vision Test**](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
+- [**Simon**](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
+- [**BlockChain**](https://github.com/larturi/js-blockchain)
+- [**Portafolio Old**](https://github.com/larturi/js-leandroarturi)
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 
-- [**Red Social**](https://larturi.github.io/bootstrap-red-social): [Bootstrap](https://github.com/larturi/bootstrap-red-social)
-- [**Dashboard**](https://larturi.github.io/bootstrap-dashboard/): [Bootstrap](https://github.com/larturi/bootstrap-dashboard)
-- [**Portafolio**](https://larturi.github.io/bootstrap-portafolio): [Bootstrap](https://github.com/larturi/bootstrap-portafolio)
-- [**Album**](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html) · [**Blog**](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html): [Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos)
+- [**Red Social**](https://github.com/larturi/bootstrap-red-social) [🌐](https://larturi.github.io/bootstrap-red-social)
+- [**Dashboard**](https://github.com/larturi/bootstrap-dashboard) [🌐](https://larturi.github.io/bootstrap-dashboard)
+- [**Portafolio**](https://github.com/larturi/bootstrap-portafolio) [🌐](https://larturi.github.io/bootstrap-portafolio)
+- [**Vanilla Bootstrap**](https://github.com/larturi/bootstrap-vanilla-ejemplos) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) · [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
