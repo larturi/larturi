@@ -71,40 +71,41 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
-- **Callejero Argenprop**: [Python](https://github.com/larturi/python-argenprop-callejero)
-- **CRUD Python Tkinter**: [Python](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
-- **PoCs & Labs**: [Python](https://github.com/larturi/python-labs)
-- **PoCs & CSV to SQLite**: [Python](https://github.com/larturi/python-zip-csv-sqlite)
+- [**Callejero Argenprop**](https://github.com/larturi/python-argenprop-callejero)
+- [**CRUD Python Tkinter**](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
+- [**PoCs & Labs**](https://github.com/larturi/python-labs)
+- [**PoCs & CSV to SQLite**](https://github.com/larturi/python-zip-csv-sqlite)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 
-- **FastAPI & GraphQL**: [FastAPI](https://github.com/larturi/fastapi-graphql-postgre)
+- [**FastAPI & GraphQL**](https://github.com/larturi/fastapi-graphql-postgre)
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
 
-- [**Portafolio**](https://leandroarturi.com.ar): [Gatsby](https://github.com/larturi/portfolio-gatsby) · [Strapi](https://github.com/larturi/portfolio-strapi)
-- [**Instaclone**](https://instaclone-react.netlify.app): [Next](https://github.com/larturi/react-apollo-instaclone-client) · [Apollo](https://github.com/larturi/apollo-instaclone-server)
-- [**E-Commerce**](http://cloudapp.com.ar/ecommerce-games): [Next](https://github.com/larturi/react-ecommerce-client) · [Strapi](https://github.com/larturi/strapi-ecommerce-server)
-- [**CRM Next**](http://cloudapp.com.ar/crm-next-apollo): [Next](https://github.com/larturi/react-graphql-crm) · [Apollo](https://github.com/larturi/node-graphql-crm)
-- [**MERN Tasks**](http://mern-tasks.cloudapp.com.ar/): [React](https://github.com/larturi/react-mern-tasks) · [Node](https://github.com/larturi/node-mern-tasks)
-- [**Todolist MERN**](http://www.todolist-mern.cloudapp.com.ar): [Next](https://github.com/larturi/react-todolist-mern-cliente) · [Node](https://github.com/larturi/node-todolist-mern-ts-server)
-- [**Filetransfer**](https://react-filetransfer-cliente.vercel.app/): [React](https://github.com/larturi/react-filetransfer-cliente) · [Node](https://github.com/larturi/node-filetransfer-backend)
-- [**Bienes Raices**](https://bienesraices-gatsby-app.netlify.app/): [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) · [Strapi](https://github.com/larturi/node-propiedades-back)
-- **PoCs & Labs**: [Node](https://github.com/larturi/node-labs)
-- **Apollo & MySQL & TypeScript**: [Node](https://github.com/larturi/apollo-graphql-typescript)
-- **Tickets App**: [React](https://github.com/larturi/react-tickets-app) · [Node](https://github.com/larturi/-node-tickets-app-server)
-- **Bands Names**: [SocketIO](https://github.com/larturi/socketio-band-names-server) · [Client](https://github.com/larturi/socketio-band-names)
-- **Turnos**: [Node](https://github.com/larturi/node-turnos)
-- **FizzBuzz**: [Node](https://github.com/larturi/node-ts-fizzbuzz)
-- **Basic Chat**: [SocketIO](https://github.com/larturi/socketio-chat-basico)
-- **Weather App**: [Node](https://github.com/larturi/node-weather-app)
-- **Clima App**: [Node](https://github.com/larturi/node-clima)
-- **MEVN CRUD PoC**: [Vue](https://github.com/larturi/vue-crud-node-frontend) · [Node](https://github.com/larturi/vue-crud-node-backend)
-- **Todolist Terminal App**: [Node](https://github.com/larturi/node-por-hacer)
-- **Node & MySQL & TypeScript**: [Node](https://github.com/larturi/node-ts-mysql)
-- **Chat**: [Node](https://github.com/larturi/node-socket-chat)
-- **Apollo & MySQL**: [Node](https://github.com/larturi/apollo-graphql-mysql-server)
-- **MERN Chat**: [React](https://github.com/larturi/react-chatapp-app) · [Node](https://github.com/larturi/node-chatapp-server)
+- [**Portafolio**](https://leandroarturi.com.ar) [🌐](https://github.com/larturi/portfolio-strapi)
+- [**Instaclone**](https://github.com/larturi/apollo-instaclone-server) [🌐](https://instaclone-react.netlify.app)
+
+- [**E-Commerce**](https://github.com/larturi/strapi-ecommerce-server) [🌐](http://cloudapp.com.ar/ecommerce-games)
+- [**CRM Next**](https://github.com/larturi/node-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
+- [**MERN Tasks**](https://github.com/larturi/node-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
+- [**Todolist MERN**](https://github.com/larturi/node-todolist-mern-ts-server) [🌐](http://www.todolist-mern.cloudapp.com.ar)
+- [**Filetransfer**](https://github.com/larturi/node-filetransfer-backend) [🌐](https://react-filetransfer-cliente.vercel.app)
+- [**Bienes Raices**](https://github.com/larturi/node-propiedades-back) [🌐](https://bienesraices-gatsby-app.netlify.app)
+- [**PoCs & Labs**](https://github.com/larturi/node-labs)
+- [**Apollo & MySQL & TypeScript**](https://github.com/larturi/apollo-graphql-typescript)
+- [**Tickets App**](https://github.com/larturi/react-tickets-app) · [Node](https://github.com/larturi/-node-tickets-app-server)
+- [**Bands Names**](https://github.com/larturi/socketio-band-names-server) · [Client](https://github.com/larturi/socketio-band-names)
+- [**Turnos**](https://github.com/larturi/node-turnos)
+- [**FizzBuzz**](https://github.com/larturi/node-ts-fizzbuzz)
+- [**Basic Chat**](https://github.com/larturi/socketio-chat-basico)
+- [**Weather App**](https://github.com/larturi/node-weather-app)
+- [**Clima App**](https://github.com/larturi/node-clima)
+- [**MEVN CRUD PoC**](https://github.com/larturi/vue-crud-node-backend)
+- [**Todolist Terminal App**](https://github.com/larturi/node-por-hacer)
+- [**Node & MySQL & TypeScript**](https://github.com/larturi/node-ts-mysql)
+- [**Chat**](https://github.com/larturi/node-socket-chat)
+- [**Apollo & MySQL**](https://github.com/larturi/apollo-graphql-mysql-server)
+- [**MERN Chat**](https://github.com/larturi/node-chatapp-server)
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
