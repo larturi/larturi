@@ -15,7 +15,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Crypto CoinGecko**](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
 - [**MERN Tasks**](https://github.com/larturi/react-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
 - [**Filetransfer**](https://github.com/larturi/react-filetransfer-cliente) [🌐](https://react-filetransfer-cliente.vercel.app)
-- [**Calendar**](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar/login)
+- [**Calendar**](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar)
 - [**Giphy App**](https://github.com/larturi/react-gift-app) [🌐](http://cloudapp.com.ar/demo/gif-react)
 - [**Drinks App**](https://github.com/larturi/react-drinks) [🌐](http://cloudapp.com.ar/demo/drinks)
 - [**Buscador de Canciones**](https://github.com/larturi/react-lyrics) [🌐](http://cloudapp.com.ar/demo/lyrics)
@@ -37,12 +37,12 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
 
-- [**Instagram Clone**](https://instaclone-react.netlify.app): [Next.js](https://github.com/larturi/react-apollo-instaclone-client) · [Apollo](https://github.com/larturi/apollo-instaclone-server)
-- [**E-Commerce**](http://cloudapp.com.ar/ecommerce-games): [Nex.jst](https://github.com/larturi/react-ecommerce-client) · [Strapi](https://github.com/larturi/strapi-ecommerce-server)
-- [**Todolist MERN**](http://www.todolist-mern.cloudapp.com.ar): [Next.js](https://github.com/larturi/react-todolist-mern-cliente) · [Node](https://github.com/larturi/node-todolist-mern-ts-server) 
-- [**CRM Next**](http://cloudapp.com.ar/crm-next-apollo): [Next.js](https://github.com/larturi/react-graphql-crm) · [Apollo](https://github.com/larturi/node-graphql-crm)
-- [**Products Hunt**](https://product-hunt-1f8d8.web.app): [Next.js · Firebase](https://github.com/larturi/react-next-producthunt)
-- **Guitar LA**: [Next.js](https://github.com/larturi/react-next-guitarla)
+- [**Instagram Clone**](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
+- [**E-Commerce**](https://github.com/larturi/react-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
+- [**Todolist MERN**](https://github.com/larturi/react-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
+- [**CRM Next**](https://github.com/larturi/react-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
+- [**Products Hunt**](https://github.com/larturi/react-next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
+- [**Guitar LA**](https://github.com/larturi/react-next-guitarla)
 
 
 ## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
