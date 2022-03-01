@@ -187,26 +187,26 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Red Social**](https://github.com/larturi/bootstrap-red-social) [🌐](https://larturi.github.io/bootstrap-red-social)
 - [**Dashboard**](https://github.com/larturi/bootstrap-dashboard) [🌐](https://larturi.github.io/bootstrap-dashboard)
 - [**Portafolio**](https://github.com/larturi/bootstrap-portafolio) [🌐](https://larturi.github.io/bootstrap-portafolio)
-- [**Vanilla Bootstrap**](https://github.com/larturi/bootstrap-vanilla-ejemplos) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) · [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
+- [**Vanilla Bootstrap**](https://github.com/larturi/bootstrap-vanilla-ejemplos) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 
-- [**Airbnb**](https://larturi.github.io/tailwind-airbnb/): [Tailwind](https://github.com/larturi/tailwind-airbnb)
+- [**Airbnb**](https://github.com/larturi/tailwind-airbnb) [🌐](https://larturi.github.io/tailwind-airbnb)
 
 ## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 
-- [**Ionic Todolist**](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1): [Ionic](https://github.com/larturi/angular-todolist)
+- [**Ionic Todolist**](https://github.com/larturi/angular-todolist) [🌐](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
 
 ## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
 
-- **Películas**: [React Native](https://github.com/larturi/react-native-peliculas)
-- **Calculadora**: [React Native](https://github.com/larturi/react-native-calculadora)
-- **Counter App:** [React Native](https://github.com/larturi/react-native-counter-app)
+- [**Películas**](https://github.com/larturi/react-native-peliculas)
+- [**Calculadora**](https://github.com/larturi/react-native-calculadora)
+- [**Counter App:**](https://github.com/larturi/react-native-counter-app)
 
 ## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
 
-- **Películas**: [Flutter](https://github.com/larturi/flutter-peliculas)
-- **News**: [Flutter](https://github.com/larturi/flutter-news)
-- **User Preferences**: [Flutter](https://github.com/larturi/flutter-user-preferences)
-- **QR**: [Flutter](https://github.com/larturi/flutter-qr)
-- **Diseños Flutter**: [Flutter](https://github.com/larturi/flutter-disenos)
+- [**Películas**](https://github.com/larturi/flutter-peliculas)
+- [**News**](https://github.com/larturi/flutter-news)
+- [**User Preferences**](https://github.com/larturi/flutter-user-preferences)
+- [**QR**](https://github.com/larturi/flutter-qr)
+- [**Diseños Flutter**](https://github.com/larturi/flutter-disenos)
