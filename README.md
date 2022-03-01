@@ -1,7 +1,3 @@
-<style>
-  a { color: red; }
-</style>
-
 # Hola, soy Leandro 👋 🇦🇷
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
