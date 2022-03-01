@@ -1,5 +1,6 @@
-<link type="text/css" rel="stylesheet" href="https://github.com/larturi/larturi/blob/main/styles.css" />
-
+<style>
+  a { color: red; }
+</style>
 
 # Hola, soy Leandro 👋 🇦🇷
 
