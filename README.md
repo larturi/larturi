@@ -84,7 +84,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 - [**Portafolio**](https://leandroarturi.com.ar) [🌐](https://github.com/larturi/portfolio-strapi)
 - [**Instaclone**](https://github.com/larturi/apollo-instaclone-server) [🌐](https://instaclone-react.netlify.app)
-
 - [**E-Commerce**](https://github.com/larturi/strapi-ecommerce-server) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [**CRM Next**](https://github.com/larturi/node-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [**MERN Tasks**](https://github.com/larturi/node-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
@@ -93,8 +92,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [**Bienes Raices**](https://github.com/larturi/node-propiedades-back) [🌐](https://bienesraices-gatsby-app.netlify.app)
 - [**PoCs & Labs**](https://github.com/larturi/node-labs)
 - [**Apollo & MySQL & TypeScript**](https://github.com/larturi/apollo-graphql-typescript)
-- [**Tickets App**](https://github.com/larturi/react-tickets-app) · [Node](https://github.com/larturi/-node-tickets-app-server)
-- [**Bands Names**](https://github.com/larturi/socketio-band-names-server) · [Client](https://github.com/larturi/socketio-band-names)
+- [**Tickets App**](https://github.com/larturi/-node-tickets-app-server)
+- [**Bands Names**](https://github.com/larturi/socketio-band-names-server)
 - [**Turnos**](https://github.com/larturi/node-turnos)
 - [**FizzBuzz**](https://github.com/larturi/node-ts-fizzbuzz)
 - [**Basic Chat**](https://github.com/larturi/socketio-chat-basico)
