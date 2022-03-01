@@ -46,28 +46,28 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 
 ## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
-- [**Portafolio**](https://leandroarturi.com.ar): [Gatsby](https://github.com/larturi/portfolio-gatsby) · [Strapi](https://github.com/larturi/portfolio-strapi)
-- [**Curriculum**](https://gatsby-curriculum.netlify.app): [Gatsby](https://github.com/larturi/react-gatsby-curriculum)
-- [**Hotel Gatsby**](https://gatsby-hotel-app.netlify.app/): [Gatsby · Dato CMS](https://github.com/larturi/react-hotel-gatsby)
-- [**Bienes Raices**](https://bienesraices-gatsby-app.netlify.app/): [Gatsby](https://github.com/larturi/react-propiedades-front-gatsby) · [Strapi](https://github.com/larturi/node-propiedades-back)
+- [**Portafolio**](https://github.com/larturi/portfolio-gatsby) [🌐](https://leandroarturi.com.ar)
+- [**Curriculum**](https://github.com/larturi/react-gatsby-curriculum) [🌐](https://gatsby-curriculum.netlify.app)
+- [**Hotel Gatsby**](https://github.com/larturi/react-hotel-gatsby) [🌐](https://gatsby-hotel-app.netlify.app)
+- [**Bienes Raices**](https://github.com/larturi/react-propiedades-front-gatsby) [🌐](https://bienesraices-gatsby-app.netlify.app)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
-- [**Users App**](https://django-user-app.herokuapp.com/login/): [Django](https://github.com/larturi/django-users)
-- [**Biblioteca App**](https://django-biblioteca.herokuapp.com): [Django](https://github.com/larturi/django-biblioteca)
-- [**Empleados App**](https://django-empleados.herokuapp.com): [Django](https://github.com/larturi/django-empleados)
-- [**Django Personal Page**](https://larturi10.pythonanywhere.com/): [Django](https://github.com/larturi/django-personal-page)
-- [**Django Cafeteria**](http://cafeteriadjango.pythonanywhere.com): [Django](https://github.com/larturi/django-cafeteria)
-- **iCard**: [Django](https://github.com/larturi/django-rest-icard) · [React](https://github.com/larturi/react-icard)
-- **Django Web Playground**: [Django](https://github.com/larturi/django-web-playground)
-- **MyBlog App**: [Django](https://github.com/larturi/django-myblog)
-- **Web Page Cursos**: [Django](https://github.com/larturi/django-webpage/tree/main)
-- **API Blog**: [Django](https://github.com/larturi/django-rest-blog-full)
-- **API Agenda**: [Django](https://github.com/larturi/django-rest-agenda)
-- **API Profiles**: [Django](https://github.com/larturi/django-profiles-api)
-- **API Polls**: [Django](https://github.com/larturi/django_polls)
-- **API Blog Basic**: [Django](https://github.com/larturi/django-rest-blog-basic)
-- **API PoC**: [Django](https://github.com/larturi/django-apirest-lab-tests)
+- [**Users App**](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
+- [**Biblioteca App**](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
+- [**Empleados App**](https://github.com/larturi/django-empleados) [🌐](https://django-empleados.herokuapp.com)
+- [**Django Personal Page**](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
+- [**Django Cafeteria**](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
+- [**iCard**](https://github.com/larturi/django-rest-icard) 
+- [**Django Web Playground**](https://github.com/larturi/django-web-playground)
+- [**MyBlog App**](https://github.com/larturi/django-myblog)
+- [**Web Page Cursos**](https://github.com/larturi/django-webpage/tree/main)
+- [**API Blog**](https://github.com/larturi/django-rest-blog-full)
+- [**API Agenda**](https://github.com/larturi/django-rest-agenda)
+- [**API Profiles**](https://github.com/larturi/django-profiles-api)
+- [**API Polls**](https://github.com/larturi/django_polls)
+- [**API Blog Basic**](https://github.com/larturi/django-rest-blog-basic)
+- [**API PoC**](https://github.com/larturi/django-apirest-lab-tests)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
