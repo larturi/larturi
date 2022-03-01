@@ -108,14 +108,14 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 
-- [**Todolist Nuxt**](http://todolist-vue.cloudapp.com.ar/dist): [Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) · [Laravel](https://github.com/larturi/laravel-vue-todolist-backend)
-- [**Cartera Sistemas**](http://www.carteradesistemas.cloudapp.com.ar/login): [Laravel · Vue](https://github.com/larturi/laravel-cartera-sistemas)
-- [**Dev Jobs**](http://www.devjobs.cloudapp.com.ar/): [Laravel](https://github.com/larturi/laravel-devJobs)
-- [**Red Social Recetas**](http://www.recetas.cloudapp.com.ar): [Laravel](https://github.com/larturi/laravel-recetas-cocina)
-- [**Hoy Jugamos**](http://hoyjugamos.cloudapp.com.ar/): [Laravel](https://github.com/larturi/php-hoyjugamos)
-- **Establecimientos**: [Laravel](https://github.com/larturi/laravel-establecimientos)
-- **CURD Laravel**: [Laravel](https://github.com/larturi/laravel-abm)
-- **CURD Laravel II**: [Laravel](https://github.com/larturi/laravel-abm2)
+- [**Todolist Laravel & Nuxt**](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
+- [**Cartera Sistemas**](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
+- [**Dev Jobs**](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
+- [**Red Social Recetas**](https://github.com/larturi/laravel-recetas-cocina) [🌐](http://www.recetas.cloudapp.com.ar)
+- [**Hoy Jugamos**](https://github.com/larturi/php-hoyjugamos) [🌐](http://hoyjugamos.cloudapp.com.ar)
+- [**Establecimientos**](https://github.com/larturi/laravel-establecimientos)
+- [**CURD Laravel**](https://github.com/larturi/laravel-abm)
+- [**CURD Laravel II**](https://github.com/larturi/laravel-abm2)
 
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
 
