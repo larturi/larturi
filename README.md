@@ -119,13 +119,13 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
 
-- [**Famosos Twitter**](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php): [Php](https://github.com/larturi/php-famosos-twitter)
-- [**Test Seis Sombreros**](http://testsombreros.site/): [Php](https://github.com/larturi/php-seis-sombreros)
-- [**Chistes**](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar): [Php](https://github.com/larturi/php-chistessincodificar)
-- [**Programmer Day**](http://programmerday.cloudapp.com.ar): [Php](https://github.com/larturi/php-programmerday)
-- **Trivia Series**: [Php](https://github.com/larturi/php-triviaseries)
-- **Maschefacts**: [Php](https://github.com/larturi/php-maschefacts)
-- **PoCs & Labs**: [Php](https://github.com/larturi/php-labs)
+- [**Famosos Twitter**](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
+- [**Test Seis Sombreros**](https://github.com/larturi/php-seis-sombreros) [🌐](http://testsombreros.site)
+- [**Chistes**](https://github.com/larturi/php-chistessincodificar) [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
+- [**Programmer Day**](https://github.com/larturi/php-programmerday) [🌐](http://programmerday.cloudapp.com.ar)
+- [**Trivia Series**](https://github.com/larturi/php-triviaseries)
+- [**Maschefacts**](https://github.com/larturi/php-maschefacts)
+- [**PoCs & Labs**](https://github.com/larturi/php-labs)
 
 ## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
 
