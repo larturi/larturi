@@ -1,3 +1,6 @@
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
+
 # Hola, soy Leandro 👋 🇦🇷
 
 Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
