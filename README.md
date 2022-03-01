@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="styles.css" />
+<link type="text/css" rel="stylesheet" href="/styles.css" />
 
 
 # Hola, soy Leandro 👋 🇦🇷
