@@ -42,7 +42,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Todolist MERN](https://github.com/larturi/react-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
 - [CRM Next](https://github.com/larturi/react-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [Products Hunt](https://github.com/larturi/react-next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
-- [Guitar LA](https://github.com/larturi/react-next-guitarla)
+- [Guitar LA](https://github.com/larturi/react-next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
 
 
 ## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
