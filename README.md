@@ -39,16 +39,16 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
 - [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
-- [CRM Next](https://github.com/larturi/react-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
+- [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
 - [Guitar LA](https://github.com/larturi/next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
 
 
 ## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
 - [Portafolio](https://github.com/larturi/portfolio-gatsby) [🌐](https://leandroarturi.com.ar)
-- [Curriculum](https://github.com/larturi/react-gatsby-curriculum) [🌐](https://gatsby-curriculum.netlify.app)
-- [Hotel Gatsby](https://github.com/larturi/react-hotel-gatsby) [🌐](https://gatsby-hotel-app.netlify.app)
-- [Bienes Raices](https://github.com/larturi/react-propiedades-front-gatsby) [🌐](https://bienesraices-gatsby-app.netlify.app)
+- [Curriculum](https://github.com/larturi/gatsby-curriculum) [🌐](https://gatsby-curriculum.netlify.app)
+- [Hotel Gatsby](https://github.com/larturi/gatsby-hotel) [🌐](https://gatsby-hotel-app.netlify.app)
+- [Bienes Raices](https://github.com/larturi/gatsby-propiedades-front) [🌐](https://bienesraices-gatsby-app.netlify.app)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 
