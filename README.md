@@ -38,7 +38,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
 - [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
-- [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
+- [CRM Next](https://github.com/larturi/react-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
 - [Guitar LA](https://github.com/larturi/next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
 
