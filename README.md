@@ -131,7 +131,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
 - [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
 - [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
-- [Simple Theme Bootstrap](https://github.com/larturi/wp-simple-theme-bootstrap)
+- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
+- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
 
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
 
