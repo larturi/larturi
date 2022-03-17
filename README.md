@@ -11,10 +11,10 @@ Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
 A continuación comparto mis repositorios públicos, ordenados por tecnología y algunos demos.
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
-
-- [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
+- [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
 - [MERN Tasks](https://github.com/larturi/react-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
 - [Filetransfer](https://github.com/larturi/react-filetransfer-cliente) [🌐](https://react-filetransfer-cliente.vercel.app)
+- [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
 - [Calendar](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar)
 - [Giphy App](https://github.com/larturi/react-gift-app) [🌐](http://cloudapp.com.ar/demo/gif-react)
 - [Drinks App](https://github.com/larturi/react-drinks) [🌐](http://cloudapp.com.ar/demo/drinks)
@@ -36,13 +36,11 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
-
-- [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
-- [E-Commerce](https://github.com/larturi/react-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
-- [Todolist MERN](https://github.com/larturi/react-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
-- [CRM Next](https://github.com/larturi/react-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
-- [Products Hunt](https://github.com/larturi/react-next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
-- [Guitar LA](https://github.com/larturi/react-next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
+- [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
+- [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
+- [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
+- [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
+- [Guitar LA](https://github.com/larturi/next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
 
 
 ## <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
