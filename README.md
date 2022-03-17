@@ -15,6 +15,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [MERN Tasks](https://github.com/larturi/react-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
 - [Filetransfer](https://github.com/larturi/react-filetransfer-cliente) [🌐](https://react-filetransfer-cliente.vercel.app)
 - [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
+- [React Lyrics](https://github.com/larturi/react-lyrics-v2) [🌐](https://lyrics-react-lna.netlify.app)
 - [Calendar](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar)
 - [Giphy App](https://github.com/larturi/react-gift-app) [🌐](http://cloudapp.com.ar/demo/gif-react)
 - [Drinks App](https://github.com/larturi/react-drinks) [🌐](http://cloudapp.com.ar/demo/drinks)
