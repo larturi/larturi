@@ -19,7 +19,6 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Calendar](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar)
 - [Giphy App](https://github.com/larturi/react-gift-app) [🌐](http://cloudapp.com.ar/demo/gif-react)
 - [Drinks App](https://github.com/larturi/react-drinks) [🌐](http://cloudapp.com.ar/demo/drinks)
-- [Buscador de Canciones](https://github.com/larturi/react-lyrics) [🌐](http://cloudapp.com.ar/demo/lyrics)
 - [Criptomonedas App](https://github.com/larturi/react-criptomonedas) [🌐](http://cloudapp.com.ar/demo/cripto)
 - [Heroes App](https://github.com/larturi/react-heroes-app) [🌐](https://heros-react-app.netlify.app)
 - [Breaking Bad](https://github.com/larturi/react-breakingbad-api) [🌐](https://breakingbad-app-react.netlify.app)
