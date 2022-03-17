@@ -199,9 +199,9 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
 
-- [Películas](https://github.com/larturi/react-native-peliculas)
-- [Calculadora](https://github.com/larturi/react-native-calculadora)
-- [Counter App:](https://github.com/larturi/react-native-counter-app)
+- [Películas](https://github.com/larturi/rn-peliculas)
+- [Calculadora](https://github.com/larturi/rn-calculadora)
+- [Counter App:](https://github.com/larturi/rn-counter-app)
 
 ## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
 
