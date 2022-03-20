@@ -71,6 +71,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
 - [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
+- [Scraping BeautifulSoup](https://github.com/larturi/python-scraping)
 - [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 - [PoCs & Labs](https://github.com/larturi/python-labs)
 - [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
