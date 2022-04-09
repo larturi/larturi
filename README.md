@@ -73,6 +73,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 - [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
 - [Scraping BeautifulSoup](https://github.com/larturi/python-scraping-beautifulsoup)
 - [Scraping Spider](https://github.com/larturi/python-scraping-spider)
+- [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl)
 - [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 - [PoCs & Labs](https://github.com/larturi/python-labs)
 - [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
