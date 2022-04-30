@@ -180,7 +180,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 
 ## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
-
+- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
 - [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
 - [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
 - [BlockChain](https://github.com/larturi/js-blockchain)
