@@ -72,7 +72,8 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 - [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
 - [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
-- [Scraping BeautifulSoup](https://github.com/larturi/python-scraping-beautifulsoup)
+- [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)
+- [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)
 - [Scraping Spider](https://github.com/larturi/python-scraping-spider)
 - [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl)
 - [Python Recetario](https://github.com/larturi/python-recetario)
