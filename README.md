@@ -87,7 +87,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
 
-- [Portafolio](https://leandroarturi.com.ar) [🌐](https://github.com/larturi/portfolio-strapi)
+- [Portafolio](https://github.com/larturi/portfolio-strapi) [🌐](https://leandroarturi.com.ar)
 - [Instaclone](https://github.com/larturi/apollo-instaclone-server) [🌐](https://instaclone-react.netlify.app)
 - [E-Commerce](https://github.com/larturi/strapi-ecommerce-server) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [CRM Next](https://github.com/larturi/node-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
