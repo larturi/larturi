@@ -71,6 +71,7 @@ A continuación comparto mis repositorios públicos, ordenados por tecnología y
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
 
 - [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
+- [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)
 - [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
 - [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)
 - [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)
