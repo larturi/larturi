@@ -1,14 +1,12 @@
 # Leandro Arturi
 
-Licenciado en Sistemas de Información (UBA) y Desarrollador Web Full Stack.
+I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from the University of Buenos Aires. I am passionate about the world of development, which keeps me constantly learning. I am motivated by long-term projects, but I also enjoy solving problems. I am a pragmatic, flexible and organized person. I am always predisposed to learn and to offer my help.
 
-- Portafolio: [leandroarturi.com.ar](https://leandroarturi.com.ar)
-- Twitter: [@leandroarturi](https://twitter.com/leandroarturi)
+- Portfolio: [leandroarturi.com.ar](https://leandroarturi.com.ar)
 - LinkedIn: [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
+- Twitter: [@leandroarturi](https://twitter.com/leandroarturi)
 
-# Repositorios
-
-A continuación comparto mis repositorios públicos, ordenados por tecnología y algunos demos.
+# Repositories
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 - [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
