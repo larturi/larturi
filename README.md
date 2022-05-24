@@ -32,7 +32,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Clima App](https://github.com/larturi/react-clima)
 - [MERN Chat](https://github.com/larturi/react-chatapp-app)
 
-
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
 - [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [App Kiosco Next & Prisma](https://github.com/larturi/next-prisma-kiosoco-app) [🌐](https://next-prisma-kiosoco-app-nvwrpxxfa-larturi.vercel.app)
@@ -47,8 +46,33 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Hotel Gatsby](https://github.com/larturi/gatsby-hotel) [🌐](https://gatsby-hotel-app.netlify.app)
 - [Bienes Raices](https://github.com/larturi/gatsby-propiedades-front) [🌐](https://bienesraices-gatsby-app.netlify.app)
 
-## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
+## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
+- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
+- [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
+- [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
+- [BlockChain](https://github.com/larturi/js-blockchain)
+- [Portafolio Old](https://github.com/larturi/js-leandroarturi)
 
+## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
+- [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
+- [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
+- [Dev Jobs](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
+- [Red Social Recetas](https://github.com/larturi/laravel-recetas-cocina) [🌐](http://www.recetas.cloudapp.com.ar)
+- [Hoy Jugamos](https://github.com/larturi/php-hoyjugamos) [🌐](http://hoyjugamos.cloudapp.com.ar)
+- [Establecimientos](https://github.com/larturi/laravel-establecimientos)
+- [CURD Laravel](https://github.com/larturi/laravel-abm)
+- [CURD Laravel II](https://github.com/larturi/laravel-abm2)
+
+## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> PHP
+- [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
+- [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://testsombreros.site)
+- [Chistes](https://github.com/larturi/php-chistessincodificar) [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
+- [Programmer Day](https://github.com/larturi/php-programmerday) [🌐](http://programmerday.cloudapp.com.ar)
+- [Trivia Series](https://github.com/larturi/php-triviaseries)
+- [Maschefacts](https://github.com/larturi/php-maschefacts)
+- [PoCs & Labs](https://github.com/larturi/php-labs)
+
+## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 - [Django Starter](https://github.com/larturi/django-starter)
 - [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
 - [Biblioteca App](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
@@ -56,6 +80,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
 - [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
 - [iCard](https://github.com/larturi/django-rest-icard) 
+- [Django Todolist with Login]([https://github.com/larturi/django-rest-icard](https://github.com/larturi/django-todolist))
 - [Django Web Playground](https://github.com/larturi/django-web-playground)
 - [MyBlog App](https://github.com/larturi/django-myblog)
 - [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)
@@ -67,7 +92,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [API PoC](https://github.com/larturi/django-apirest-lab-tests)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
-
 - [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
 - [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)
 - [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
@@ -81,11 +105,9 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
-
 - [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
 
 ## <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
-
 - [Portafolio](https://github.com/larturi/portfolio-strapi) [🌐](https://leandroarturi.com.ar)
 - [Instaclone](https://github.com/larturi/apollo-instaclone-server) [🌐](https://instaclone-react.netlify.app)
 - [E-Commerce](https://github.com/larturi/strapi-ecommerce-server) [🌐](http://cloudapp.com.ar/ecommerce-games)
@@ -110,38 +132,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Apollo & MySQL](https://github.com/larturi/apollo-graphql-mysql-server)
 - [MERN Chat](https://github.com/larturi/node-chatapp-server)
 
-## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
-
-- [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
-- [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
-- [Dev Jobs](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
-- [Red Social Recetas](https://github.com/larturi/laravel-recetas-cocina) [🌐](http://www.recetas.cloudapp.com.ar)
-- [Hoy Jugamos](https://github.com/larturi/php-hoyjugamos) [🌐](http://hoyjugamos.cloudapp.com.ar)
-- [Establecimientos](https://github.com/larturi/laravel-establecimientos)
-- [CURD Laravel](https://github.com/larturi/laravel-abm)
-- [CURD Laravel II](https://github.com/larturi/laravel-abm2)
-
-## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> Php
-
-- [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
-- [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://testsombreros.site)
-- [Chistes](https://github.com/larturi/php-chistessincodificar) [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
-- [Programmer Day](https://github.com/larturi/php-programmerday) [🌐](http://programmerday.cloudapp.com.ar)
-- [Trivia Series](https://github.com/larturi/php-triviaseries)
-- [Maschefacts](https://github.com/larturi/php-maschefacts)
-- [PoCs & Labs](https://github.com/larturi/php-labs)
-
-## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
-
-- [Gym Fitness](https://github.com/larturi/wp-gymfitness)
-- [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
-- [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
-- [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
-- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
-- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
-
 ## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
-
 - [Burguers Angular & Firebase](https://github.com/larturi/angular-burguer-queen) [🌐](http://cloudapp.com.ar/demo/burgers/#/list-categories)
 - [Chat Angula & Firebaser](https://github.com/larturi/angular-firechat) [🌐](http://cloudapp.com.ar/demo/firechat)
 - [Heroes](https://github.com/larturi/angular-buscador-heroes) [🌐](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
@@ -163,7 +154,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Angular Todolist](https://github.com/larturi/angular-task-list)
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
-
 - [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
 - [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos) · [🌐](https://matafuegos-nuxt.netlify.app)
 - [Buscador Banderas](https://github.com/larturi/vue-buscador-banderas) [🌐](https://vue-flags-api.netlify.app)
@@ -180,36 +170,32 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Laravel + MySQL + PhpMyAdmin](https://github.com/larturi/docker-laravel-mysql)
 
 
-## <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
-- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
-- [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
-- [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
-- [BlockChain](https://github.com/larturi/js-blockchain)
-- [Portafolio Old](https://github.com/larturi/js-leandroarturi)
-
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
-
 - [Red Social](https://github.com/larturi/bootstrap-red-social) [🌐](https://larturi.github.io/bootstrap-red-social)
 - [Dashboard](https://github.com/larturi/bootstrap-dashboard) [🌐](https://larturi.github.io/bootstrap-dashboard)
 - [Portafolio](https://github.com/larturi/bootstrap-portafolio) [🌐](https://larturi.github.io/bootstrap-portafolio)
 - [Vanilla Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
 
 ## <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
-
 - [Airbnb](https://github.com/larturi/tailwind-airbnb) [🌐](https://larturi.github.io/tailwind-airbnb)
 
-## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
+## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
+- [Gym Fitness](https://github.com/larturi/wp-gymfitness)
+- [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
+- [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
+- [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
+- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
+- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
 
+## <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 - [Ionic Todolist](https://github.com/larturi/angular-todolist) [🌐](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
 
 ## <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
-
 - [Películas](https://github.com/larturi/rn-peliculas)
 - [Calculadora](https://github.com/larturi/rn-calculadora)
 - [Counter App:](https://github.com/larturi/rn-counter-app)
 
 ## <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
-
 - [Películas](https://github.com/larturi/flutter-peliculas)
 - [News](https://github.com/larturi/flutter-news)
 - [User Preferences](https://github.com/larturi/flutter-user-preferences)
