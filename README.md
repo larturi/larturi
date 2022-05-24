@@ -80,7 +80,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
 - [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
 - [iCard](https://github.com/larturi/django-rest-icard) 
-- [Django Todolist with Login]([https://github.com/larturi/django-rest-icard](https://github.com/larturi/django-todolist))
+- [Django Todolist with Login](https://github.com/larturi/django-todolist)
 - [Django Web Playground](https://github.com/larturi/django-web-playground)
 - [MyBlog App](https://github.com/larturi/django-myblog)
 - [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)
