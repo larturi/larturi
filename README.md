@@ -164,10 +164,12 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
 - [Django + Postgres + React](https://github.com/larturi/docker-django-rest-react-poc)
+- [Next.js App](docker-nextjs-template)
 - [Postgres + PgAdmin](https://github.com/larturi/docker-postgres-pgadmin)
 - [Php8 + MySQL](https://github.com/larturi/docker-php8-mysql)
 - [Php5.4 + MySQL](https://github.com/larturi/docker-php54-mysql)
 - [Laravel + MySQL + PhpMyAdmin](https://github.com/larturi/docker-laravel-mysql)
+
 
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
