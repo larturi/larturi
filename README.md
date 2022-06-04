@@ -35,6 +35,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 ## <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
 - [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
 - [App Kiosco Next & Prisma](https://github.com/larturi/next-prisma-kiosoco-app) [🌐](https://next-prisma-kiosoco-app-nvwrpxxfa-larturi.vercel.app)
+- [Next Pokemon App](https://github.com/larturi/next-pokemon) [🌐](https://next-app-pokemon.vercel.app)
 - [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
 - [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
