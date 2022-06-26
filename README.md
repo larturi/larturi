@@ -56,8 +56,9 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Portafolio Old](https://github.com/larturi/js-leandroarturi)
 
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
-- [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
 - [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
+- [Blog + Admin - Laravel & Jetstream](https://github.com/larturi/laravel-blog-jetstream)
+- [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
 - [Dev Jobs](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
 - [Red Social Recetas](https://github.com/larturi/laravel-recetas-cocina) [🌐](http://www.recetas.cloudapp.com.ar)
 - [Hoy Jugamos](https://github.com/larturi/php-hoyjugamos) [🌐](http://hoyjugamos.cloudapp.com.ar)
