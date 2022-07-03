@@ -68,7 +68,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> PHP
 - [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
-- [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://testsombreros.site)
+- [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://cloudapp.com.ar/testsombreros)
 - [Chistes](https://github.com/larturi/php-chistessincodificar) [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
 - [Programmer Day](https://github.com/larturi/php-programmerday) [🌐](http://programmerday.cloudapp.com.ar)
 - [Trivia Series](https://github.com/larturi/php-triviaseries)
