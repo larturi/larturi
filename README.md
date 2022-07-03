@@ -157,7 +157,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ## <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 - [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
-- [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos) · [🌐](https://matafuegos-nuxt.netlify.app)
+- [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos) [🌐](https://matafuegos-nuxt.netlify.app)
 - [Buscador Banderas](https://github.com/larturi/vue-buscador-banderas) [🌐](https://vue-flags-api.netlify.app)
 - [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
 - [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
