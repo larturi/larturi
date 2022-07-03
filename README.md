@@ -76,7 +76,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [PoCs & Labs](https://github.com/larturi/php-labs)
 
 ## <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
-- [Django Starter](https://github.com/larturi/django-starter)
 - [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
 - [Biblioteca App](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
 - [Empleados App](https://github.com/larturi/django-empleados) [🌐](https://django-empleados.herokuapp.com)
