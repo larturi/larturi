@@ -87,8 +87,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [CURD Laravel](https://github.com/larturi/laravel-abm)
 - [CURD Laravel II](https://github.com/larturi/laravel-abm2)
 
-# Python - Django
-
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> PHP
 - [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
 - [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://cloudapp.com.ar/testsombreros)
