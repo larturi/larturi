@@ -6,7 +6,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - LinkedIn: [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
 - Twitter: [@leandroarturi](https://twitter.com/leandroarturi)
 
-# Repositories
+# React & Node
 
 ## <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 - [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
@@ -73,6 +73,8 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Apollo & MySQL](https://github.com/larturi/apollo-graphql-mysql-server)
 - [MERN Chat](https://github.com/larturi/node-chatapp-server)
 
+# Laravel & PHP
+
 ## <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 - [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
 - [Laravel Devstagram](https://github.com/larturi/laravel-devstagram)
@@ -85,6 +87,8 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [CURD Laravel](https://github.com/larturi/laravel-abm)
 - [CURD Laravel II](https://github.com/larturi/laravel-abm2)
 
+# Python - Django
+
 ## <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> PHP
 - [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
 - [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://cloudapp.com.ar/testsombreros)
@@ -93,6 +97,8 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Trivia Series](https://github.com/larturi/php-triviaseries)
 - [Maschefacts](https://github.com/larturi/php-maschefacts)
 - [PoCs & Labs](https://github.com/larturi/php-labs)
+
+# More
 
 ## <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
 - [Django + Postgres + React](https://github.com/larturi/docker-django-rest-react-poc)
@@ -117,6 +123,27 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
 - [Composition PoC](https://github.com/larturi/vue-composition-poc)
 - [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
+
+## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
+- [Burguers Angular & Firebase](https://github.com/larturi/angular-burguer-queen) [🌐](http://cloudapp.com.ar/demo/burgers/#/list-categories)
+- [Chat Angula & Firebaser](https://github.com/larturi/angular-firechat) [🌐](http://cloudapp.com.ar/demo/firechat)
+- [Heroes](https://github.com/larturi/angular-buscador-heroes) [🌐](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
+- [Películas App](https://github.com/larturi/angular-peliculas) [🌐](http://cloudapp.com.ar/demo/peliculas/#/home)
+- [Blackjack](https://github.com/larturi/js-blackjack) [🌐](http://cloudapp.com.ar/demo/blackjack/#/juego)
+- [Blog](https://github.com/larturi/angular-blog) [🌐](https://angular-blog-app.netlify.app)
+- [Blog Admin](https://github.com/larturi/angular-dasboard-blog) [🌐](https://blog-admin-angular.netlify.app)
+- [Game of Year](https://github.com/larturi/angular-goty) [🌐](http://cloudapp.com.ar/demo/goty/#/inicio)
+- [Upload Images](https://github.com/larturi/angular-uploadimages-firebase) [🌐](http://cloudapp.com.ar/demo/upload-images/#/fotos)
+- [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)
+- [Gráficos](https://github.com/larturi/angular-graficos)
+- [Maps PoC](https://github.com/larturi/angular-mapas)
+- [Reservas App](https://github.com/larturi/angular-reservas-peluqueria)
+- [Contactos App](https://github.com/larturi/angular-contact-list)
+- [Pipes](https://github.com/larturi/angular-pipes)
+- [Preguntas y Respuestas](https://github.com/larturi/angular-preguntas-respuestas)
+- [CRUD Firebase](https://github.com/larturi/angular-crud-firebase)
+- [Login Firebase](https://github.com/larturi/angular-login-firebase)
+- [Angular Todolist](https://github.com/larturi/angular-task-list)
 
 ## <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
 - [Red Social](https://github.com/larturi/bootstrap-red-social) [🌐](https://larturi.github.io/bootstrap-red-social)
@@ -160,27 +187,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ## <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 - [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
-
-## <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
-- [Burguers Angular & Firebase](https://github.com/larturi/angular-burguer-queen) [🌐](http://cloudapp.com.ar/demo/burgers/#/list-categories)
-- [Chat Angula & Firebaser](https://github.com/larturi/angular-firechat) [🌐](http://cloudapp.com.ar/demo/firechat)
-- [Heroes](https://github.com/larturi/angular-buscador-heroes) [🌐](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
-- [Películas App](https://github.com/larturi/angular-peliculas) [🌐](http://cloudapp.com.ar/demo/peliculas/#/home)
-- [Blackjack](https://github.com/larturi/js-blackjack) [🌐](http://cloudapp.com.ar/demo/blackjack/#/juego)
-- [Blog](https://github.com/larturi/angular-blog) [🌐](https://angular-blog-app.netlify.app)
-- [Blog Admin](https://github.com/larturi/angular-dasboard-blog) [🌐](https://blog-admin-angular.netlify.app)
-- [Game of Year](https://github.com/larturi/angular-goty) [🌐](http://cloudapp.com.ar/demo/goty/#/inicio)
-- [Upload Images](https://github.com/larturi/angular-uploadimages-firebase) [🌐](http://cloudapp.com.ar/demo/upload-images/#/fotos)
-- [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)
-- [Gráficos](https://github.com/larturi/angular-graficos)
-- [Maps PoC](https://github.com/larturi/angular-mapas)
-- [Reservas App](https://github.com/larturi/angular-reservas-peluqueria)
-- [Contactos App](https://github.com/larturi/angular-contact-list)
-- [Pipes](https://github.com/larturi/angular-pipes)
-- [Preguntas y Respuestas](https://github.com/larturi/angular-preguntas-respuestas)
-- [CRUD Firebase](https://github.com/larturi/angular-crud-firebase)
-- [Login Firebase](https://github.com/larturi/angular-login-firebase)
-- [Angular Todolist](https://github.com/larturi/angular-task-list)
 
 ## <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
 - [Gym Fitness](https://github.com/larturi/wp-gymfitness)
