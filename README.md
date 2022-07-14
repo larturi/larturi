@@ -96,6 +96,8 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Maschefacts](https://github.com/larturi/php-maschefacts)
 - [PoCs & Labs](https://github.com/larturi/php-labs)
 
+## More
+
 ### <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
 - [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
 - [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
@@ -123,8 +125,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
 - [PoCs & Labs](https://github.com/larturi/python-labs)
 - [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
-
-## More
 
 ### <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
 - [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
