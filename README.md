@@ -183,6 +183,9 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [API Blog Basic](https://github.com/larturi/django-rest-blog-basic)
 - [API PoC](https://github.com/larturi/django-apirest-lab-tests)
 
+### <span><img src="./icons/golang.svg" alt="Golang" width="20px" height="20px"></span> Golang
+- [Goland API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
+
 ### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 - [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
 
