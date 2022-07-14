@@ -96,7 +96,12 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Maschefacts](https://github.com/larturi/php-maschefacts)
 - [PoCs & Labs](https://github.com/larturi/php-labs)
 
-## More
+### <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
+- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
+- [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
+- [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
+- [BlockChain](https://github.com/larturi/js-blockchain)
+- [Portafolio Old](https://github.com/larturi/js-leandroarturi)
 
 ### <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
 - [Django + Postgres + React](https://github.com/larturi/docker-django-rest-react-poc)
@@ -106,12 +111,54 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Php5.4 + MySQL](https://github.com/larturi/docker-php54-mysql)
 - [Laravel + MySQL + PhpMyAdmin](https://github.com/larturi/docker-laravel-mysql)
 
-### <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
-- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
-- [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
-- [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
-- [BlockChain](https://github.com/larturi/js-blockchain)
-- [Portafolio Old](https://github.com/larturi/js-leandroarturi)
+### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
+- [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
+- [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)
+- [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
+- [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)
+- [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)
+- [Scraping Spider](https://github.com/larturi/python-scraping-spider)
+- [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl)
+- [Python Recetario](https://github.com/larturi/python-recetario)
+- [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
+- [PoCs & Labs](https://github.com/larturi/python-labs)
+- [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
+
+## More
+
+### <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
+- [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
+- [Biblioteca App](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
+- [Empleados App](https://github.com/larturi/django-empleados) [🌐](https://django-empleados.herokuapp.com)
+- [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
+- [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
+- [iCard](https://github.com/larturi/django-rest-icard) 
+- [Django Todolist with Login](https://github.com/larturi/django-todolist)
+- [Django Web Playground](https://github.com/larturi/django-web-playground)
+- [MyBlog App](https://github.com/larturi/django-myblog)
+- [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)
+- [API Blog](https://github.com/larturi/django-rest-blog-full)
+- [API Agenda](https://github.com/larturi/django-rest-agenda)
+- [API Profiles](https://github.com/larturi/django-profiles-api)
+- [API Polls](https://github.com/larturi/django_polls)
+- [API Blog Basic](https://github.com/larturi/django-rest-blog-basic)
+- [API PoC](https://github.com/larturi/django-apirest-lab-tests)
+
+### <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span> Golang
+- [Goland API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
+- [Goland API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)
+- [Goland PoC](https://github.com/larturi/golang-basic/tree/main)
+
+### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
+- [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
+
+### <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
+- [Gym Fitness](https://github.com/larturi/wp-gymfitness)
+- [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
+- [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
+- [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
+- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
+- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
 
 ### <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 - [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
@@ -151,53 +198,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ### <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
 - [Airbnb](https://github.com/larturi/tailwind-airbnb) [🌐](https://larturi.github.io/tailwind-airbnb)
-
-### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
-- [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
-- [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)
-- [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
-- [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)
-- [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)
-- [Scraping Spider](https://github.com/larturi/python-scraping-spider)
-- [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl)
-- [Python Recetario](https://github.com/larturi/python-recetario)
-- [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
-- [PoCs & Labs](https://github.com/larturi/python-labs)
-- [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
-
-### <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
-- [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
-- [Biblioteca App](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
-- [Empleados App](https://github.com/larturi/django-empleados) [🌐](https://django-empleados.herokuapp.com)
-- [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
-- [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
-- [iCard](https://github.com/larturi/django-rest-icard) 
-- [Django Todolist with Login](https://github.com/larturi/django-todolist)
-- [Django Web Playground](https://github.com/larturi/django-web-playground)
-- [MyBlog App](https://github.com/larturi/django-myblog)
-- [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)
-- [API Blog](https://github.com/larturi/django-rest-blog-full)
-- [API Agenda](https://github.com/larturi/django-rest-agenda)
-- [API Profiles](https://github.com/larturi/django-profiles-api)
-- [API Polls](https://github.com/larturi/django_polls)
-- [API Blog Basic](https://github.com/larturi/django-rest-blog-basic)
-- [API PoC](https://github.com/larturi/django-apirest-lab-tests)
-
-### <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span> Golang
-- [Goland API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
-- [Goland API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)
-- [Goland PoC](https://github.com/larturi/golang-basic/tree/main)
-
-### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
-- [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
-
-### <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
-- [Gym Fitness](https://github.com/larturi/wp-gymfitness)
-- [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
-- [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
-- [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
-- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
-- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
 
 ### <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
 - [Ionic Todolist](https://github.com/larturi/angular-todolist) [🌐](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
