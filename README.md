@@ -1,6 +1,6 @@
 # Leandro Arturi
 
-I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from the University of Buenos Aires. I am passionate about the world of development, which keeps me constantly learning. I am motivated by long-term projects, but I also enjoy solving problems. I am a pragmatic, flexible and organized person. I am always predisposed to learn and to offer my help.
+I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from the University of Buenos Aires. I am passionate about the world of development, which keeps me constantly learning. I am motivated by long-term projects, but I also enjoy solving problems. I am a pragmatic, flexible and organized person. I´m always predisposed to learn and to offer my help.
 
 - Portfolio: [leandroarturi.com.ar](https://leandroarturi.com.ar)
 - LinkedIn: [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
