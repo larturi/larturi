@@ -99,6 +99,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 ## More
 
 ### <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
+- [Patrones de Diseño JS & TS](https://github.com/larturi/js-design-patterns)
 - [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
 - [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
 - [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
@@ -145,9 +146,10 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [API PoC](https://github.com/larturi/django-apirest-lab-tests)
 
 ### <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span> Golang
-- [Goland API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
-- [Goland API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)
-- [Goland PoC](https://github.com/larturi/golang-basic/tree/main)
+- [Golang API Twitter Clone](https://github.com/larturi/golang-twitter-clone)
+- [Golang API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
+- [Golang API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)
+- [Golang PoC](https://github.com/larturi/golang-basic/tree/main)
 
 ### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
 - [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
