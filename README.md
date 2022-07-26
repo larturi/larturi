@@ -10,6 +10,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ### <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
 - [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
+- [Twitter Clone](https://github.com/larturi/react-twitter-clone)
 - [MERN Tasks](https://github.com/larturi/react-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
 - [Filetransfer](https://github.com/larturi/react-filetransfer-cliente) [🌐](https://react-filetransfer-cliente.vercel.app)
 - [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
