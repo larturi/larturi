@@ -75,6 +75,10 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Apollo & MySQL](https://github.com/larturi/apollo-graphql-mysql-server)
 - [MERN Chat](https://github.com/larturi/node-chatapp-server)
 
+### <span><img src="./icons/nestjs.svg" alt="Nest.js" width="20px" height="20px"></span> Nest.js
+- [Nest Pokedex](https://github.com/larturi/nest-pokedex)
+
+
 ## Laravel & PHP
 
 ### <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
