@@ -41,7 +41,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
 - [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
 - [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
-- [Guitar LA](https://github.com/larturi/next-guitarla) [🌐](https://react-next-guitarla.vercel.app)
+- [Guitar LA](https://github.com/larturi/next-guitarla)
 
 ### <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
 - [Portafolio](https://github.com/larturi/portfolio-gatsby) [🌐](https://leandroarturi.com.ar)
@@ -83,7 +83,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ### <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
 - [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
-- [Laravel Devstagram](https://github.com/larturi/laravel-devstagram) [🌐](https://laravel-devstagram-production.up.railway.app/posts/create)
+- [Laravel Devstagram](https://github.com/larturi/laravel-devstagram)
 - [Blog + Admin - Laravel & Jetstream](https://github.com/larturi/laravel-blog-jetstream)
 - [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
 - [Dev Jobs](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
