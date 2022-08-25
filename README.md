@@ -134,12 +134,12 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 - [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
 
 ### <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
-- [Users App](https://github.com/larturi/django-users) [🌐](https://django-user-app.herokuapp.com/login)
-- [Biblioteca App](https://github.com/larturi/django-biblioteca) [🌐](https://django-biblioteca.herokuapp.com)
-- [Empleados App](https://github.com/larturi/django-empleados) [🌐](https://django-empleados.herokuapp.com)
 - [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
 - [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
-- [iCard](https://github.com/larturi/django-rest-icard) 
+- [iCard](https://github.com/larturi/django-rest-icard)
+- [Users App](https://github.com/larturi/django-users)
+- [Biblioteca App](https://github.com/larturi/django-biblioteca)
+- [Empleados App](https://github.com/larturi/django-empleados)
 - [Django Todolist with Login](https://github.com/larturi/django-todolist)
 - [Django Web Playground](https://github.com/larturi/django-web-playground)
 - [MyBlog App](https://github.com/larturi/django-myblog)
@@ -170,7 +170,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 ### <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
 - [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
-- [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos) [🌐](https://matafuegos-nuxt.netlify.app)
+- [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos)
 - [Buscador Banderas](https://github.com/larturi/vue-buscador-banderas) [🌐](https://vue-flags-api.netlify.app)
 - [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
 - [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
