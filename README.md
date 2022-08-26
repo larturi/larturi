@@ -2,222 +2,178 @@
 
 I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from the University of Buenos Aires. I am passionate about the world of development, which keeps me constantly learning. I am motivated by long-term projects, but I also enjoy solving problems. I am a pragmatic, flexible and organized person. I am always predisposed to learn and to offer my help.
 
-- Portfolio: [leandroarturi.com.ar](https://leandroarturi.com.ar)
-- LinkedIn: [@leandroarturi](https://www.linkedin.com/in/leandroarturi)
-- Twitter: [@leandroarturi](https://twitter.com/leandroarturi)
+| Red                                                                                          | Link                                                          |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>            | [leandroarturi.com.ar](https://leandroarturi.com.ar)        |
+| <span><img src="./icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px"></span> | [@leandroarturi](https://www.linkedin.com/in/leandroarturi) |
+| <span><img src="./icons/twitter.svg" alt="Twitter" width="20px" height="20px"></span>        | [@leandroarturi](https://twitter.com/leandroarturi)         |
 
-## React & Node
+# Top 20 Projects
+| #  | Project                     | Logo                                                                                            | Frontend                                                                  | Logo                                                                                   | Backend                                                        | Demo                                                                 |
+| -- | --------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1  | Portafolio                  | <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span>             | [Gatsby](https://github.com/larturi/portfolio-gatsby)                   | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Strapi](https://github.com/larturi/portfolio-strapi)        | [🌐](https://leandroarturi.com.ar)                                 |
+| 2  | E-Commerce                  | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>          | [Next.js](https://github.com/larturi/next-ecommerce-client)             | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Strapi](https://github.com/larturi/strapi-ecommerce-server) | [🌐](http://cloudapp.com.ar/ecommerce-games)                       |
+| 3  | CRM Next, Node & GraphQL    | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>          | [Next.js](https://github.com/larturi/next-graphql-crm)                  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Node](https://github.com/larturi/node-graphql-crm)          | [🌐](http://cloudapp.com.ar/crm-next-apollo)                       |
+| 4  | Instagram Clone             | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>               | [React](https://github.com/larturi/react-apollo-instaclone-client)      | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Node](https://github.com/larturi/apollo-instaclone-server)  | [🌐](https://instaclone-react.netlify.app)                         |
+| 5  | Filetransfer                | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>               | [React](https://github.com/larturi/react-filetransfer-cliente)          | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Node](https://github.com/larturi/node-filetransfer-backend) | [🌐](https://react-filetransfer-cliente.vercel.app)                |
+| 6  | MERN Tasks                  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>               | [React](https://github.com/larturi/react-mern-tasks)                    | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> | [Node](https://github.com/larturi/node-mern-tasks)           | [🌐](http://mern-tasks.cloudapp.com.ar)                            |
+| 7  | App Kiosco Next & Prisma    | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>          | [Next.js](https://github.com/larturi/next-prisma-kiosoco-app)           |                                                                                        |                                                                | [🌐](https://next-prisma-kiosoco-app-nvwrpxxfa-larturi.vercel.app) |
+| 8  | Next Pokemon App            | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>          | [Next.js](https://github.com/larturi/next-pokemon)                      |                                                                                        |                                                                | [🌐](https://next-app-pokemon.vercel.app)                          |
+| 9  | Cartera de Sistemas         | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>           | [Laravel & Vue.js](https://github.com/larturi/laravel-cartera-sistemas) |                                                                                        |                                                                | [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)           |
+| 10 | Dev Jobs                    | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>           | [Laravel](https://github.com/larturi/laravel-devJobs)                   |                                                                                        |                                                                | [🌐](http://www.devjobs.cloudapp.com.ar)                           |
+| 11 | Journal App                 | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>               | [React](https://github.com/larturi/react-journal-app)                   |                                                                                        |                                                                | [🌐](http://calendar-react.cloudapp.com.ar)                        |
+| 12 | Burguers Angular & Firebase | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>      | [Angular](https://github.com/larturi/angular-burguer-queen)             |                                                                                        |                                                                | [🌐](http://cloudapp.com.ar/demo/burgers/#/list-categories)        |
+| 13 | Red Social                  | <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span>       | [Bootstrap](https://github.com/larturi/bootstrap-red-social)            |                                                                                        |                                                                | [🌐](https://larturi.github.io/bootstrap-red-social)               |
+| 14 | Airbnb Clone                | <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> | [Tailwind](https://github.com/larturi/tailwind-airbnb)                  |                                                                                        |                                                                | [🌐](https://larturi.github.io/tailwind-airbnb)                    |
+| 15 | Open Jira                   | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>          | [Next,js](https://github.com/larturi/next-open-jira)                    |                                                                                        |                                                                | [🌐](https://next-open-jira-app.vercel.app)                        |
+| 16 | Django Cafeteria            | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>             | [Django](https://github.com/larturi/django-cafeteria)                   |                                                                                        |                                                                | [🌐](http://cafeteriadjango.pythonanywhere.com)                    |
+| 17 | Game of Life - Conway       | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>     | [JavaScript](https://github.com/larturi/js-game-of-life-conway)         |                                                                                        |                                                                | [🌐](https://game-life-conway.netlify.app)                         |
+| 18 | Test Seis Sombreros         | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                   | [PHP](https://github.com/larturi/php-seis-sombreros)                    |                                                                                        |                                                                | [🌐](http://cloudapp.com.ar/testsombreros)                         |
+| 19 | Red Social Recetas          | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>           | [Laravel](https://github.com/larturi/laravel-recetas-cocina)            |                                                                                        |                                                                | [🌐](http://www.recetas.cloudapp.com.ar)                           |
+| 20 | React Lyrics                | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>               | [React](https://github.com/larturi/react-lyrics-v2)                     |                                                                                        |                                                                | [🌐](https://lyrics-react-lna.netlify.app)                         |
 
-### <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span> React
-- [Instagram Clone](https://github.com/larturi/react-apollo-instaclone-client) [🌐](https://instaclone-react.netlify.app)
-- [Twitter Clone](https://github.com/larturi/react-twitter-clone)
-- [MERN Tasks](https://github.com/larturi/react-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
-- [Filetransfer](https://github.com/larturi/react-filetransfer-cliente) [🌐](https://react-filetransfer-cliente.vercel.app)
-- [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko) [🌐](https://react-crypto-coingecko.netlify.app)
-- [React Lyrics](https://github.com/larturi/react-lyrics-v2) [🌐](https://lyrics-react-lna.netlify.app)
-- [Calendar](https://github.com/larturi/react-journal-app) [🌐](http://calendar-react.cloudapp.com.ar)
-- [Giphy App](https://github.com/larturi/react-gift-app) [🌐](http://cloudapp.com.ar/demo/gif-react)
-- [Drinks App](https://github.com/larturi/react-drinks) [🌐](http://cloudapp.com.ar/demo/drinks)
-- [Criptomonedas App](https://github.com/larturi/react-criptomonedas) [🌐](http://cloudapp.com.ar/demo/cripto)
-- [Heroes App](https://github.com/larturi/react-heroes-app) [🌐](https://heros-react-app.netlify.app)
-- [Breaking Bad](https://github.com/larturi/react-breakingbad-api) [🌐](https://breakingbad-app-react.netlify.app)
-- [Basic Budget](https://github.com/larturi/react-presupuesto) [🌐](https://budget-basic-react-app.netlify.app)
-- [Seguros](https://github.com/larturi/react-cotizador) [🌐](https://cotizador-react-app-ok.netlify.app)
-- [Citas App](https://github.com/larturi/react-citas) [🌐](https://agenda-turnos-react.netlify.app)
-- [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay) [🌐](https://images-pixabay-react-app.netlify.app)
-- [iCard](https://github.com/larturi/react-icard)
-- [Tickets App](https://github.com/larturi/react-tickets-app)
-- [Noticias App](https://github.com/larturi/react-noticias)
-- [CRUD Productos](https://github.com/larturi/react-redux-crud-productos)
-- [Mapbox SocketIO](https://github.com/larturi/react-mapas-client)
-- [Clima App](https://github.com/larturi/react-clima)
-- [MERN Chat](https://github.com/larturi/react-chatapp-app)
-
-### <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span> Next.js
-- [E-Commerce](https://github.com/larturi/next-ecommerce-client) [🌐](http://cloudapp.com.ar/ecommerce-games)
-- [App Kiosco Next & Prisma](https://github.com/larturi/next-prisma-kiosoco-app) [🌐](https://next-prisma-kiosoco-app-nvwrpxxfa-larturi.vercel.app)
-- [Next Pokemon App](https://github.com/larturi/next-pokemon) [🌐](https://next-app-pokemon.vercel.app)
-- [Open Jira](https://github.com/larturi/next-open-jira) [🌐](https://next-open-jira-app.vercel.app)
-- [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente) [🌐](http://www.todolist-mern.cloudapp.com.ar)
-- [CRM Next](https://github.com/larturi/next-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
-- [Products Hunt](https://github.com/larturi/next-producthunt) [🌐](https://product-hunt-1f8d8.web.app)
-- [Guitar LA](https://github.com/larturi/next-guitarla)
-
-### <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span> Gatsby
-- [Portafolio](https://github.com/larturi/portfolio-gatsby) [🌐](https://leandroarturi.com.ar)
-- [Curriculum](https://github.com/larturi/gatsby-curriculum) [🌐](https://gatsby-curriculum.netlify.app)
-- [Hotel Gatsby](https://github.com/larturi/gatsby-hotel) [🌐](https://gatsby-hotel-app.netlify.app)
-- [Bienes Raices](https://github.com/larturi/gatsby-propiedades-front) [🌐](https://bienesraices-gatsby-app.netlify.app)
-
-### <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span> Node
-- [Portafolio](https://github.com/larturi/portfolio-strapi) [🌐](https://leandroarturi.com.ar)
-- [Instaclone](https://github.com/larturi/apollo-instaclone-server) [🌐](https://instaclone-react.netlify.app)
-- [E-Commerce](https://github.com/larturi/strapi-ecommerce-server) [🌐](http://cloudapp.com.ar/ecommerce-games)
-- [CRM Next](https://github.com/larturi/node-graphql-crm) [🌐](http://cloudapp.com.ar/crm-next-apollo)
-- [MERN Tasks](https://github.com/larturi/node-mern-tasks) [🌐](http://mern-tasks.cloudapp.com.ar)
-- [Todolist MERN](https://github.com/larturi/node-todolist-mern-ts-server) [🌐](http://www.todolist-mern.cloudapp.com.ar)
-- [Filetransfer](https://github.com/larturi/node-filetransfer-backend) [🌐](https://react-filetransfer-cliente.vercel.app)
-- [Bienes Raices](https://github.com/larturi/node-propiedades-back) [🌐](https://bienesraices-gatsby-app.netlify.app)
-- [Node Api Rest Server](https://github.com/larturi/node-rest-server)
-- [PoCs & Labs](https://github.com/larturi/node-labs)
-- [Apollo & MySQL & TypeScript](https://github.com/larturi/apollo-graphql-typescript)
-- [Tickets App](https://github.com/larturi/-node-tickets-app-server)
-- [Bands Names](https://github.com/larturi/socketio-band-names-server)
-- [Turnos](https://github.com/larturi/node-turnos)
-- [FizzBuzz](https://github.com/larturi/node-ts-fizzbuzz)
-- [Basic Chat](https://github.com/larturi/socketio-chat-basico)
-- [Weather App](https://github.com/larturi/node-weather-app)
-- [Clima App](https://github.com/larturi/node-clima)
-- [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-backend)
-- [Todolist Terminal App](https://github.com/larturi/node-por-hacer)
-- [Node & MySQL & TypeScript](https://github.com/larturi/node-ts-mysql)
-- [Chat](https://github.com/larturi/node-socket-chat)
-- [Apollo & MySQL](https://github.com/larturi/apollo-graphql-mysql-server)
-- [MERN Chat](https://github.com/larturi/node-chatapp-server)
-
-### <span><img src="./icons/nestjs.svg" alt="Nest.js" width="20px" height="20px"></span> Nest.js
-- [Nest Pokedex](https://github.com/larturi/nest-pokedex)
-
-
-## Laravel & PHP
-
-### <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span> Laravel
-- [Cartera Sistemas](https://github.com/larturi/laravel-cartera-sistemas) [🌐](http://www.carteradesistemas.cloudapp.com.ar/login)
-- [Laravel Devstagram](https://github.com/larturi/laravel-devstagram)
-- [Blog + Admin - Laravel & Jetstream](https://github.com/larturi/laravel-blog-jetstream)
-- [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
-- [Dev Jobs](https://github.com/larturi/laravel-devJobs) [🌐](http://www.devjobs.cloudapp.com.ar)
-- [Red Social Recetas](https://github.com/larturi/laravel-recetas-cocina) [🌐](http://www.recetas.cloudapp.com.ar)
-- [Hoy Jugamos](https://github.com/larturi/php-hoyjugamos) [🌐](http://hoyjugamos.cloudapp.com.ar)
-- [Establecimientos](https://github.com/larturi/laravel-establecimientos)
-- [CURD Laravel](https://github.com/larturi/laravel-abm)
-- [CURD Laravel II](https://github.com/larturi/laravel-abm2)
-
-### <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span> PHP
-- [Famosos Twitter](https://github.com/larturi/php-famosos-twitter) [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)
-- [Test Seis Sombreros](https://github.com/larturi/php-seis-sombreros) [🌐](http://cloudapp.com.ar/testsombreros)
-- [Chistes](https://github.com/larturi/php-chistessincodificar) [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar)
-- [Programmer Day](https://github.com/larturi/php-programmerday) [🌐](http://programmerday.cloudapp.com.ar)
-- [Trivia Series](https://github.com/larturi/php-triviaseries)
-- [Maschefacts](https://github.com/larturi/php-maschefacts)
-- [PoCs & Labs](https://github.com/larturi/php-labs)
-
-## More
-
-### <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span> Vanilla JS
-- [Patrones de Diseño JS & TS](https://github.com/larturi/js-design-patterns)
-- [Game of Life - Conway](https://github.com/larturi/js-game-of-life-conway) [🌐](https://game-life-conway.netlify.app)
-- [The Vision Test](https://github.com/larturi/js-the-vision-test) [🌐](http://cloudapp.com.ar/visiontest)
-- [Simon](https://github.com/larturi/js-simon) [🌐](http://cloudapp.com.ar/demo/simon) 
-- [BlockChain](https://github.com/larturi/js-blockchain)
-- [Portafolio Old](https://github.com/larturi/js-leandroarturi)
-
-### <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span> Docker
-- [Django + Postgres + React](https://github.com/larturi/docker-django-rest-react-poc)
-- [Next.js App](docker-nextjs-template)
-- [Postgres + PgAdmin](https://github.com/larturi/docker-postgres-pgadmin)
-- [Php8 + MySQL](https://github.com/larturi/docker-php8-mysql)
-- [Php5.4 + MySQL](https://github.com/larturi/docker-php54-mysql)
-- [Laravel + MySQL + PhpMyAdmin](https://github.com/larturi/docker-laravel-mysql)
-
-### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> Python
-- [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)
-- [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)
-- [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)
-- [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)
-- [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)
-- [Scraping Spider](https://github.com/larturi/python-scraping-spider)
-- [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl)
-- [Python Recetario](https://github.com/larturi/python-recetario)
-- [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)
-- [PoCs & Labs](https://github.com/larturi/python-labs)
-- [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)
-
-### <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span> Django
-- [Django Personal Page](https://github.com/larturi/django-personal-page) [🌐](https://larturi10.pythonanywhere.com)
-- [Django Cafeteria](https://github.com/larturi/django-cafeteria) [🌐](http://cafeteriadjango.pythonanywhere.com)
-- [iCard](https://github.com/larturi/django-rest-icard)
-- [Users App](https://github.com/larturi/django-users)
-- [Biblioteca App](https://github.com/larturi/django-biblioteca)
-- [Empleados App](https://github.com/larturi/django-empleados)
-- [Django Todolist with Login](https://github.com/larturi/django-todolist)
-- [Django Web Playground](https://github.com/larturi/django-web-playground)
-- [MyBlog App](https://github.com/larturi/django-myblog)
-- [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)
-- [API Blog](https://github.com/larturi/django-rest-blog-full)
-- [API Agenda](https://github.com/larturi/django-rest-agenda)
-- [API Profiles](https://github.com/larturi/django-profiles-api)
-- [API Polls](https://github.com/larturi/django_polls)
-- [API Blog Basic](https://github.com/larturi/django-rest-blog-basic)
-- [API PoC](https://github.com/larturi/django-apirest-lab-tests)
-
-### <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span> Golang
-- [Golang API Twitter Clone](https://github.com/larturi/golang-twitter-clone)
-- [Golang API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)
-- [Golang API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)
-- [Golang PoC](https://github.com/larturi/golang-basic/tree/main)
-
-### <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span> FastAPI
-- [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)
-
-### <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> WordPress
-- [Gym Fitness](https://github.com/larturi/wp-gymfitness)
-- [Visita Toronto](https://github.com/larturi/wp-visita-toronto)
-- [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)
-- [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)
-- [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)
-- [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)
-
-### <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span> Vue
-- [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client) [🌐](http://todolist-vue.cloudapp.com.ar/dist)
-- [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos)
-- [Buscador Banderas](https://github.com/larturi/vue-buscador-banderas) [🌐](https://vue-flags-api.netlify.app)
-- [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)
-- [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)
-- [Composition PoC](https://github.com/larturi/vue-composition-poc)
-- [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)
-
-### <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span> Angular
-- [Burguers Angular & Firebase](https://github.com/larturi/angular-burguer-queen) [🌐](http://cloudapp.com.ar/demo/burgers/#/list-categories)
-- [Chat Angula & Firebaser](https://github.com/larturi/angular-firechat) [🌐](http://cloudapp.com.ar/demo/firechat)
-- [Heroes](https://github.com/larturi/angular-buscador-heroes) [🌐](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)
-- [Películas App](https://github.com/larturi/angular-peliculas) [🌐](http://cloudapp.com.ar/demo/peliculas/#/home)
-- [Blackjack](https://github.com/larturi/js-blackjack) [🌐](http://cloudapp.com.ar/demo/blackjack/#/juego)
-- [Blog](https://github.com/larturi/angular-blog) [🌐](https://angular-blog-app.netlify.app)
-- [Blog Admin](https://github.com/larturi/angular-dasboard-blog) [🌐](https://blog-admin-angular.netlify.app)
-- [Game of Year](https://github.com/larturi/angular-goty) [🌐](http://cloudapp.com.ar/demo/goty/#/inicio)
-- [Upload Images](https://github.com/larturi/angular-uploadimages-firebase) [🌐](http://cloudapp.com.ar/demo/upload-images/#/fotos)
-- [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)
-- [Gráficos](https://github.com/larturi/angular-graficos)
-- [Maps PoC](https://github.com/larturi/angular-mapas)
-- [Reservas App](https://github.com/larturi/angular-reservas-peluqueria)
-- [Contactos App](https://github.com/larturi/angular-contact-list)
-- [Pipes](https://github.com/larturi/angular-pipes)
-- [Preguntas y Respuestas](https://github.com/larturi/angular-preguntas-respuestas)
-- [CRUD Firebase](https://github.com/larturi/angular-crud-firebase)
-- [Login Firebase](https://github.com/larturi/angular-login-firebase)
-- [Angular Todolist](https://github.com/larturi/angular-task-list)
-
-### <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span> Bootstrap
-- [Red Social](https://github.com/larturi/bootstrap-red-social) [🌐](https://larturi.github.io/bootstrap-red-social)
-- [Dashboard](https://github.com/larturi/bootstrap-dashboard) [🌐](https://larturi.github.io/bootstrap-dashboard)
-- [Portafolio](https://github.com/larturi/bootstrap-portafolio) [🌐](https://larturi.github.io/bootstrap-portafolio)
-- [Vanilla Bootstrap](https://github.com/larturi/bootstrap-vanilla-ejemplos) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html) [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)
-
-### <span><img src="./icons/tailwindcss-icon.svg" alt="Tailwind" width="20px" height="20px"></span> Tailwind
-- [Airbnb](https://github.com/larturi/tailwind-airbnb) [🌐](https://larturi.github.io/tailwind-airbnb)
-
-### <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span> Ionic
-- [Ionic Todolist](https://github.com/larturi/angular-todolist) [🌐](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)
-
-### <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span> React Native
-- [Películas](https://github.com/larturi/rn-peliculas)
-- [Calculadora](https://github.com/larturi/rn-calculadora)
-- [Counter App:](https://github.com/larturi/rn-counter-app)
-
-### <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span> Flutter
-- [Películas](https://github.com/larturi/flutter-peliculas)
-- [News](https://github.com/larturi/flutter-news)
-- [User Preferences](https://github.com/larturi/flutter-user-preferences)
-- [QR](https://github.com/larturi/flutter-qr)
-- [Diseños Flutter](https://github.com/larturi/flutter-disenos)
+# All Repositories
+| #   | Logo                                                                                           | Tech         | Project                                                                                         | Demo                                                                                   |
+| --- | ---------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Twitter Clone](https://github.com/larturi/react-twitter-clone)                               |                                                                                        |
+| 2   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Crypto CoinGecko](https://github.com/larturi/react-crypto-coingecko)                         | [🌐](https://react-crypto-coingecko.netlify.app)                                     |
+| 3   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Giphy App](https://github.com/larturi/react-gift-app)                                        | [🌐](http://cloudapp.com.ar/demo/gif-react)                                          |
+| 4   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Drinks App](https://github.com/larturi/react-drinks)                                         | [🌐](http://cloudapp.com.ar/demo/drinks)                                             |
+| 5   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Criptomonedas App](https://github.com/larturi/react-criptomonedas)                           | [🌐](http://cloudapp.com.ar/demo/cripto)                                             |
+| 6   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Heroes App](https://github.com/larturi/react-heroes-app)                                     | [🌐](https://heros-react-app.netlify.app)                                            |
+| 7   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Breaking Bad](https://github.com/larturi/react-breakingbad-api)                              | [🌐](https://breakingbad-app-react.netlify.app)                                      |
+| 8   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Basic Budget](https://github.com/larturi/react-presupuesto)                                  | [🌐](https://budget-basic-react-app.netlify.app)                                     |
+| 9   | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Seguros](https://github.com/larturi/react-cotizador)                                         | [🌐](https://cotizador-react-app-ok.netlify.app)                                     |
+| 10  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Citas App](https://github.com/larturi/react-citas)                                           | [🌐](https://agenda-turnos-react.netlify.app)                                        |
+| 11  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Imágenes Pixabay](https://github.com/larturi/react-imagenes-pixabay)                         | [🌐](https://images-pixabay-react-app.netlify.app)                                   |
+| 12  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [iCard](https://github.com/larturi/react-icard)                                               |                                                                                        |
+| 13  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Tickets App](https://github.com/larturi/react-tickets-app)                                   |                                                                                        |
+| 14  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Noticias App](https://github.com/larturi/react-noticias)                                     |                                                                                        |
+| 15  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [CRUD Productos](https://github.com/larturi/react-redux-crud-productos)                       |                                                                                        |
+| 16  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Mapbox SocketIO](https://github.com/larturi/react-mapas-client)                              |                                                                                        |
+| 17  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [Clima App](https://github.com/larturi/react-clima)                                           |                                                                                        |
+| 18  | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>              | React        | [MERN Chat](https://github.com/larturi/react-chatapp-app)                                     |                                                                                        |
+| 19  | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>         | Next.js      | [Todolist MERN](https://github.com/larturi/next-todolist-mern-cliente)                        | [🌐](http://www.todolist-mern.cloudapp.com.ar)                                       |
+| 20  | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>         | Next.js      | [Products Hunt](https://github.com/larturi/next-producthunt)                                  | [🌐](https://product-hunt-1f8d8.web.app)                                             |
+| 21  | <span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>         | Next.js      | [Guitar LA](https://github.com/larturi/next-guitarla)                                         |                                                                                        |
+| 22  | <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span>            | Gatsby       | [Portafolio](https://github.com/larturi/portfolio-gatsby)                                     | [🌐](https://leandroarturi.com.ar)                                                   |
+| 23  | <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span>            | Gatsby       | [Curriculum](https://github.com/larturi/gatsby-curriculum)                                    | [🌐](https://gatsby-curriculum.netlify.app)                                          |
+| 24  | <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span>            | Gatsby       | [Hotel Gatsby](https://github.com/larturi/gatsby-hotel)                                       | [🌐](https://gatsby-hotel-app.netlify.app)                                           |
+| 25  | <span><img src="./icons/gatsby.svg" alt="Gatsby" width="20px" height="20px"></span>            | Gatsby       | [Bienes Raices](https://github.com/larturi/gatsby-propiedades-front)                          | [🌐](https://bienesraices-gatsby-app.netlify.app)                                    |
+| 26  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Todolist MERN](https://github.com/larturi/node-todolist-mern-ts-server)                      | [🌐](http://www.todolist-mern.cloudapp.com.ar)                                       |
+| 27  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Bienes Raices](https://github.com/larturi/node-propiedades-back)                             | [🌐](https://bienesraices-gatsby-app.netlify.app)                                    |
+| 28  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Node Api Rest Server](https://github.com/larturi/node-rest-server)                           |                                                                                        |
+| 29  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [PoCs & Labs](https://github.com/larturi/node-labs)                                           |                                                                                        |
+| 30  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Apollo & MySQL & TypeScript](https://github.com/larturi/apollo-graphql-typescript)           |                                                                                        |
+| 31  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Tickets App](https://github.com/larturi/-node-tickets-app-server)                            |                                                                                        |
+| 32  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Bands Names](https://github.com/larturi/socketio-band-names-server)                          |                                                                                        |
+| 33  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Turnos](https://github.com/larturi/node-turnos)                                              |                                                                                        |
+| 34  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [FizzBuzz](https://github.com/larturi/node-ts-fizzbuzz)                                       |                                                                                        |
+| 35  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Basic Chat](https://github.com/larturi/socketio-chat-basico)                                 |                                                                                        |
+| 36  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Weather App](https://github.com/larturi/node-weather-app)                                    |                                                                                        |
+| 37  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Clima App](https://github.com/larturi/node-clima)                                            |                                                                                        |
+| 38  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-backend)                             |                                                                                        |
+| 39  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Todolist Terminal App](https://github.com/larturi/node-por-hacer)                            |                                                                                        |
+| 40  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Node & MySQL & TypeScript](https://github.com/larturi/node-ts-mysql)                         |                                                                                        |
+| 41  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Chat](https://github.com/larturi/node-socket-chat)                                           |                                                                                        |
+| 42  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [Apollo & MySQL](https://github.com/larturi/apollo-graphql-mysql-server)                      |                                                                                        |
+| 43  | <span><img src="./icons/nodejs-icon.svg" alt="Node" width="20px" height="20px"></span>         | Node.js      | [MERN Chat](https://github.com/larturi/node-chatapp-server)                                   |                                                                                        |
+| 44  | <span><img src="./icons/nestjs.svg" alt="Nest.js" width="20px" height="20px">                  | Nest.js      | [Nest Pokedex](https://github.com/larturi/nest-pokedex)                                       |                                                                                        |
+| 45  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [Laravel Devstagram](https://github.com/larturi/laravel-devstagram)                           |                                                                                        |
+| 46  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [Blog + Admin - Laravel & Jetstream](https://github.com/larturi/laravel-blog-jetstream)       |                                                                                        |
+| 47  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [Todolist Laravel & Nuxt](https://github.com/larturi/laravel-vue-todolist-backend)            | [🌐](http://todolist-vue.cloudapp.com.ar/dist)                                       |
+| 48  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [Hoy Jugamos](https://github.com/larturi/php-hoyjugamos)                                      | [🌐](http://hoyjugamos.cloudapp.com.ar)                                              |
+| 49  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [Establecimientos](https://github.com/larturi/laravel-establecimientos)                       |                                                                                        |
+| 50  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [CURD Laravel](https://github.com/larturi/laravel-abm)                                        |                                                                                        |
+| 51  | <span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>          | Laravel      | [CURD Laravel II](https://github.com/larturi/laravel-abm2)                                    |                                                                                        |
+| 52  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [Famosos Twitter](https://github.com/larturi/php-famosos-twitter)                             | [🌐](http://www.famososentwitter.com.ar/noticias-de-famosos-en-twitter/all/1.php)    |
+| 53  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [Chistes](https://github.com/larturi/php-chistessincodificar)                                 | [🌐](http://chistescodificados.cloudapp.com.ar/controllers/chiste.php?accion=listar) |
+| 54  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [Programmer Day](https://github.com/larturi/php-programmerday)                                | [🌐](http://programmerday.cloudapp.com.ar)                                           |
+| 55  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [Trivia Series](https://github.com/larturi/php-triviaseries)                                  |                                                                                        |
+| 56  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [Maschefacts](https://github.com/larturi/php-maschefacts)                                     |                                                                                        |
+| 57  | <span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>                  | Php          | [PoCs & Labs](https://github.com/larturi/php-labs)                                            |                                                                                        |
+| 58  | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>    | JavaScript   | [Patrones de Diseño JS & TS](https://github.com/larturi/js-design-patterns)                   |                                                                                        |
+| 59  | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>    | JavaScript   | [The Vision Test](https://github.com/larturi/js-the-vision-test)                              | [🌐](http://cloudapp.com.ar/visiontest)                                              |
+| 60  | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>    | JavaScript   | [Simon](https://github.com/larturi/js-simon)                                                  | [🌐](http://cloudapp.com.ar/demo/simon)                                              |
+| 61  | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>    | JavaScript   | [BlockChain](https://github.com/larturi/js-blockchain)                                        |                                                                                        |
+| 62  | <span><img src="./icons/javascript.svg" alt="Vanilla JS" width="20px" height="20px"></span>    | JavaScript   | [Portafolio Old](https://github.com/larturi/js-leandroarturi)                                 |                                                                                        |
+| 63  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Django + Postgres + React](https://github.com/larturi/docker-django-rest-react-poc)          |                                                                                        |
+| 64  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Next.js App](docker-nextjs-template)                                                         |                                                                                        |
+| 65  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Postgres + PgAdmin](https://github.com/larturi/docker-postgres-pgadmin)                      |                                                                                        |
+| 66  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Php8 + MySQL](https://github.com/larturi/docker-php8-mysql)                                  |                                                                                        |
+| 67  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Php5.4 + MySQL](https://github.com/larturi/docker-php54-mysql)                               |                                                                                        |
+| 68  | <span><img src="./icons/docker-icon.svg" alt="Docker" width="20px" height="20px"></span>       | Docker       | [Laravel + MySQL + PhpMyAdmin](https://github.com/larturi/docker-laravel-mysql)               |                                                                                        |
+| 69  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Python Pygame Rockets](https://github.com/larturi/python-pygame-rockets)                     |                                                                                        |
+| 70  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Asistente Virtual PyAudio & Pyttsx3](https://github.com/larturi/python-asistente-virtual)    |                                                                                        |
+| 71  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Callejero Argenprop](https://github.com/larturi/python-argenprop-callejero)                  |                                                                                        |
+| 72  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Scraping Subtitles BeautifulSoup](https://github.com/larturi/python-scraping-subtitles)      |                                                                                        |
+| 73  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Scraping Books BeautifulSoup](https://github.com/larturi/python-scraping-books)              |                                                                                        |
+| 74  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Scraping Spider](https://github.com/larturi/python-scraping-spider)                          |                                                                                        |
+| 75  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Excel Automation Pandas & Openpyxl](https://github.com/larturi/python-excel-pandas-openpyxl) |                                                                                        |
+| 76  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [Python Recetario](https://github.com/larturi/python-recetario)                               |                                                                                        |
+| 77  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [CRUD Python Tkinter](https://github.com/larturi/python-crud-tkinter/blob/main/README.md)     |                                                                                        |
+| 78  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [PoCs & Labs](https://github.com/larturi/python-labs)                                         |                                                                                        |
+| 79  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | Python       | [PoCs & CSV to SQLite](https://github.com/larturi/python-zip-csv-sqlite)                      |                                                                                        |
+| 80  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Django Personal Page](https://github.com/larturi/django-personal-page)                       | [🌐](https://larturi10.pythonanywhere.com)                                           |
+| 81  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [iCard](https://github.com/larturi/django-rest-icard)                                         |                                                                                        |
+| 82  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Users App](https://github.com/larturi/django-users)                                          |                                                                                        |
+| 83  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Biblioteca App](https://github.com/larturi/django-biblioteca)                                |                                                                                        |
+| 84  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Empleados App](https://github.com/larturi/django-empleados)                                  |                                                                                        |
+| 85  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Django Todolist with Login](https://github.com/larturi/django-todolist)                      |                                                                                        |
+| 86  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Django Web Playground](https://github.com/larturi/django-web-playground)                     |                                                                                        |
+| 87  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [MyBlog App](https://github.com/larturi/django-myblog)                                        |                                                                                        |
+| 88  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [Web Page Cursos](https://github.com/larturi/django-webpage/tree/main)                        |                                                                                        |
+| 89  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API Blog](https://github.com/larturi/django-rest-blog-full)                                  |                                                                                        |
+| 90  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API Agenda](https://github.com/larturi/django-rest-agenda)                                   |                                                                                        |
+| 91  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API Profiles](https://github.com/larturi/django-profiles-api)                                |                                                                                        |
+| 92  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API Polls](https://github.com/larturi/django\_polls)                                         |                                                                                        |
+| 93  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API Blog Basic](https://github.com/larturi/django-rest-blog-basic)                           |                                                                                        |
+| 94  | <span><img src="./icons/django.svg" alt="Django" width="20px" height="20px"></span>            | Django       | [API PoC](https://github.com/larturi/django-apirest-lab-tests)                                |                                                                                        |
+| 95  | <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span>                | Go           | [Golang API Twitter Clone](https://github.com/larturi/golang-twitter-clone)                   |                                                                                        |
+| 96  | <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span>                | Go           | [Golang API Basic with GORM](https://github.com/larturi/golang-api-gorm-basic)                |                                                                                        |
+| 97  | <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span>                | Go           | [Golang API Basic with MySQL](https://github.com/larturi/golang-api-gorm-basic)               |                                                                                        |
+| 98  | <span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span>                | Go           | [Golang PoC](https://github.com/larturi/golang-basic/tree/main)                               |                                                                                        |
+| 99  | <span><img src="./icons/python.svg" alt="Python" width="20px" height="20px"></span>            | FastAPI      | [FastAPI & GraphQL](https://github.com/larturi/fastapi-graphql-postgre)                       |                                                                                        |
+| 100 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Gym Fitness](https://github.com/larturi/wp-gymfitness)                                       |                                                                                        |
+| 101 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Visita Toronto](https://github.com/larturi/wp-visita-toronto)                                |                                                                                        |
+| 102 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Pizzeria](https://github.com/larturi/wp-gutenberg-pizzeria)                                  |                                                                                        |
+| 103 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Blog del Viajero](https://github.com/larturi/wp-blog-viajero)                                |                                                                                        |
+| 104 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Bootstrap Blog Theme](https://github.com/larturi/wp-bootstrap-blog)                          |                                                                                        |
+| 105 | <span><img src="./icons/wordpress-icon.svg" alt="WordPress" width="20px" height="20px"></span> | WordPress    | [Simple Bootstrap Theme](https://github.com/larturi/wp-simple-theme-bootstrap)                |                                                                                        |
+| 106 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Chat Angular & Firebaser](https://github.com/larturi/angular-firechat)                       | [🌐](http://cloudapp.com.ar/demo/firechat)                                           |
+| 107 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Heroes](https://github.com/larturi/angular-buscador-heroes)                                  | [🌐](http://cloudapp.com.ar/demo/heroes-ng/#/heroes)                                 |
+| 108 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Películas App](https://github.com/larturi/angular-peliculas)                                 | [🌐](http://cloudapp.com.ar/demo/peliculas/#/home)                                   |
+| 109 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Blackjack](https://github.com/larturi/js-blackjack)                                          | [🌐](http://cloudapp.com.ar/demo/blackjack/#/juego)                                  |
+| 110 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Blog](https://github.com/larturi/angular-blog)                                               | [🌐](https://angular-blog-app.netlify.app)                                           |
+| 111 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Blog Admin](https://github.com/larturi/angular-dasboard-blog)                                | [🌐](https://blog-admin-angular.netlify.app)                                         |
+| 112 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Game of Year](https://github.com/larturi/angular-goty)                                       | [🌐](http://cloudapp.com.ar/demo/goty/#/inicio)                                      |
+| 113 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Upload Images](https://github.com/larturi/angular-uploadimages-firebase)                     | [🌐](http://cloudapp.com.ar/demo/upload-images/#/fotos)                              |
+| 114 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Drag & Drop Países](https://github.com/larturi/angular-drag-drop-paises)                     |                                                                                        |
+| 115 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Gráficos](https://github.com/larturi/angular-graficos)                                       |                                                                                        |
+| 116 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Maps PoC](https://github.com/larturi/angular-mapas)                                          |                                                                                        |
+| 117 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Reservas App](https://github.com/larturi/angular-reservas-peluqueria)                        |                                                                                        |
+| 118 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Contactos App](https://github.com/larturi/angular-contact-list)                              |                                                                                        |
+| 119 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Pipes](https://github.com/larturi/angular-pipes)                                             |                                                                                        |
+| 120 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Preguntas y Respuestas](https://github.com/larturi/angular-preguntas-respuestas)             |                                                                                        |
+| 121 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [CRUD Firebase](https://github.com/larturi/angular-crud-firebase)                             |                                                                                        |
+| 122 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Login Firebase](https://github.com/larturi/angular-login-firebase)                           |                                                                                        |
+| 123 | <span><img src="./icons/angular-icon.svg" alt="Angular" width="20px" height="20px"></span>     | Angular      | [Angular Todolist](https://github.com/larturi/angular-task-list)                              |                                                                                        |
+| 124 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [Todolist Nuxt](https://github.com/larturi/vue-nuxt-todolist-client)                          | [🌐](http://todolist-vue.cloudapp.com.ar/dist)                                       |
+| 125 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [Matafuegos](https://github.com/larturi/vue-nuxt-matafuegos)                                  |                                                                                        |
+| 126 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [Buscador Banderas](https://github.com/larturi/vue-buscador-banderas)                         | [🌐](https://vue-flags-api.netlify.app)                                              |
+| 127 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [CRUD Firebase Auth](https://github.com/larturi/vue-crud-firebase-auth)                       |                                                                                        |
+| 128 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [Cotización Dólar](https://github.com/larturi/vue-axios-vuetify-dolar)                        |                                                                                        |
+| 129 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [Composition PoC](https://github.com/larturi/vue-composition-poc)                             |                                                                                        |
+| 130 | <span><img src="./icons/vue.svg" alt="Vue" width="20px" height="20px"></span>                  | Vue          | [MEVN CRUD PoC](https://github.com/larturi/vue-crud-node-frontend)                            |                                                                                        |
+| 131 | <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span>      | Bootstrap    | [Dashboard](https://github.com/larturi/bootstrap-dashboard)                                   | [🌐](https://larturi.github.io/bootstrap-dashboard)                                  |
+| 132 | <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span>      | Bootstrap    | [Bootstrap Blog](https://github.com/larturi/bootstrap-vanilla-ejemplos)                       | [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/blog.html)                 |
+| 133 | <span><img src="./icons/bootstrap.svg" alt="Bootstrap" width="20px" height="20px"></span>      | Bootstrap    | [Bootstrap Album](https://github.com/larturi/bootstrap-vanilla-ejemplos)                      | [🌐](https://larturi.github.io/bootstrap-vanilla-ejemplos/album.html)                |
+| 134 | <span><img src="./icons/ionic.svg" alt="Ionic" width="20px" height="20px"></span>              | Ionic        | [Ionic Todolist](https://github.com/larturi/angular-todolist)                                 | [🌐](http://cloudapp.com.ar/demo/todolist-ng/#/tabs/tab1)                            |
+| 135 | <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span>       | React Native | [Películas](https://github.com/larturi/rn-peliculas)                                          |                                                                                        |
+| 136 | <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span>       | React Native | [Calculadora](https://github.com/larturi/rn-calculadora)                                      |                                                                                        |
+| 137 | <span><img src="./icons/react.svg" alt="React Native" width="20px" height="20px"></span>       | React Native | [Counter App:](https://github.com/larturi/rn-counter-app)                                     |                                                                                        |
+| 138 | <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>          | Flutter      | [Películas](https://github.com/larturi/flutter-peliculas)                                     |                                                                                        |
+| 139 | <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>          | Flutter      | [News](https://github.com/larturi/flutter-news)                                               |                                                                                        |
+| 140 | <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>          | Flutter      | [User Preferences](https://github.com/larturi/flutter-user-preferences)                       |                                                                                        |
+| 141 | <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>          | Flutter      | [QR](https://github.com/larturi/flutter-qr)                                                   |                                                                                        |
+| 142 | <span><img src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>          | Flutter      | [Diseños Flutter](https://github.com/larturi/flutter-disenos)                                 |
