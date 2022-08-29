@@ -33,7 +33,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 | 20 | [React Lyrics](https://lyrics-react-lna.netlify.app)                           | [<span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>](https://github.com/larturi/react-lyrics-v2)                  |
 
 
-# All Repositories
+# Projects
 | #   | Project                                                                                          | -                                                                                                                                                     | -                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Twitter Clone React & Go                                                                         | [<span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>](https://github.com/larturi/react-twitter-clone)                     | [<span><img src="./icons/go.svg" alt="Golang" width="20px" height="20px"></span>](https://github.com/larturi/golang-twitter-clone)                  |
