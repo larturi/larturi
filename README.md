@@ -16,12 +16,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 #### Contact Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leandroarturi.com.ar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0173B1)](https://www.linkedin.com/in/leandroarturi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=cc2d28)](mailto:lea.arturi@gmail.com.com)
-
-
-[Contact Us](mailto:admin@cloudhadoop.com)
-
-
 
 
 #### Top 20 Projects
