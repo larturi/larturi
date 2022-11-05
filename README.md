@@ -8,12 +8,12 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) 
 [![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=03D3F7&color=212121)](#) 
-[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#) 
-[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#) 
+[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&color=E8D44D)](#) 
+[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white&color=2F73BF)](#) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=3E3F35&color=8BBE3D)](#) 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=E7392C)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=2592E5)](#)
 
 #### Contact Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leandroarturi.com.ar)
