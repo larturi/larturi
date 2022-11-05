@@ -14,9 +14,8 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 
-#### Contact me
-
-[![Protfolio](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://leandroarturi.com.ar)
+#### Contact Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leandroarturi.com.ar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarturi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lea.arturi@gmail.com)
 
