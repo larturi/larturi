@@ -6,13 +6,15 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=ffffff)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=red)](#)
+[![Next JS Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) 
+[![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#) 
+[![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+[![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#) 
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 
+#### Contact me
 
 |   Red                                                                                        |                                                        Link   |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -44,7 +46,18 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 | 19 | [Test Seis Sombreros](http://cloudapp.com.ar/testsombreros)                    | [<span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>](https://github.com/larturi/php-seis-sombreros)                     |                                                                                                                                                  |
 | 20 | [Red Social Recetas](http://www.recetas.cloudapp.com.ar)                       | [<span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>](https://github.com/larturi/laravel-recetas-cocina)<br> |
 
-#### More Projects
+
+#### Github Stats
+
+![Larturi's github stats](https://github-readme-stats.vercel.app/api?username=larturi&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+ <details>
+<summary>
+  More Projects
+</summary>
+   
+<br>
+
 | #   | Project                                                                                          | FE                                                                                                                                                     | BE                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [React Lyrics](https://lyrics-react-lna.netlify.app)                                           | [<span><img style="text-align: center;" src="./icons/react.svg" alt="React" width="20px" height="20px"></span>](https://github.com/larturi/react-lyrics-v2)                         |                                                                                                                                                       |
@@ -184,3 +197,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 | 135 | User Preferences                                                                                 | [<span><img style="text-align: center;" src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>](https://github.com/larturi/flutter-user-preferences)            |                                                                                                                                                       |
 | 136 | QR APP                                                                                           | [<span><img style="text-align: center;" src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>](https://github.com/larturi/flutter-qr)                          |                                                                                                                                                       |
 | 137 | Diseños Flutter                                                                                  | [<span><img style="text-align: center;" src="./icons/flutter.svg" alt="Flutter" width="20px" height="20px"></span>](https://github.com/larturi/flutter-disenos)                     |
+
+   
+</details>
+  
