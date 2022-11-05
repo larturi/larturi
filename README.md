@@ -19,6 +19,10 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=cc2d28)](mailto:lea.arturi@gmail.com.com)
 
 
+<a href="mailto:elcorreoquequieres@correo.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=cc2d28)</a>
+
+
+
 #### Top 20 Projects
 | #  | Project                                                                          | FE                                                                                                                                                | BE                                                                                                                                             |
 | -- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
