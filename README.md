@@ -2,13 +2,25 @@
 
 I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from the University of Buenos Aires. I am passionate about the world of development, which keeps me constantly learning. I am motivated by long-term projects, but I also enjoy solving problems. I am a pragmatic, flexible and organized person. I am always predisposed to learn and to offer my help.
 
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=ffffff)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=red)](#)
+
+
 |   Red                                                                                        |                                                        Link   |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>            | [leandroarturi.com.ar](https://leandroarturi.com.ar)        |
 | <span><img src="./icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px"></span> | [@leandroarturi](https://www.linkedin.com/in/leandroarturi) |
 | <span><img src="./icons/twitter.svg" alt="Twitter" width="20px" height="20px"></span>        | [@leandroarturi](https://twitter.com/leandroarturi)         |
 
-# Top 20 Projects
+#### Top 20 Projects
 | #  | Project                                                                          | FE                                                                                                                                                | BE                                                                                                                                             |
 | -- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1  | [Next Clon Tesla Shop](https://leandroarturi.com.ar)                           | [<span><img src="./icons/nextjs-icon.svg" alt="Next" width="20px" height="20px"></span>](https://github.com/larturi/next-teslo-shop)               | [<span><img src="./icons/nestjs.svg" alt="Nest.js" width="20px" height="20px">](https://github.com/larturi/nest-teslo-api)                     |
@@ -32,7 +44,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 | 19 | [Test Seis Sombreros](http://cloudapp.com.ar/testsombreros)                    | [<span><img src="./icons/php.svg" alt="Php" width="20px" height="20px"></span>](https://github.com/larturi/php-seis-sombreros)                     |                                                                                                                                                  |
 | 20 | [Red Social Recetas](http://www.recetas.cloudapp.com.ar)                       | [<span><img src="./icons/laravel.svg" alt="Laravel" width="20px" height="20px"></span>](https://github.com/larturi/laravel-recetas-cocina)<br> |
 
-# More Projects
+#### More Projects
 | #   | Project                                                                                          | FE                                                                                                                                                     | BE                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [React Lyrics](https://lyrics-react-lna.netlify.app)                                           | [<span><img style="text-align: center;" src="./icons/react.svg" alt="React" width="20px" height="20px"></span>](https://github.com/larturi/react-lyrics-v2)                         |                                                                                                                                                       |
