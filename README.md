@@ -6,19 +6,19 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Next JS Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) 
-[![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#) 
-[![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#) 
-[![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) 
+[![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=03D3F7&color=212121)](#) 
+[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](#) 
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 #### Contact Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leandroarturi.com.ar)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarturi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lea.arturi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0173B1)](https://www.linkedin.com/in/leandroarturi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=cc2d28)](lea.arturi@gmail.com)
 
 
 #### Top 20 Projects
