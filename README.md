@@ -16,11 +16,10 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 
 #### Contact me
 
-|   Red                                                                                        |                                                        Link   |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| <span><img src="./icons/react.svg" alt="React" width="20px" height="20px"></span>            | [leandroarturi.com.ar](https://leandroarturi.com.ar)        |
-| <span><img src="./icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px"></span> | [@leandroarturi](https://www.linkedin.com/in/leandroarturi) |
-| <span><img src="./icons/twitter.svg" alt="Twitter" width="20px" height="20px"></span>        | [@leandroarturi](https://twitter.com/leandroarturi)         |
+[![Protfolio](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://leandroarturi.com.ar)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroarturi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lea.arturi@gmail.com)
+
 
 #### Top 20 Projects
 | #  | Project                                                                          | FE                                                                                                                                                | BE                                                                                                                                             |
