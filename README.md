@@ -8,7 +8,6 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 [![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=03D3F7&color=212121)](#) 
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) 
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white&color=2F73BF)](#)
-<br/>
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white&color=519942)](#) 
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#) 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
