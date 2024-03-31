@@ -13,7 +13,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/gitlab-1E2028.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](#)
-[![GitHub](https://img.shields.io/badge/gitlab-1E2028.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-1E2028.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=2592E5)](#)
 
 #### Additional Expertise
