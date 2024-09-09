@@ -23,6 +23,7 @@ I am a Tech Lead & Full Stack Engineer, graduated in Systems Information from th
 [![Flask](https://img.shields.io/badge/flask-3670A1.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/terraform-000000.svg?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![Dynatrace](https://img.shields.io/badge/dynatrace-%230db7ed.svg?style=for-the-badge&logo=dynatrace&logoColor=71B828&color=F7F7F7)](#)
 
 #### Contact Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://leandroarturi.com.ar)
